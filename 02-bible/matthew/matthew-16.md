@@ -76,6 +76,8 @@ description: Matthew, Chapter 16
 
 **The Conditions of Discipleship.**
 
+24 Then Jesus said to his disciples, “Whoever wishes to come after me must deny himself, take up his cross, and follow me. ^matthew-16-24
+
 25 For whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it. ^matthew-16-25
 
 26 What profit would there be for one to gain the whole world and forfeit his life? Or what can one give in exchange for his life? ^matthew-16-26
