@@ -74,7 +74,7 @@ description: romans-chapter 16
 
 23 Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus greet you. ^romans-16-23
 
-24 (^romans-16-24
+24 ( ^romans-16-24
 
 **Doxology.**
 

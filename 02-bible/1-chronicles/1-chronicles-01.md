@@ -52,11 +52,17 @@ description: 1 Chronicles, Chapter 1
 
 16 the Arvadites, the Zemarites, and the Hamathites. ^1-chronicles-01-16
 
-17 The sons of Shem were Elam, Asshur, Arpachshad, Lud, and Aram. The sons of Aram were Uz, Hul, Gether, and Mash. 18 Arpachshad became the father of Shelah, and Shelah became the father of Eber. ^1-chronicles-01-17
+17 The sons of Shem were Elam, Asshur, Arpachshad, Lud, and Aram. The sons of Aram were Uz, Hul, Gether, and Mash.  ^1-chronicles-01-17
+
+18 Arpachshad became the father of Shelah, and Shelah became the father of Eber. ^1-chronicles-01-18
 
 19 Two sons were born to Eber; the first was named Peleg (for in his time the world was divided), and his brother was named Joktan. ^1-chronicles-01-19
 
-20 Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah, 21Hadoram, Uzal, Diklah, 22Ebal, Abimael, Sheba, ^1-chronicles-01-20
+20 Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,  ^1-chronicles-01-20
+
+21 Hadoram, Uzal, Diklah, ^1-chronicles-01-21
+
+22 Ebal, Abimael, Sheba, ^1-chronicles-01-22
 
 23 Ophir, Havilah, and Jobab; all these were the sons of Joktan. ^1-chronicles-01-23
 
