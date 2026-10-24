@@ -38,9 +38,13 @@ the abyss and wisdom—who can explore them?
 
 and prudent understanding, from eternity.
 
+5 * ^sirach-01-5
+
 6 The root of wisdom—to whom has it been revealed? ^sirach-01-6
 
 Her subtleties—who knows them?
+
+7 * ^sirach-01-7
 
 8 There is but one, wise and truly awesome, ^sirach-01-8
 

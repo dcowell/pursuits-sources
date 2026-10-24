@@ -28,6 +28,8 @@ description: Ezekiel, Chapter 16
 
 3 You shall say, Thus says the Lord G OD to Jerusalem: By origin and birth you belong to the land of the Canaanites; your father was an Amorite, your mother a Hittite. ^ezekiel-16-3
 
+4 As for your birth, on the day you were born your navel cord was not cut; you were not washed with water or anointed; you were not rubbed with salt or wrapped in swaddling clothes. ^ezekiel-16-4
+
 5 No eye looked on you with pity or compassion to do any of these things for you. Rather, on the day you were born you were left out in the field, rejected. ^ezekiel-16-5
 
 6 Then I passed by and saw you struggling in your blood, and I said to you in your blood, “Live!” ^ezekiel-16-6

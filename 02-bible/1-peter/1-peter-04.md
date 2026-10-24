@@ -52,6 +52,8 @@ description: 1 Peter, Chapter 4
 
 12 Beloved, do not be surprised that a trial by fire is occurring among you, as if something strange were happening to you. ^1-peter-04-12
 
+13 But rejoice to the extent that you share in the sufferings of Christ, so that when his glory is revealed you may also rejoice exultantly. ^1-peter-04-13
+
 14 If you are insulted for the name of Christ, blessed are you, for the Spirit of glory and of God rests upon you. ^1-peter-04-14
 
 15 But let no one among you be made to suffer as a murderer, a thief, an evildoer, or as an intriguer. ^1-peter-04-15
@@ -60,9 +62,7 @@ description: 1 Peter, Chapter 4
 
 17 For it is time for the judgment to begin with the household of God; if it begins with us, how will it end for those who fail to obey the gospel of God? ^1-peter-04-17
 
-18 “And if the righteous one is barely saved, ^1-peter-04-18
-
-where will the godless and the sinner appear?”
+18 “And if the righteous one is barely saved, where will the godless and the sinner appear?” ^1-peter-04-18
 
 19 As a result, those who suffer in accord with God’s will hand their souls over to a faithful creator as they do good. ^1-peter-04-19
 

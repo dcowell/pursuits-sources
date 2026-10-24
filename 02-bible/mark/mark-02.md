@@ -50,6 +50,8 @@ description: Mark, Chapter 2
 
 13 Once again he went out along the sea. All the crowd came to him and he taught them. ^mark-02-13
 
+14 As he passed by, he saw Levi, son of Alphaeus, sitting at the customs post. He said to him, “Follow me.” And he got up and followed him. ^mark-02-14
+
 15 While he was at table in his house, many tax collectors and sinners sat with Jesus and his disciples; for there were many who followed him. ^mark-02-15
 
 16 Some scribes who were Pharisees saw that he was eating with sinners and tax collectors and said to his disciples, “Why does he eat with tax collectors and sinners?” ^mark-02-16
@@ -75,6 +77,8 @@ description: Mark, Chapter 2
 24 At this the Pharisees said to him, “Look, why are they doing what is unlawful on the sabbath?” ^mark-02-24
 
 25 He said to them, “Have you never read what David did when he was in need and he and his companions were hungry? ^mark-02-25
+
+26 How he went into the house of God when Abiathar was high priest and ate the bread of offering that only the priests could lawfully eat, and shared it with his companions?” ^mark-02-26
 
 27 Then he said to them, “The sabbath was made for man, not man for the sabbath. ^mark-02-27
 

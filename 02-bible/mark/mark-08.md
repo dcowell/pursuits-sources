@@ -104,7 +104,9 @@ He dismissed them
 
 **The Conditions of Discipleship.**
 
-35 For whoever wishes to save his life will lose it, but whoever loses his life for my sake and that of the gospel will save it. ^48ac0f ^mark-08-35
+34 He summoned the crowd with his disciples and said* to them, “Whoever wishes to come after me must deny himself, take up his cross, and follow me. ^mark-08-34
+
+35 For whoever wishes to save his life will lose it, but whoever loses his life for my sake and that of the gospel will save it. ^mark-08-35
 
 36 What profit is there for one to gain the whole world and forfeit his life? ^mark-08-36
 

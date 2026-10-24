@@ -32,6 +32,10 @@ description: 2 Chronicles, Chapter 4
 
 6 Then he made ten basins for washing, placing five of them to the right and five to the left. In these the victims for the burnt offerings were washed; but the sea was for the priests to wash in. ^2-chronicles-04-6
 
+7 He made the menorahs of gold, ten of them as was prescribed, and placed them in the nave, five to the right and five to the left. ^2-chronicles-04-7
+
+8 He made ten tables and had them set in the nave, five to the right and five to the left; and he made a hundred golden bowls.e ^2-chronicles-04-8
+
 9 He made the court of the priests and the great courtyard and the gates of the courtyard; the gates he covered with bronze. ^2-chronicles-04-9
 
 10 The sea he placed off to the southeast from the south side of the house. ^2-chronicles-04-10

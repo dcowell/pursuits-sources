@@ -52,6 +52,10 @@ description: Philippians, Chapter 4
 
 13 I have the strength for everything through him who empowers me. ^philippians-04-13
 
+14 Do everything without grumbling or questioning, ^philippians-04-14
+
+15 that you may be blameless and innocent, children of God without blemish in the midst of a crooked and perverse generation,* among whom you shine like lights in the world, ^philippians-04-15
+
 16 For even when I was at Thessalonica you sent me something for my needs, not only once but more than once. ^philippians-04-16
 
 17 It is not that I am eager for the gift; rather, I am eager for the profit that accrues to your account. ^philippians-04-17

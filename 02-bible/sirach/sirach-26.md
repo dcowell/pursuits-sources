@@ -100,6 +100,24 @@ a beautiful face on a stately figure.
 
 so her shapely legs and steady feet.
 
+19 * ^sirach-26-19
+
+20 * ^sirach-26-20
+
+21 * ^sirach-26-21
+
+22 * ^sirach-26-22
+
+23 * ^sirach-26-23
+
+24 * ^sirach-26-24
+
+25 * ^sirach-26-25
+
+26 * ^sirach-26-26
+
+27 * ^sirach-26-27
+
 ### Dangers to Integrity and Friendship
 
 28 Two things bring grief to my heart, ^sirach-26-28

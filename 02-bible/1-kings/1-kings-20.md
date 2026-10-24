@@ -88,6 +88,8 @@ description: 1 Kings, Chapter 20
 
 33 Hearing this as a good omen, the men quickly took him at his word and said, “Ben-hadad is your brother.” He answered, “Go and get him.” When Ben-hadad came out to him, the king had him mount his chariot. ^1-kings-20-33
 
+34 Ben-hadad said to him, “The cities my father took from your father I will restore, and you may set up bazaars for yourself in Damascus, as my father did in Samaria.” Ahab replied, “For my part, I will set you free on those terms.” So he made a covenant with him and then set him free. ^1-kings-20-34
+
 **Prophetic Condemnation.**
 
 35 Acting on the word of the LORD, one of the guild prophets said to his companion, “Strike me.” But he refused to strike him. ^1-kings-20-35

@@ -20,6 +20,8 @@ description: Wisdom, Chapter 12
 
 ## Chapter 12
 
+1 * ^wisdom-12-1
+
 2 Therefore you rebuke offenders little by little, ^wisdom-12-2
 
 warn them, and remind them of the sins they are committing,

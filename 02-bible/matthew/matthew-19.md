@@ -58,7 +58,7 @@ description: Matthew, Chapter 19
 
 16 Now someone approached him and said, “Teacher, what good must I do to gain eternal life?” ^matthew-19-16
 
-17 He answered him, “Why do you ask me about the good? There is only One who is good. If you wish to enter into life, keep the commandments.” ^8bf292 ^matthew-19-17
+17 He answered him, “Why do you ask me about the good? There is only One who is good. If you wish to enter into life, keep the commandments.” ^matthew-19-17
 
 18 He asked him, “Which ones?” And Jesus replied, “‘You shall not kill; you shall not commit [[adultery]]; you shall not steal; you shall not bear false witness; ^matthew-19-18
 
@@ -66,9 +66,9 @@ description: Matthew, Chapter 19
 
 20 The young man said to him, “All of these I have observed. What do I still lack?” ^matthew-19-20
 
-21 Jesus said to him, “If you wish to be perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.” ^056675
+21 Jesus said to him, “If you wish to be perfect, go, sell what you have and give to [the] poor, and you will have treasure in heaven. Then come, follow me.” ^matthew-19-21
 
-22 When the young man heard this statement, he went away sad, for he had many possessions. ^582150 ^matthew-19-22
+22 When the young man heard this statement, he went away sad, for he had many possessions. ^matthew-19-22
 
 23 Then Jesus said to his disciples, “Amen, I say to you, it will be hard for one who is rich to enter the kingdom of heaven. ^matthew-19-23
 

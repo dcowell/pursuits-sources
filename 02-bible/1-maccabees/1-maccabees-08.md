@@ -80,6 +80,8 @@ description: 1 Maccabees, Chapter 8
 
 28 and to those who attack them there shall not be given grain, weapons, money, or ships, as seems best to Rome. They shall fulfill their obligations without deception. ^1-maccabees-08-28
 
+29 On these terms the Romans have made an agreement with the Jewish people. ^1-maccabees-08-29
+
 30 But if both parties hereafter agree to add or take away anything, they shall do as they choose, and whatever they shall add or take away shall be valid. ^1-maccabees-08-30
 
 31 “Moreover, concerning the wrongs that King Demetrius is doing to them, we have written to him thus: ‘Why have you made your yoke heavy upon our friends and allies the Jews? ^1-maccabees-08-31

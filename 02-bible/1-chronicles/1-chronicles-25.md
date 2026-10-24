@@ -26,6 +26,8 @@ description: 1 Chronicles, Chapter 25
 
 This is the list of those who performed this service:
 
+2 Of the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah, sons of Asaph, under the direction of Asaph, who prophesied under the guidance of the king. ^1-chronicles-25-2
+
 3 Of Jeduthun, these sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah; six, under the direction of their father Jeduthun, who prophesied to the accompaniment of a lyre, to give thanks and praise to the LORD. ^1-chronicles-25-3
 
 4 Of Heman, these sons of Heman: Bukkiah, Mattaniah, Uzziel, Shubael, and Jerimoth; Hananiah, Hanani, Eliathah, Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth. ^1-chronicles-25-4

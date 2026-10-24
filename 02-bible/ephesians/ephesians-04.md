@@ -38,11 +38,7 @@ description: Ephesians, Chapter 4
 
 7 But grace was given to each of us according to the measure of Christ’s gift. ^ephesians-04-7
 
-8 Therefore, it says: ^ephesians-04-8
-
-“He ascended on high and took prisoners captive;
-
-he gave gifts to men.”
+8 Therefore, it says: <br> “He ascended on high and took prisoners captive; <br> he gave gifts to men.” ^ephesians-04-8
 
 9 What does “he ascended” mean except that he also descended into the lower \[regions\] of the earth? ^ephesians-04-9
 
@@ -87,6 +83,8 @@ he gave gifts to men.”
 26 Be angry but do not sin; do not let the sun set on your anger, ^ephesians-04-26
 
 27 and do not leave room for the devil. ^ephesians-04-27
+
+28 The thief must no longer steal, but rather labor, doing honest work* with his [own] hands, so that he may have something to share with one in need. ^ephesians-04-28
 
 29 No foul language should come out of your mouths, but only such as is good for needed edification, that it may impart grace to those who hear. ^ephesians-04-29
 

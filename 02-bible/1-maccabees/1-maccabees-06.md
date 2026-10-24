@@ -142,7 +142,13 @@ description: 1 Maccabees, Chapter 6
 
 57 So he hastily decided to withdraw. He said to the king, the leaders of the army, and the soldiers: “We are growing weaker every day, our provisions are scanty, the place we are besieging is strong, and it is our duty to take care of the affairs of the kingdom. ^1-maccabees-06-57
 
+58 Therefore let us now come to terms with these people and make peace with them and all their nation. ^1-maccabees-06-58
+
 59 Let us grant them freedom to live according to their own laws as formerly; it was on account of their laws, which we abolished, that they became enraged and did all these things.” ^1-maccabees-06-59
+
+60 The proposal pleased the king and the leaders; he sent peace terms to the Jews, and they accepted. ^1-maccabees-06-60
+
+61 So the king and the leaders swore an oath to them, and on these terms the Jews evacuated the fortification. ^1-maccabees-06-61
 
 62 But when the king entered Mount Zion and saw how the place was fortified, he broke the oath he had sworn and gave orders to tear down the encircling wall. ^1-maccabees-06-62
 

@@ -45,7 +45,7 @@ bible_chapter: "02"
 
 8 The LORD God planted a garden in Eden, in the east, and placed there the man whom he had formed. ^genesis-02-8
 
-9 Out of the ground the LORD God made grow every tree that was delightful to look at and good for food, with the tree of life in the middle of the garden and the tree of the knowledge of good and evil[^1]. ^genesis-02-9
+9 Out of the ground the LORD God made grow every tree that was delightful to look at and good for food, with the tree of life in the middle of the garden and the tree of the knowledge of good and evil[ ^genesis-02-9
 
 10 A river rises in Eden to water the garden; beyond there it divides and becomes four branches. ^genesis-02-10
 

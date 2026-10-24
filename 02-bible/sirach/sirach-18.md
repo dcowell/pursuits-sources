@@ -26,6 +26,8 @@ description: sirach-chapter 18
 
 2 the LORD alone is just. ^sirach-18-2
 
+3 * ^sirach-18-3
+
 4 To whom has he given power to describe his works, ^sirach-18-4
 
 and who can search out his mighty deeds?

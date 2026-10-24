@@ -36,6 +36,8 @@ description: 2 Corinthians, Chapter 1
 
 6 If we are afflicted, it is for your encouragement and salvation; if we are encouraged, it is for your encouragement, which enables you to endure the same sufferings that we suffer. ^2-corinthians-01-6
 
+7 Our hope for you is firm, for we know that as you share in the sufferings, you also share in the encouragement. ^2-corinthians-01-7
+
 8 We do not want you to be unaware, brothers, of the affliction that came to us in the province of Asia; we were utterly weighed down beyond our strength, so that we despaired even of life. ^2-corinthians-01-8
 
 9 Indeed, we had accepted within ourselves the sentence of death, that we might trust not in ourselves but in God who raises the dead. ^2-corinthians-01-9

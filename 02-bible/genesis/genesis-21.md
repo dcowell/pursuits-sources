@@ -45,6 +45,8 @@ bible_chapter: "21"
 
 9 Sarah noticed the son whom Hagar the Egyptian had borne to [[abraham|Abraham]] playing with her son Isaac; ^genesis-21-9
 
+10 so she demanded of Abraham: “Drive out that slave and her son! No son of that slave is going to share the inheritance with my son Isaac!” ^genesis-21-10
+
 11 [[abraham|Abraham]] was greatly distressed because it concerned a son of his. ^genesis-21-11
 
 12 But God said to [[abraham|Abraham]]: Do not be distressed about the boy or about your slave woman. Obey Sarah, no matter what she asks of you; for it is through Isaac that descendants will bear your name. ^genesis-21-12

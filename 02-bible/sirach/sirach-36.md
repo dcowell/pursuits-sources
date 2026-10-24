@@ -60,6 +60,10 @@ who say, “There is no one besides me.”
 
 13 Gather all the tribes of Jacob, ^sirach-36-13
 
+14 * ^sirach-36-14
+
+15 * ^sirach-36-15
+
 16 that they may inherit the land as in days of old. ^sirach-36-16
 
 17 Show mercy to the people called by your name: ^sirach-36-17

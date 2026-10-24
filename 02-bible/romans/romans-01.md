@@ -44,6 +44,8 @@ description: romans-chapter 1
 
 10 always asking in my prayers that somehow by God’s will I may at last find my way clear to come to you. ^romans-01-10
 
+11 For I long to see you, that I may share with you some spiritual gift so that you may be strengthened, ^romans-01-11
+
 12 that is, that you and I may be mutually encouraged by one another’s faith, yours and mine. ^romans-01-12
 
 13 I do not want you to be unaware, brothers, that I often planned to come to you, though I was prevented until now, that I might harvest some fruit among you, too, as among the rest of the Gentiles. ^romans-01-13

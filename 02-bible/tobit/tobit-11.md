@@ -46,7 +46,7 @@ description: Tobit, Chapter 11
 
 11 with the fish gall in his hand and blew into his eyes. Holding him firmly, he said, “Courage, father.” Then he applied the medicine to his eyes, and it made them sting. ^tobit-11-11
 
-12<sup>,</sup>
+12 * ^tobit-11-12
 
 13 Tobiah used both hands to peel the white scales from the corners of his eyes. Tobit saw his son and threw his arms around him. ^tobit-11-13
 

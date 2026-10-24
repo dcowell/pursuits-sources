@@ -90,6 +90,10 @@ to the amazement of the many.
 
 poverty and riches—all are from the LORD.
 
+15 * ^sirach-11-15
+
+16 * ^sirach-11-16
+
 17 The Lord’s gift remains with the devout; ^sirach-11-17
 
 his favor brings lasting success.

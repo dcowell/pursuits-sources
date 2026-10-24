@@ -38,7 +38,7 @@ description: Luke, Chapter 14
 
 7 He told a parable to those who had been invited, noticing how they were choosing the places of honor at the table. ^luke-14-7
 
-8 “When you are invited by someone to a wedding banquet, do not recline at table in the place of honor. A more distinguished guest than you may have been invited by him, ^defc50 ^luke-14-8
+8 “When you are invited by someone to a wedding banquet, do not recline at table in the place of honor. A more distinguished guest than you may have been invited by him, ^luke-14-8
 
 9 and the host who invited both of you may approach you and say, ‘Give your place to this man,’ and then you would proceed with embarrassment to take the lowest place. ^luke-14-9
 
@@ -80,7 +80,7 @@ description: Luke, Chapter 14
 
 26 “If any one comes to me without hating his father and mother, wife and children, brothers and sisters, and even his own life, he cannot be my disciple. ^luke-14-26
 
-27 Whoever does not carry his own cross and come after me cannot be my disciple. ^9aa078 ^luke-14-27
+27 Whoever does not carry his own cross and come after me cannot be my disciple. ^luke-14-27
 
 28 Which of you wishing to construct a tower does not first sit down and calculate the cost to see if there is enough for its completion? ^luke-14-28
 
@@ -89,6 +89,8 @@ description: Luke, Chapter 14
 30 and say, ‘This one began to build but did not have the resources to finish.’ ^luke-14-30
 
 31 Or what king marching into battle would not first sit down and decide whether with ten thousand troops he can successfully oppose another king advancing upon him with twenty thousand troops? ^luke-14-31
+
+32 But if not, while he is still far away, he will send a delegation to ask for peace terms. ^luke-14-32
 
 33 In the same way, everyone of you who does not renounce all his possessions cannot be my disciple. ^luke-14-33
 

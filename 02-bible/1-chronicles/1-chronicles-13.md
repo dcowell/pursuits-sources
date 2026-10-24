@@ -20,13 +20,41 @@ description: 1 Chronicles, Chapter 13
 
 ## Chapter 13
 
-**Transfer of the Ark.**1 After David had taken counsel with his commanders of thousands and of hundreds, that is, with every leader,2he said to the whole assembly of Israel: “If it seems good to you, and is so decreed by the LORD our God, let us send to the rest of our kindred from all the districts of Israel, and also the priests and the Levites from their cities with pasture lands, that they may join us;3and let us bring the ark of our God here among us, for in the days of Saul we did not consult it.” 4And the whole assembly agreed to do it, for it seemed right in the eyes of all the people.
+**Transfer of the Ark.**
 
-5Then David assembled all Israel, from Shihor of Egypt to Lebo-hamath, to bring the ark of God from Kiriath-jearim.6David and all Israel went up to Baalah, that is, to Kiriath-jearim, of Judah, to bring up from there the ark of God, which was known by the name “LORD enthroned upon the cherubim.” 7They transported the ark of God on a new cart from the house of Abinadab; Uzzah and Ahio were guiding the cart,8while David and all Israel danced before God with all their might, with singing, and with lyres, harps, tambourines, cymbals, and trumpets.
+1 After David had taken counsel with his commanders of thousands and of hundreds, that is, with every leader, ^1-chronicles-13-1
 
-9As they reached the threshing floor of Chidon, Uzzah stretched out his hand to steady the ark, for the oxen were tipping it.10Then the LORD became angry with Uzzah and struck him, because he had laid his hand on the ark; he died there in God’s presence.11David was angry because the LORD’s anger had broken out against Uzzah. Therefore that place has been called Perez-uzzah even to this day.
+2 he said to the whole assembly of Israel: “If it seems good to you, and is so decreed by the LORD our God, let us send to the rest of our kindred from all the districts of Israel, and also the priests and the Levites from their cities with pasture lands, that they may join us; ^1-chronicles-13-2
 
-12David was afraid of God that day, and he said, “How can I bring in the ark of God to me?” 13Therefore he did not take the ark with him into the City of David, but deposited it instead at the house of Obed-edom the Gittite.14The ark of God remained in the house of Obed-edom with his family for three months, and the LORD blessed Obed-edom’s household and all that he possessed.
+3 and let us bring the ark of our God here among us, for in the days of Saul we did not consult it.” ^1-chronicles-13-3
+
+4 And the whole assembly agreed to do it, for it seemed right in the eyes of all the people. ^1-chronicles-13-4
+
+
+
+5 Then David assembled all Israel, from Shihor of Egypt to Lebo-hamath, to bring the ark of God from Kiriath-jearim. ^1-chronicles-13-5
+
+6 David and all Israel went up to Baalah, that is, to Kiriath-jearim, of Judah, to bring up from there the ark of God, which was known by the name “LORD enthroned upon the cherubim.” ^1-chronicles-13-6
+
+7 They transported the ark of God on a new cart from the house of Abinadab; Uzzah and Ahio were guiding the cart, ^1-chronicles-13-7
+
+8 while David and all Israel danced before God with all their might, with singing, and with lyres, harps, tambourines, cymbals, and trumpets. ^1-chronicles-13-8
+
+
+
+9 As they reached the threshing floor of Chidon, Uzzah stretched out his hand to steady the ark, for the oxen were tipping it. ^1-chronicles-13-9
+
+10 Then the LORD became angry with Uzzah and struck him, because he had laid his hand on the ark; he died there in God’s presence. ^1-chronicles-13-10
+
+11 David was angry because the LORD’s anger had broken out against Uzzah. Therefore that place has been called Perez-uzzah even to this day. ^1-chronicles-13-11
+
+
+
+12 David was afraid of God that day, and he said, “How can I bring in the ark of God to me?” ^1-chronicles-13-12
+
+13 Therefore he did not take the ark with him into the City of David, but deposited it instead at the house of Obed-edom the Gittite. ^1-chronicles-13-13
+
+14 The ark of God remained in the house of Obed-edom with his family for three months, and the LORD blessed Obed-edom’s household and all that he possessed. ^1-chronicles-13-14
 
 \* \[[13:5]\] Shihor of Egypt: the eastern branch of the Nile delta. Lebo-hamath: in southern Syria.
 

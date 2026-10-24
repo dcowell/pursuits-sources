@@ -52,6 +52,8 @@ description: 2 Chronicles, Chapter 31
 
 15 Under him in the priestly cities were Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah, who faithfully made the distribution to their brothers, great and small alike, according to their divisions. ^2-chronicles-31-15
 
+16 There was also a register by ancestral houses of males three years of age* and over, for all priests who were eligible to enter the house of the LORD according to the daily schedule to fulfill their service in the order of their divisions. ^2-chronicles-31-16
+
 17 The priests were inscribed in their family records according to their ancestral houses, as were the Levites twenty years of age and over according to their various offices and divisions. ^2-chronicles-31-17
 
 18 A distribution was also made to all who were inscribed in the family records, for their little ones, wives, sons and daughters—thus for the entire assembly, since they were to sanctify themselves by sharing faithfully in the votive offerings. ^2-chronicles-31-18

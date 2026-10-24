@@ -28,7 +28,7 @@ description: John, Chapter 5
 
 3 In these lay a large number of ill, blind, lame, and crippled. ^john-05-3
 
-4
+4 * ^john-05-4
 
 5 One man was there who had been ill for thirty-eight years. ^john-05-5
 

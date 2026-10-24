@@ -26,6 +26,8 @@ description: exodus-chapter 24
 
 2 Moses alone is to come close to the LORD; the others shall not come close, and the people shall not come up with them. ^exodus-24-2
 
+3 When Moses came to the people and related all the words and ordinances of the LORD, they all answered with one voice, “We will do everything that the LORD has told us.” ^exodus-24-3
+
 4 Moses then wrote down all the words of the LORD and, rising early in the morning, he built at the foot of the mountain an altar and twelve sacred stones for the twelve tribes of Israel. ^exodus-24-4
 
 5 Then, having sent young men of the Israelites to offer burnt offerings and sacrifice young bulls as communion offerings to the LORD, ^exodus-24-5

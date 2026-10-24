@@ -28,7 +28,7 @@ description: John, Chapter 15
 
 3 You are already pruned because of the word that I spoke to you. ^john-15-3
 
-4 Remain in me, as I remain in you. Just as a branch cannot bear fruit on its own unless it remains on the vine, so neither can you unless you remain in me. ^8e8c0f ^john-15-4
+4 Remain in me, as I remain in you. Just as a branch cannot bear fruit on its own unless it remains on the vine, so neither can you unless you remain in me. ^john-15-4
 
 5 I am the vine, you are the branches. Whoever remains in me and I in him will bear much fruit, because without me you can do nothing. ^john-15-5
 

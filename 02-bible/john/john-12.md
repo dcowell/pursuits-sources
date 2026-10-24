@@ -82,7 +82,9 @@ see, your king comes, seated upon an ass’s colt.”
 
 24 Amen, amen, I say to you, unless a grain of wheat falls to the ground and dies, it remains just a grain of wheat; but if it dies, it produces much fruit. ^john-12-24
 
-25 Whoever loves his life loses it, and whoever hates his life in this world will preserve it for eternal life. ^d540b6 ^john-12-25
+25 Whoever loves his life loses it, and whoever hates his life in this world will preserve it for eternal life. ^john-12-25
+
+26 Whoever serves me must follow me, and where I am, there also will my servant be. The Father will honor whoever serves me. ^john-12-26
 
 27 “I am troubled now. Yet what should I say? ‘Father, save me from this hour’? But it was for this purpose that I came to this hour. ^john-12-27
 

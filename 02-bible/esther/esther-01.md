@@ -18,69 +18,69 @@ description: esther-chapter 1
 
 # Esther, Chapter 1
 
-CHAPTER A
+## CHAPTER A
 
 **Dream of Mordecai.**
 
-1 In the second year of the reign of Ahasuerus the great, on the first day of Nisan, Mordecai, son of Jair, son of Shimei, son of Kish, of the tribe of Benjamin, had a dream. ^esther-01-1
+1a. In the second year of the reign of Ahasuerus the great, on the first day of Nisan, Mordecai, son of Jair, son of Shimei, son of Kish, of the tribe of Benjamin, had a dream. ^esther-01-1a
 
-2 He was a Jew residing in the city of Susa, a prominent man who served at the king’s court, ^esther-01-2
+1b. He was a Jew residing in the city of Susa, a prominent man who served at the king’s court, ^esther-01-1b
 
-3 and one of the captives whom Nebuchadnezzar, king of Babylon, had taken from Jerusalem with Jeconiah, king of Judah. ^esther-01-3
+1c. and one of the captives whom Nebuchadnezzar, king of Babylon, had taken from Jerusalem with Jeconiah, king of Judah. ^esther-01-1c
 
-4 This was his dream. There was noise and tumult, thunder and earthquake—confusion upon the earth. ^esther-01-4
+1d. This was his dream. There was noise and tumult, thunder and earthquake—confusion upon the earth. ^esther-01-1d
 
-5 Two great dragons advanced, both poised for combat. They uttered a mighty cry, ^esther-01-5
+1e. Two great dragons advanced, both poised for combat. They uttered a mighty cry, ^esther-01-1e
 
-6 and at their cry every nation prepared for war, to fight against the nation of the just. ^esther-01-6
+1f. and at their cry every nation prepared for war, to fight against the nation of the just. ^esther-01-1f
 
-7 It was a dark and gloomy day. Tribulation and distress, evil and great confusion, lay upon the earth. ^esther-01-7
+1g. It was a dark and gloomy day. Tribulation and distress, evil and great confusion, lay upon the earth. ^esther-01-1g
 
-8 The whole nation of the just was shaken with fear at the evils to come upon them, and they expected to perish. ^esther-01-8
+1h. The whole nation of the just was shaken with fear at the evils to come upon them, and they expected to perish. ^esther-01-1h
 
-9 Then they cried out to God, and from their crying there arose, as though from a tiny spring, a mighty river, a flood of water. ^esther-01-9
+1i. Then they cried out to God, and from their crying there arose, as though from a tiny spring, a mighty river, a flood of water. ^esther-01-1i
 
-10 The light of the sun broke forth; the lowly were exalted and they devoured the boastful. ^esther-01-10
+1k. The light of the sun broke forth; the lowly were exalted and they devoured the boastful. ^esther-01-1k
 
-11 Having seen this dream and what God intended to do, Mordecai awoke. He kept it in mind, and tried in every way, until night, to understand its meaning. ^esther-01-11
+1l. Having seen this dream and what God intended to do, Mordecai awoke. He kept it in mind, and tried in every way, until night, to understand its meaning. ^esther-01-1l
 
 **Mordecai Thwarts an Assassination.**
 
-12 Mordecai lodged in the courtyard with Bigthan and Teresh, two eunuchs of the king who guarded the courtyard. ^esther-01-12
+1m. Mordecai lodged in the courtyard with Bigthan and Teresh, two eunuchs of the king who guarded the courtyard. ^esther-01-1m
 
-13 He overheard them plotting, investigated their plans, and discovered that they were preparing to assassinate King Ahasuerus. So he informed the king about them. ^esther-01-13
+1n. He overheard them plotting, investigated their plans, and discovered that they were preparing to assassinate King Ahasuerus. So he informed the king about them. ^esther-01-1n
 
-14 The king had the two eunuchs questioned and, upon their confession, put to death. ^esther-01-14
+1o. The king had the two eunuchs questioned and, upon their confession, put to death. ^esther-01-1o
 
-15 Then the king had these things recorded; Mordecai, too, put them into writing. ^esther-01-15
+1p. Then the king had these things recorded; Mordecai, too, put them into writing. ^esther-01-1p
 
-16 The king also appointed Mordecai to serve at the court, and rewarded him for his actions. ^esther-01-16
+1q. The king also appointed Mordecai to serve at the court, and rewarded him for his actions. ^esther-01-1q
 
-17 Haman, however, son of Hammedatha, a Bougean, who was held in high honor by the king, sought to harm Mordecai and his people because of the two eunuchs of the king. ^esther-01-17
+1r. Haman, however, son of Hammedatha, a Bougean, who was held in high honor by the king, sought to harm Mordecai and his people because of the two eunuchs of the king. ^esther-01-1r
 
-\* (A:1) The genealogy of Mordecai is designed to reflect opposition to Israel’s enemy Haman, an Agagite (v. [17]). In [1 Sm 15:1] – [9], Saul (whose father’s name was Kish, of the tribe of Benjamin) conquered Agag the Amalekite.
+\* (1:1a) The genealogy of Mordecai is designed to reflect opposition to Israel’s enemy Haman, an Agagite (v. [17]). In [1 Sm 15:1] – [9], Saul (whose father’s name was Kish, of the tribe of Benjamin) conquered Agag the Amalekite.
 
-\* (A:2] – [3) Repeats information from [2:5] – [6], on which see note, but states that Mordecai is already a court official. In the Hebrew text, Mordecai is not given this rank until [7:10] – [8:2].
+\* (1:1b] – [1c) Repeats information from [2:5] – [6], on which see note, but states that Mordecai is already a court official. In the Hebrew text, Mordecai is not given this rank until [7:10] – [8:2].
 
-\* (A:4) An interpretation of the dream that relates its features to the plot of the book is given in [F:1] – [6].
+\* (1:1d) An interpretation of the dream that relates its features to the plot of the book is given in [10:3a] – [3f].
 
-\* (A:12] – [17) Retells the story in [2:21] – [23], but with several differences. Addition A has Mordecai inform the king directly, whereas in [2:22] Mordecai informs the king through Esther after she has become queen. [A:16] has Mordecai rewarded immediately after his service, whereas the Hebrew text defers the reward of Mordecai to [6:3] – [13]. In [A:17], the failure of the eunuchs’ plot becomes Haman’s reason for seeking the destruction of Mordecai and his people, something which the Hebrew text attributes to Mordecai’s refusal to bow to Haman (see note on [3:2]).
+\* (1:1m] – [r) Retells the story in [2:21] – [23], but with several differences. Addition A has Mordecai inform the king directly, whereas in [2:22] Mordecai informs the king through Esther after she has become queen. [1:1p] has Mordecai rewarded immediately after his service, whereas the Hebrew text defers the reward of Mordecai to [6:3] – [13]. In [1:1q], the failure of the eunuchs’ plot becomes Haman’s reason for seeking the destruction of Mordecai and his people, something which the Hebrew text attributes to Mordecai’s refusal to bow to Haman (see note on [3:2]).
 
-\* (A:17) A Bougean: the origin of this term is unknown; it may represent a garbled attempt to render the Hebrew “Agagite” ([3:1]). In the Greek additions Haman not only knows the plot to assassinate the king, but is apparently a co-conspirator.
+\* (1:1r) A Bougean: the origin of this term is unknown; it may represent a garbled attempt to render the Hebrew “Agagite” ([3:1]). In the Greek additions Haman not only knows the plot to assassinate the king, but is apparently a co-conspirator.
 
-a. (A:1) [Est 2:5].
+a. (1:1a) [Est 2:5].
 
-b. (A:3) [Est 2:6]; [[2-kings-24|2 Kgs 24]]:15; [2 Chr 36:9] – [10]; [Jer 22:24] – [30]; [24:1]; [29:1] – [2].
+b. (1:1c) [Est 2:6]; [[2-kings-24|2 Kgs 24]]:15; [2 Chr 36:9] – [10]; [Jer 22:24] – [30]; [24:1]; [29:1] – [2].
 
-c. (A:4] – [10) [Est F:2], [4] – [6].
+c. (1:1d] – [1j) [Est 10:3b], [4] – [6].
 
-d. (A:9] – [10) [Est F:3].
+d. (1:1i] – [1j) [Est 10:3c].
 
-e. (A:12] – [15) [Est 2:21] – [23]; [6:1] – [3].
+e. (1:1m] – [1p) [Est 2:21] – [23]; [6:1] – [3].
 
-f. (A:16) [Est 6:3].
+f. (1:1q) [Est 6:3].
 
-g. (A:17) [Est 3:1] – [15]; [B:1] – [7]; [E:13].
+g. (1:1r) [Est 3:1] – [15]; [3:13a] – [7]; [E:13].
 
 ## Ii. Esther Becomes Queen
 
@@ -112,7 +112,7 @@ g. (A:17) [Est 3:1] – [15]; [B:1] – [7]; [E:13].
 
 11 to bring Queen Vashti into his presence wearing the royal crown, that he might display her beauty to the populace and the officials, for she was lovely to behold. ^esther-01-11
 
-12 But Queen Vashti refused to come at the royaLORDer issued through the eunuchs. At this the king’s wrath flared up, and he burned with fury. ^esther-01-12
+12 But Queen Vashti refused to come at the royal order issued through the eunuchs. At this the king’s wrath flared up, and he burned with fury. ^esther-01-12
 
 13 He conferred with the sages who understood the times, because the king’s business was conducted in general consultation with lawyers and jurists. ^esther-01-13
 

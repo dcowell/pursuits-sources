@@ -26,6 +26,8 @@ description: Hebrews, Chapter 6
 
 3 And we shall do this, if only God permits. ^hebrews-06-3
 
+4 For it is impossible in the case of those who have once been enlightened and tasted the heavenly gift* and shared in the holy Spirit ^hebrews-06-4
+
 5 and tasted the good word of God and the powers of the age to come, ^hebrews-06-5
 
 6 and then have fallen away, to bring them to repentance again, since they are recrucifying the Son of God for themselves and holding him up to contempt. ^hebrews-06-6
@@ -33,6 +35,8 @@ description: Hebrews, Chapter 6
 7 Ground that has absorbed the rain falling upon it repeatedly and brings forth crops useful to those for whom it is cultivated receives a blessing from God. ^hebrews-06-7
 
 8 But if it produces thorns and thistles, it is rejected; it will soon be cursed and finally burned. ^hebrews-06-8
+
+9 But we are sure in your regard, beloved, of better things related to salvation, even though we speak in this way. ^hebrews-06-9
 
 10 For God is not unjust so as to overlook your work and the love you have demonstrated for his name by having served and continuing to serve the holy ones. ^hebrews-06-10
 

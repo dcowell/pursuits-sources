@@ -110,7 +110,7 @@ and a daughter-in-law against her mother-in-law;
 
 **The Conditions of Discipleship.**
 
-37 “Whoever loves father or mother more than me is not worthy of me, and whoever loves son or daughter more than me is not worthy of me; ^809266 ^matthew-10-37
+37 “Whoever loves father or mother more than me is not worthy of me, and whoever loves son or daughter more than me is not worthy of me; ^matthew-10-37
 
 38 and whoever does not take up his cross and follow after me is not worthy of me. ^matthew-10-38
 

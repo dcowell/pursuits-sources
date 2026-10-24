@@ -50,6 +50,8 @@ Yes. Amen.
 
 **The First Vision.**
 
+9 I, John, your brother, who share with you the distress, the kingdom, and the endurance we have in Jesus, found myself on the island called Patmos* because I proclaimed God’s word and gave testimony to Jesus. ^revelation-01-9
+
 10 I was caught up in spirit on the Lord’s day and heard behind me a voice as loud as a trumpet, ^revelation-01-10
 
 11 which said, “Write on a scroll what you see and send it to the seven churches: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.” ^revelation-01-11

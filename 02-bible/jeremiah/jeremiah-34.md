@@ -58,6 +58,8 @@ description: Jeremiah, Chapter 34
 
 17 Therefore, thus says the LORD: You for your part did not obey me by proclaiming freedom for your families and neighbors. So I now proclaim freedom for you—oracle of the LORD —for the sword, starvation, and disease. I will make you an object of horror to all the kingdoms of the earth. ^jeremiah-34-17
 
+18 Those who violated my covenant and did not observe the terms of the covenant they made in my presence—I will make them like the calf which they cut in two so they could pass between its parts— ^jeremiah-34-18
+
 19 the princes of Judah and of Jerusalem, the court officials, the priests, and all the people of the land, who passed between the parts of the calf. ^jeremiah-34-19
 
 20 These I will hand over to their enemies, to those who seek their lives: their corpses shall become food for the birds of the air and the beasts of the field. ^jeremiah-34-20

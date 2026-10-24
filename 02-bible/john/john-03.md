@@ -26,7 +26,7 @@ description: John, Chapter 3
 
 2 He came to Jesus at night and said to him, “Rabbi, we know that you are a teacher who has come from God, for no one can do these signs that you are doing unless God is with him.” ^john-03-2
 
-3 Jesus answered and said to him, “Amen, amen, I say to you, no one can see the kingdom of God without being born from above.” ^ed39a2 ^john-03-3
+3 Jesus answered and said to him, “Amen, amen, I say to you, no one can see the kingdom of God without being born from above.” ^john-03-3
 
 4 Nicodemus said to him, “How can a person once grown old be born again? Surely he cannot reenter his mother’s womb and be born again, can he?” ^john-03-4
 

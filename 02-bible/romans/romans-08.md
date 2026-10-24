@@ -66,6 +66,8 @@ description: romans-chapter 8
 
 20 for creation was made subject to futility, not of its own accord but because of the one who subjected it, in hope ^romans-08-20
 
+21 that creation itself would be set free from slavery to corruption and share in the glorious freedom of the children of God. ^romans-08-21
+
 22 We know that all creation is groaning in labor pains even until now; ^romans-08-22
 
 23 and not only that, but we ourselves, who have the firstfruits of the Spirit, we also groan within ourselves as we wait for adoption, the redemption of our bodies. ^romans-08-23

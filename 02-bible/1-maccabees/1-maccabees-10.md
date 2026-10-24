@@ -26,6 +26,8 @@ description: 1 Maccabees, Chapter 10
 
 2 When King Demetrius heard of it, he mustered a very large army and marched out to engage him in battle. ^1-maccabees-10-2
 
+3 Demetrius sent a letter to Jonathan written in peaceful terms, to exalt him; ^1-maccabees-10-3
+
 4 for he said: “Let us be the first to make peace with him, before he makes peace with Alexander against us, ^1-maccabees-10-4
 
 5 since he will remember all the wrongs we have done to him, his brothers, and his nation.” ^1-maccabees-10-5
@@ -52,6 +54,8 @@ description: 1 Maccabees, Chapter 10
 
 16 He said, “Shall we ever find another man like him? Let us now make him our friend and ally.” ^1-maccabees-10-16
 
+17 So he sent Jonathan a letter written in these terms: ^1-maccabees-10-17
+
 18 “King Alexander sends greetings to his brother Jonathan. ^1-maccabees-10-18
 
 19 We have heard of you, that you are a mighty warrior and worthy to be our friend. ^1-maccabees-10-19
@@ -77,6 +81,8 @@ description: 1 Maccabees, Chapter 10
 28 We will grant you many exemptions and will bestow gifts on you. ^1-maccabees-10-28
 
 29 “I now free you and exempt all the Jews from the tribute, the salt tax, and the crown levies. ^1-maccabees-10-29
+
+30 Instead of collecting the third of the grain and the half of the fruit of the trees that should be my share, I renounce the right from this day forward. Neither now nor in the future will I collect them from the land of Judah or from the three districts annexed from Samaria.* ^1-maccabees-10-30
 
 31 Let Jerusalem and her territory, her tithes and her tolls, be sacred and free from tax. ^1-maccabees-10-31
 

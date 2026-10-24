@@ -39,11 +39,8 @@ description: 1 Corinthians, Chapter 2
 8 and which none of the rulers of this age knew; for if they had known it, they would not have crucified the Lord of glory. ^1-corinthians-02-8
 
 9 But as it is written: ^1-corinthians-02-9
-
 “What eye has not seen, and ear has not heard,
-
 and what has not entered the human heart,
-
 what God has prepared for those who love him,”
 
 10 this God has revealed to us through the Spirit. ^1-corinthians-02-10
@@ -53,6 +50,8 @@ For the Spirit scrutinizes everything, even the depths of God.
 11 Among human beings, who knows what pertains to a person except the spirit of the person that is within? Similarly, no one knows what pertains to God except the Spirit of God. ^1-corinthians-02-11
 
 12 We have not received the spirit of the world but the Spirit that is from God, so that we may understand the things freely given us by God. ^1-corinthians-02-12
+
+13 And we speak about them not with words taught by human wisdom, but with words taught by the Spirit, describing spiritual realities in spiritual terms. ^1-corinthians-02-13
 
 14 Now the natural person does not accept what pertains to the Spirit of God, for to him it is foolishness, and he cannot understand it, because it is judged spiritually. ^1-corinthians-02-14
 

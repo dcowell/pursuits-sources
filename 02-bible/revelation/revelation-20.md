@@ -32,6 +32,8 @@ description: Revelation, Chapter 20
 
 5 The rest of the dead did not come to life until the thousand years were over. This is the first resurrection. ^revelation-20-5
 
+6 Blessed and holy is the one who shares in the first resurrection. The second death has no power over these; they will be priests of God and of Christ, and they will reign with him for [the] thousand years. ^revelation-20-6
+
 7 When the thousand years are completed, Satan will be released from his prison. ^revelation-20-7
 
 8 He will go out to deceive the nations at the four corners of the earth, Gog and Magog, to gather them for battle; their number is like the sand of the sea. ^revelation-20-8

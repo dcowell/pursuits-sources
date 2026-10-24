@@ -102,6 +102,8 @@ and those who have never heard of him shall understand.”
 
 26 For Macedonia and Achaia have decided to make some contribution for the poor among the holy ones in Jerusalem; ^romans-15-26
 
+27 they decided to do it, and in fact they are indebted to them, for if the Gentiles have come to share in their spiritual blessings, they ought also to serve them in material blessings. ^romans-15-27
+
 28 So when I have completed this and safely handed over this contribution to them, I shall set out by way of you to Spain; ^romans-15-28
 
 29 and I know that in coming to you I shall come in the fullness of Christ’s blessing. ^romans-15-29

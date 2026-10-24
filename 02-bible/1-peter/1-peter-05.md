@@ -22,6 +22,8 @@ description: 1 Peter, Chapter 5
 
 **Advice to Presbyters.**
 
+1 So I exhort the presbyters* among you, as a fellow presbyter and witness to the sufferings of Christ and one who has a share in the glory to be revealed. ^1-peter-05-1
+
 2 Tend the flock of God in your midst, \[overseeing\] not by constraint but willingly, as God would have it, not for shameful profit but eagerly. ^1-peter-05-2
 
 3 Do not lord it over those assigned to you, but be examples to the flock. ^1-peter-05-3

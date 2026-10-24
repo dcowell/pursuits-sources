@@ -22,6 +22,8 @@ description: Tobit, Chapter 6
 
 **On the Way to Rages.**
 
+1 * ^tobit-06-1
+
 2 When the young man left home, accompanied by the angel, the dog followed Tobiah out and went along with them. Both journeyed along, and when the first night came, they camped beside the Tigris River. ^tobit-06-2
 
 3 When the young man went down to wash his feet in the Tigris River, a large fish leaped out of the water and tried to swallow his foot. He shouted in alarm. ^tobit-06-3

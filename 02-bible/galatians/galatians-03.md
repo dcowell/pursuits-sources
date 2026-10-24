@@ -54,6 +54,8 @@ description: Galatians, Chapter 3
 
 **The Law Did Not Nullify the Promise.**
 
+15 Brothers, in human terms I say that no one can annul or amend even a human will once ratified. ^galatians-03-15
+
 16 Now the promises were made to [[abraham|Abraham]] and to his descendant. It does not say, “And to descendants,” as referring to many, but as referring to one, “And to your descendant,” who is Christ. ^galatians-03-16
 
 17 This is what I mean: the law, which came four hundred and thirty years afterward, does not annul a covenant previously ratified by God, so as to cancel the promise. ^galatians-03-17

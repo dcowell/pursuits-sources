@@ -66,6 +66,8 @@ description: John, Chapter 19
 
 22 Pilate answered, “What I have written, I have written.” ^john-19-22
 
+23 When the soldiers had crucified Jesus, they took his clothes and divided them into four shares, a share for each soldier.l They also took his tunic, but the tunic was seamless, woven in one piece from the top down. ^john-19-23
+
 24 So they said to one another, “Let’s not tear it, but cast lots for it to see whose it will be,” in order that the passage of scripture might be fulfilled \[that says\]: ^john-19-24
 
 “They divided my garments among them,

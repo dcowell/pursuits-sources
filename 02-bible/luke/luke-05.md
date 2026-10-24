@@ -80,6 +80,8 @@ description: Luke, Chapter 5
 
 **The Call of Levi.**
 
+27 After this he went out and saw a tax collector named Levi sitting at the customs post. He said to him, “Follow me.” ^luke-05-27
+
 28 And leaving everything behind, he got up and followed him. ^luke-05-28
 
 29 Then Levi gave a great banquet for him in his house, and a large crowd of tax collectors and others were at table with them. ^luke-05-29

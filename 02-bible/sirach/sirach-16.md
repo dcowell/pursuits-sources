@@ -86,6 +86,10 @@ the hope of the righteous, God never leaves unfulfilled.
 
 each receives according to their deeds.
 
+15 * ^sirach-16-15
+
+16 * ^sirach-16-16
+
 17 Do not say: “I am hidden from God; ^sirach-16-17
 
 and on high who remembers me?

@@ -154,11 +154,15 @@ description: 1 Maccabees, Chapter 11
 
 61 But when he set out for Gaza, the people of Gaza shut him out. So he besieged it, and burned and plundered its suburbs. ^1-maccabees-11-61
 
+62 Then the people of Gaza appealed to Jonathan, and he granted them terms of peace. He took the sons of their leaders as hostages and sent them to Jerusalem. He then traveled on through the province as far as Damascus. ^1-maccabees-11-62
+
 63 Jonathan heard that the generals of Demetrius had come with a strong force to Kadesh in Galilee, intending to remove him from office. ^1-maccabees-11-63
 
 64 So he went to meet them, leaving his brother Simon in the province. ^1-maccabees-11-64
 
 65 Simon encamped against Beth-zur, attacked it for many days, and shut in the inhabitants. ^1-maccabees-11-65
+
+66 They appealed to him, and he granted them terms of peace. He expelled them from the city, took possession of it, and put a garrison there. ^1-maccabees-11-66
 
 67 Meanwhile, Jonathan and his army pitched their camp near the waters of Gennesaret, and at daybreak they went to the plain of Hazor. ^1-maccabees-11-67
 

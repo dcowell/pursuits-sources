@@ -84,7 +84,7 @@ description: Mark, Chapter 15
 
 27 With him they crucified two revolutionaries, one on his right and one on his left. ^mark-15-27
 
-\[28\]
+28 * ^mark-15-28
 
 29 Those passing by reviled him, shaking their heads and saying, “Aha! You who would destroy the temple and rebuild it in three days, ^mark-15-29
 

@@ -20,9 +20,7 @@ description: Baruch, Chapter 6
 
 ## Chapter 6
 
-1 A copy of the letter which Jeremiah sent to those led captive to Babylon by the king of the Babylonians, to tell them what God had commanded him: ^baruch-06-1
-
-For the sins you committed before God, you are being led captive to Babylon by Nebuchadnezzar, king of the Babylonians.
+1 A copy of the letter which Jeremiah sent to those led captive to Babylon by the king of the Babylonians, to tell them what God had commanded him: For the sins you committed before God, you are being led captive to Babylon by Nebuchadnezzar, king of the Babylonians. ^baruch-06-1
 
 2 When you reach Babylon you will be there many years, a long time—seven generations; after that I will bring you back from there in peace. ^baruch-06-2
 
@@ -73,6 +71,8 @@ For the sins you committed before God, you are being led captive to Babylon by N
 25 Since they have no feet, they are carried shoulder high, displaying to all how worthless they are; even those who worship them are put to shame ^baruch-06-25
 
 26 because, if they fall to the ground, the worshipers must pick them up. They neither move of themselves if one sets them upright, nor come upright if they are tipped over; offerings are set out for them as for the dead. ^baruch-06-26
+
+27 Their priests sell their sacrifices for their own advantage. Likewise their wives cure some of the meat, but they do not share it with the poor and the weak; ^baruch-06-27
 
 28 women ritually unclean or at childbirth handle their sacrifices. From such things, know that they are not gods; do not fear them. ^baruch-06-28
 
@@ -130,9 +130,7 @@ For the sins you committed before God, you are being led captive to Babylon by N
 
 55 They cannot resist a king or enemy forces. ^baruch-06-55
 
-56 How then can it be admitted or thought that they are gods? ^baruch-06-56
-
-They are safe from neither thieves nor bandits, these wooden and silvered and gilded gods.
+56 How then can it be admitted or thought that they are gods? They are safe from neither thieves nor bandits, these wooden and silvered and gilded gods. ^baruch-06-56
 
 57 Anyone who can will strip off the gold and the silver, and go away with the clothing that was on them; they cannot help themselves. ^baruch-06-57
 

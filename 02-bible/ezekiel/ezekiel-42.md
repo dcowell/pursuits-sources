@@ -36,6 +36,8 @@ description: Ezekiel, Chapter 42
 
 7 The outside walls ran parallel to the chambers along the outer court, a length of fifty cubits. ^ezekiel-42-7
 
+8 The chambers facing the outer court were fifty cubits long; thus the wall along the nave was a hundred cubits. ^ezekiel-42-8
+
 9 At the base of these chambers, there was an entryway from the east so that one could enter from the outer court ^ezekiel-42-9
 
 10 where the wall of the court began. ^ezekiel-42-10

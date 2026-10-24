@@ -28,7 +28,7 @@ CHAPTER 18*
 
 2 He called a child over, placed it in their midst, ^matthew-18-2
 
-3 and said, “Amen, I say to you, unless you turn and become like children, you will not enter the kingdom of heaven. ^92ee5c ^matthew-18-3
+3 and said, “Amen, I say to you, unless you turn and become like children, you will not enter the kingdom of heaven. ^matthew-18-3
 
 4 Whoever humbles himself like this child is the greatest in the kingdom of heaven. ^matthew-18-4
 
@@ -48,6 +48,8 @@ CHAPTER 18*
 
 10 “See that you do not despise one of these little ones, for I say to you that their angels in heaven always look upon the face of my heavenly Father. ^matthew-18-10
 
+11 * ^matthew-18-11
+
 12 What is your opinion? If a man has a hundred sheep and one of them goes astray, will he not leave the ninety-nine in the hills and go in search of the stray? ^matthew-18-12
 
 13 And if he finds it, amen, I say to you, he rejoices more over it than over the ninety-nine that did not stray. ^matthew-18-13
@@ -66,7 +68,7 @@ CHAPTER 18*
 
 19 Again, \[amen,\] I say to you, if two of you agree on earth about anything for which they are to pray, it shall be granted to them by my heavenly Father. ^matthew-18-19
 
-20 For where two or three are gathered together in my name, there am I in the midst of them.” ^060f09 ^matthew-18-20
+20 For where two or three are gathered together in my name, there am I in the midst of them.” ^matthew-18-20
 
 **The Parable of the Unforgiving Servant.**
 

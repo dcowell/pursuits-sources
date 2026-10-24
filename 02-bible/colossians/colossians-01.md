@@ -48,43 +48,29 @@ description: Colossians, Chapter 1
 
 11 strengthened with every power, in accord with his glorious might, for all endurance and patience, with joy ^colossians-01-11
 
+12 giving thanks to the Father, who has made you fit to share in the inheritance of the holy ones in light. ^colossians-01-12
+
 13 He delivered us from the power of darkness and transferred us to the kingdom of his beloved Son, ^colossians-01-13
 
 14 in whom we have redemption, the forgiveness of sins. ^colossians-01-14
 
-# Ii. the Preeminence of Christ
+# II. the Preeminence of Christ
 
 ## His Person and Work
 
-15 He is the image of the invisible God, ^colossians-01-15
+15 He is the image of the invisible God, the firstborn of all creation. ^colossians-01-15
 
-the firstborn of all creation.
-
-16 For in him were created all things in heaven and on earth, ^colossians-01-16
-
-the visible and the invisible,
-
-whether thrones or dominions or principalities or powers;
-
-all things were created through him and for him.
+16 For in him were created all things in heaven and on earth, the visible and the invisible, whether thrones or dominions or principalities or powers; all things were created through him and for him. ^colossians-01-16
 
 17 He is before all things, ^colossians-01-17
 
 and in him all things hold together.
 
-18 He is the head of the body, the church. ^colossians-01-18
-
-He is the beginning, the firstborn from the dead,
-
-that in all things he himself might be preeminent.
+18 He is the head of the body, the church. He is the beginning, the firstborn from the dead, that in all things he himself might be preeminent. ^colossians-01-18
 
 19 For in him all the fullness was pleased to dwell, ^colossians-01-19
 
-20 and through him to reconcile all things for him, ^colossians-01-20
-
-making peace by the blood of his cross
-
-\[through him\], whether those on earth or those in heaven.
+20 and through him to reconcile all things for him, making peace by the blood of his cross \[through him\], whether those on earth or those in heaven. ^colossians-01-20
 
 21 And you who once were alienated and hostile in mind because of evil deeds ^colossians-01-21
 

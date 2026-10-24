@@ -64,6 +64,8 @@ description: 1 Timothy, Chapter 6
 
 17 Tell the rich in the present age not to be proud and not to rely on so uncertain a thing as wealth but rather on God, who richly provides us with all things for our enjoyment. ^1-timothy-06-17
 
+18 Tell them to do good, to be rich in good works, to be generous, ready to share, ^1-timothy-06-18
+
 19 thus accumulating as treasure a good foundation for the future, so as to win the life that is true life. ^1-timothy-06-19
 
 # Vi. Final Recommendation and Warning

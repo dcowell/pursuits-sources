@@ -80,6 +80,8 @@ description: 2 Kings, Chapter 8
 
 26 Ahaziah was twenty-two years old when he became king, and he reigned one year in Jerusalem. His mother’s name was Athaliah, daughter of Omri, king of Israel. ^2-kings-08-26
 
+27 He walked in the way of the house of Ahab and did what was evil in the LORD’s sight like the house of Ahab, since he was related to them by marriage. ^2-kings-08-27
+
 28 He joined Joram, son of Ahab, in battle against Hazael, king of Aram, at Ramoth-gilead, where the Arameans wounded Joram. ^2-kings-08-28
 
 29 King Joram returned to Jezreel to be healed of the wounds which the Arameans had inflicted on him at Ramah in his battle against Hazael, king of Aram. Then Ahaziah, son of Joram, king of Judah, went down to Jezreel to visit Joram, son of Ahab, for he was sick. ^2-kings-08-29

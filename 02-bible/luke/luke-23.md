@@ -56,7 +56,7 @@ description: Luke, Chapter 23
 
 16 Therefore I shall have him flogged and then release him.” ^luke-23-16
 
-\[17\]
+17 * ^luke-23-17
 
 **The Sentence of Death.**
 

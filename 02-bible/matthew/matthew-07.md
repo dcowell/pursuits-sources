@@ -38,7 +38,7 @@ description: Matthew, Chapter 7
 
 **The Answer to Prayers.**
 
-7 “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. ^fbb756 ^matthew-07-7
+7 “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. ^matthew-07-7
 
 8 For everyone who asks, receives; and the one who seeks, finds; and to the one who knocks, the door will be opened. ^matthew-07-8
 

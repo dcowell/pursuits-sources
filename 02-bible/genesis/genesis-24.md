@@ -35,6 +35,8 @@ bible_chapter: "24"
 
 4 but that you will go to my own land and to my relatives to get a wife for my son Isaac.” ^genesis-24-4
 
+5 The servant asked him: “What if the woman is unwilling to follow me to this land? Should I then take your son back to the land from which you came?” ^genesis-24-5
+
 6 Abraham told him, “Never take my son back there for any reason! ^genesis-24-6
 
 7 The LORD, the God of heaven, who took me from my father’s house and the land of my relatives, and who confirmed by oath the promise he made to me, ‘I will give this land to your descendants’—he will send his angel before you, and you will get a wife for my son there. ^genesis-24-7
@@ -101,6 +103,8 @@ bible_chapter: "24"
 
 38 instead, you must go to my father’s house, to my own family, to get a wife for my son.’ ^genesis-24-38
 
+39 When I asked my master, ‘What if the woman will not follow me? ^genesis-24-39
+
 40 he replied: ‘The LORD, in whose presence I have always walked, will send his angel with you and make your journey successful, and so you will get a wife for my son from my own family and my father’s house. ^genesis-24-40
 
 41 Then you will be freed from my curse. If you go to my family and they refuse you, then, too, you will be free from my curse.’ ^genesis-24-41
@@ -129,9 +133,7 @@ bible_chapter: "24"
 
 53 Then he brought out objects of silver and gold and clothing and presented them to Rebekah; he also gave costly presents to her brother and mother. ^genesis-24-53
 
-54 After he and the men with him had eaten and drunk, they spent the night there. ^genesis-24-54
-
-When they got up the next morning, he said, “Allow me to return to my master.”
+54 After he and the men with him had eaten and drunk, they spent the night there. When they got up the next morning, he said, “Allow me to return to my master.” ^genesis-24-54
 
 55 Her brother and mother replied, “Let the young woman stay with us a short while, say ten days; after that she may go.” ^genesis-24-55
 
@@ -143,15 +145,7 @@ When they got up the next morning, he said, “Allow me to return to my master.�
 
 59 At this they sent off their sister Rebekah and her nurse with Abraham’s servant and his men. ^genesis-24-59
 
-60 They blessed Rebekah and said: ^genesis-24-60
-
-“Sister, may you grow
-
-into thousands of myriads;
-
-And may your descendants gain possession
-
-of the gates of their enemies!”
+60 They blessed Rebekah and said: “Sister, may you grow into thousands of myriads; And may your descendants gain possession of the gates of their enemies!” ^genesis-24-60
 
 61 Then Rebekah and her attendants started out; they mounted the camels and followed the man. So the servant took Rebekah and went on his way. ^genesis-24-61
 

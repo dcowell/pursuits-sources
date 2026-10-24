@@ -56,6 +56,8 @@ description: Numbers, Chapter 11
 
 16 Then the LORD said to Moses: Assemble for me seventy of the elders of Israel, whom you know to be elders and authorities among the people, and bring them to the tent of meeting. When they are in place beside you, ^numbers-11-16
 
+17 I will come down and speak with you there. I will also take some of the spirit that is on you and will confer it on them, that they may share the burden of the people with you. You will then not have to bear it by yourself. ^numbers-11-17
+
 18 To the people, however, you shall say: “Sanctify yourselves for tomorrow, when you shall have meat to eat. For in the hearing of the LORD you have cried, ‘If only we had meat for food! Oh, how well off we were in Egypt!’ Therefore the LORD will give you meat to eat, ^numbers-11-18
 
 19 and you will eat it, not for one day, or two days, or five, or ten, or twenty days, ^numbers-11-19

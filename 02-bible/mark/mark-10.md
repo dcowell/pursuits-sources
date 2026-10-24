@@ -52,7 +52,7 @@ description: Mark, Chapter 10
 
 14 When Jesus saw this he became indignant and said to them, “Let the children come to me; do not prevent them, for the kingdom of God belongs to such as these. ^mark-10-14
 
-15 Amen, I say to you, whoever does not accept the kingdom of God like a child will not enter it.” ^e02004 ^mark-10-15
+15 Amen, I say to you, whoever does not accept the kingdom of God like a child will not enter it.” ^mark-10-15
 
 16 Then he embraced them and blessed them, placing his hands on them. ^mark-10-16
 
@@ -65,6 +65,8 @@ description: Mark, Chapter 10
 19 You know the commandments: ‘You shall not kill; you shall not commit [[adultery]]; you shall not steal; you shall not bear false witness; you shall not defraud; honor your father and your mother.’” ^mark-10-19
 
 20 He replied and said to him, “Teacher, all of these I have observed from my youth.” ^mark-10-20
+
+21 Jesus, looking at him, loved him and said to him, “You are lacking in one thing. Go, sell what you have, and give to [the] poor and you will have treasure in heaven; then come, follow me.” ^mark-10-21
 
 22 At that statement his face fell, and he went away sad, for he had many possessions. ^mark-10-22
 

@@ -54,19 +54,9 @@ description: Acts of the Apostles, Chapter 15
 
 15 The words of the prophets agree with this, as is written: ^acts-of-the-apostles-15-15
 
-16 ‘After this I shall return ^acts-of-the-apostles-15-16
+16 ‘After this I shall return and rebuild the fallen hut of David; from its ruins I shall rebuild it and raise it up again, ^acts-of-the-apostles-15-16
 
-and rebuild the fallen hut of David;
-
-from its ruins I shall rebuild it
-
-and raise it up again,
-
-17 so that the rest of humanity may seek out the Lord, ^acts-of-the-apostles-15-17
-
-even all the Gentiles on whom my name is invoked.
-
-Thus says the Lord who accomplishes these things,
+17 so that the rest of humanity may seek out the Lord, even all the Gentiles on whom my name is invoked. Thus says the Lord who accomplishes these things, ^acts-of-the-apostles-15-17
 
 18 known from of old.’ ^acts-of-the-apostles-15-18
 
@@ -104,7 +94,7 @@ Thus says the Lord who accomplishes these things,
 
 33 After they had spent some time there, they were sent off with greetings of peace from the brothers to those who had commissioned them. ^acts-of-the-apostles-15-33
 
-34
+34 * ^acts-of-the-apostles-15-34
 
 35 But Paul and Barnabas remained in Antioch, teaching and proclaiming with many others the word of the Lord. ^acts-of-the-apostles-15-35
 

@@ -22,6 +22,8 @@ description: 2 Chronicles, Chapter 18
 
 **Alliance with Israel.**
 
+1 Jehoshaphat therefore had wealth and glory in abundance; but he became related to Ahab by marriage. ^2-chronicles-18-1
+
 2 After some years he went down to Ahab at Samaria; Ahab slaughtered numerous sheep and oxen for him and for the people with him, and incited him to go up against Ramoth-gilead. ^2-chronicles-18-2
 
 3 Ahab, king of Israel, asked Jehoshaphat, king of Judah, “Will you come with me to Ramoth-gilead?” He answered, “You and I are as one, and your people and my people as well. We will be with you in the battle.” ^2-chronicles-18-3
@@ -52,19 +54,13 @@ description: 2 Chronicles, Chapter 18
 
 15 But the king answered him, “How many times must I adjure you to tell me nothing but the truth in the name of the LORD?” ^2-chronicles-18-15
 
-16 So Micaiah said: ^2-chronicles-18-16
-
+16 So Micaiah said:  ^2-chronicles-18-16
 “I see all Israel
-
 scattered on the mountains,
-
 like sheep without a shepherd,
-
 And the LORD saying,
-
 These have no masters!
-
-Let each of them go back home in peace.”
+Let each of them go back home in peace.” ^2-chronicles-18-16
 
 17 The king of Israel said to Jehoshaphat, “Did I not tell you, he does not prophesy good about me, but only evil?” ^2-chronicles-18-17
 

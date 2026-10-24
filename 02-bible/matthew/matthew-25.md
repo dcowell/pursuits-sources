@@ -62,7 +62,11 @@ description: Matthew, Chapter 25
 
 20 The one who had received five talents came forward bringing the additional five. He said, ‘Master, you gave me five talents. See, I have made five more.’ ^matthew-25-20
 
+21 His master said to him, ‘Well done, my good and faithful servant. Since you were faithful in small matters, I will give you great responsibilities. Come, share your master’s joy.’ ^matthew-25-21
+
 22 Then the one who had received two talents also came forward and said, ‘Master, you gave me two talents. See, I have made two more.’ ^matthew-25-22
+
+23 His master said to him, ‘Well done, my good and faithful servant. Since you were faithful in small matters, I will give you great responsibilities. Come, share your master’s joy.’ ^matthew-25-23
 
 24 Then the one who had received the one talent came forward and said, ‘Master, I knew you were a demanding person, harvesting where you did not plant and gathering where you did not scatter; ^matthew-25-24
 
@@ -86,9 +90,9 @@ description: Matthew, Chapter 25
 
 33 He will place the sheep on his right and the goats on his left. ^matthew-25-33
 
-34 Then the king will say to those on his right, ‘Come, you who are blessed by my Father. Inherit the kingdom prepared for you from the foundation of the world. ^d9e132 ^matthew-25-34
+34 Then the king will say to those on his right, ‘Come, you who are blessed by my Father. Inherit the kingdom prepared for you from the foundation of the world. ^matthew-25-34
 
-35 For I was hungry and you gave me food, I was thirsty and you gave me drink, a stranger and you welcomed me, ^6b0f7d ^matthew-25-35
+35 For I was hungry and you gave me food, I was thirsty and you gave me drink, a stranger and you welcomed me, ^matthew-25-35
 
 36 naked and you clothed me, ill and you cared for me, in prison and you visited me.’ ^matthew-25-36
 

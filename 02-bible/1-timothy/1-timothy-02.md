@@ -30,15 +30,9 @@ description: 1 Timothy, Chapter 2
 
 4 who wills everyone to be saved and to come to knowledge of the truth. ^1-timothy-02-4
 
-5 For there is one God. ^1-timothy-02-5
+5 For there is one God. There is also one mediator between God and the human race, Christ Jesus, himself human, ^1-timothy-02-5
 
-There is also one mediator between God and the human race,
-
-Christ Jesus, himself human,
-
-6 who gave himself as ransom for all. ^1-timothy-02-6
-
-This was the testimony at the proper time.
+6 who gave himself as ransom for all. This was the testimony at the proper time. ^1-timothy-02-6
 
 7 For this I was appointed preacher and apostle (I am speaking the truth, I am not lying), teacher of the Gentiles in faith and truth. ^1-timothy-02-7
 

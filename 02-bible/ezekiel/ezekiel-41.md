@@ -20,7 +20,13 @@ description: Ezekiel, Chapter 41
 
 ## Chapter 41
 
+1 Then he brought me to the nave and measured the posts; each was six cubits wide. ^ezekiel-41-1
+
+2 The width of the entrance was ten cubits, and the walls on either side measured five cubits. He measured the nave, forty cubits long and twenty cubits wide. ^ezekiel-41-2
+
 3 Then he went inside and measured the posts at the other entrance, two cubits wide. The entrance was six cubits wide, with walls seven cubits long on each side. ^ezekiel-41-3
+
+4 Next he measured the length and width of the room beyond the nave, twenty cubits long and twenty cubits wide. He said to me, “This is the holy of holies.” ^ezekiel-41-4
 
 5 Then he measured the wall of the temple, six cubits wide, and the width of the side chambers stretching all around the temple, four cubits each. ^ezekiel-41-5
 
@@ -56,9 +62,15 @@ description: Ezekiel, Chapter 41
 
 20 From the floor to the lintel of the door, cherubim and palm trees decorated the walls. ^ezekiel-41-20
 
+21 The nave had a square door frame, and inside facing the holy place was something that looked like ^ezekiel-41-21
+
 22 a wooden altar, three cubits high, two cubits long, and two cubits wide. It had corners and a wooden base and sides. He said to me, “This is the table that stands before the LORD.” ^ezekiel-41-22
 
+23 The nave had a double door, and the holy place ^ezekiel-41-23
+
 24 also had a double door; each door had two sections that could move; two sections on one door, and two on the other. ^ezekiel-41-24
+
+25 Cherubim and palm trees decorated the doors of the nave like the decoration on the walls. Outside a wooden lattice faced the vestibule. ^ezekiel-41-25
 
 26 There were recessed windows and palm trees on the side walls of the vestibule. The side chambers of the temple also had latticework. ^ezekiel-41-26
 

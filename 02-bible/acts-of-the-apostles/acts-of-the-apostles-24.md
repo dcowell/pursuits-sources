@@ -34,7 +34,7 @@ description: Acts of the Apostles, Chapter 24
 
 6 He even tried to desecrate our temple, but we arrested him. ^acts-of-the-apostles-24-6
 
-7
+7 * ^acts-of-the-apostles-24-7
 
 8 If you examine him you will be able to learn from him for yourself about everything of which we are accusing him.” ^acts-of-the-apostles-24-8
 

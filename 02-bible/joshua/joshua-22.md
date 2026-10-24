@@ -62,6 +62,8 @@ description: Joshua, Chapter 22
 
 18 If today you turn away from following the LORD, and rebel against the LORD, tomorrow he will be angry with the whole community of Israel! ^joshua-22-18
 
+19 If you consider the land you now possess unclean,* cross over to the land the LORD possesses, where the tabernacle of the LORD stands, and share that with us. But do not rebel against the LORD, nor involve us in rebellion, by building an altar of your own in addition to the altar of the LORD, our God. ^joshua-22-19
+
 20 When Achan, son of Zerah, acted treacherously by violating the ban, was it not upon the entire community of Israel that wrath fell? Though he was but a single man, he did not perish alone for his guilt!” ^joshua-22-20
 
 **Reply of the Eastern Tribes.**
@@ -74,7 +76,11 @@ description: Joshua, Chapter 22
 
 24 We did it rather out of our anxious concern lest in the future your children should say to our children: ‘What have you to do with the LORD, the God of Israel? ^joshua-22-24
 
+25 For the LORD has placed the Jordan as a boundary between you and us, you Reubenites and Gadites. You have no share in the LORD.’ Thus your children would prevent ours from revering the LORD. ^joshua-22-25
+
 26 So we thought, ‘Let us act for ourselves by building this altar of our own’—not for burnt offerings or sacrifice, ^joshua-22-26
+
+27 but as witness between us and you and our descendants, that we have the right to provide for the service of the LORD in his presence with our burnt offerings, sacrifices, and communion sacrifices. Now in the future your children cannot say to our children, ‘You have no share in the LORD.’ ^joshua-22-27
 
 28 Our thought was that, if in the future they should speak thus to us or to our descendants, we could answer: ‘Look at the copy of the altar of the LORD which our ancestors made, not for burnt offerings or for sacrifices, but to witness between you and us.’ ^joshua-22-28
 

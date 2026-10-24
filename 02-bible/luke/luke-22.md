@@ -58,9 +58,11 @@ description: Luke, Chapter 22
 
 16 for, I tell you, I shall not eat it \[again\] until there is fulfillment in the kingdom of God.” ^luke-22-16
 
+17 Then he took a cup, gave thanks, and said, “Take this and share it among yourselves; ^luke-22-17
+
 18 for I tell you \[that\] from this time on I shall not drink of the fruit of the vine until the kingdom of God comes.” ^luke-22-18
 
-19 Then he took the bread, said the blessing, broke it, and gave it to them, saying, “This is my body, which will be given for you; do this in memory of me.” ^d33033 ^luke-22-19
+19 Then he took the bread, said the blessing, broke it, and gave it to them, saying, “This is my body, which will be given for you; do this in memory of me.” ^luke-22-19
 
 20 And likewise the cup after they had eaten, saying, “This cup is the new covenant in my blood, which will be shed for you. ^luke-22-20
 

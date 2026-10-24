@@ -90,6 +90,8 @@ description: Numbers, Chapter 10
 
 31 Moses said, “Please, do not leave us; you know where we can camp in the wilderness, and you can serve as our guide. ^numbers-10-31
 
+32 If you come with us, we will share with you the prosperity the LORD will bestow on us.” ^numbers-10-32
+
 **Into the Wilderness.**
 
 33 From the mountain of the LORD they made a journey of three days, and the ark of the covenant of the LORD went before them for the three-day journey to seek out a resting place for them. ^numbers-10-33

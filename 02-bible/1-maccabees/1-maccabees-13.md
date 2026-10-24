@@ -118,13 +118,19 @@ description: 1 Maccabees, Chapter 13
 
 44 Those in the siege machine leaped down into the city and a great tumult arose there. ^1-maccabees-13-44
 
+45 Those in the city, together with their wives and children, went up on the wall, with their garments rent, and cried out in loud voices, begging Simon to grant them terms of peace. ^1-maccabees-13-45
+
 46 They said, “Treat us not according to our evil deeds but according to your mercy.” ^1-maccabees-13-46
+
+47 So Simon came to terms with them and did not attack them. He expelled them from the city, however, and he purified the houses in which there were idols. Then he entered the city with hymns and songs of praise. ^1-maccabees-13-47
 
 48 After removing from it everything that was impure, he settled there people who observed the law. He improved its fortifications and built himself a residence. ^1-maccabees-13-48
 
 **Simon Captures the Citadel.**
 
 49 The people in the citadel in Jerusalem were prevented from going out into the country and back to buy or sell; they suffered greatly from hunger, and many of them died of starvation. ^1-maccabees-13-49
+
+50 They finally cried out to Simon, and he gave them terms of peace. He expelled them from the citadel and cleansed it of impurities. ^1-maccabees-13-50
 
 51 On the twenty-third day of the second month, in the one hundred and seventy-first year, the Jews entered the citadel with shouts of praise, the waving of palm branches, the playing of harps and cymbals and lyres, and the singing of hymns and canticles, because a great enemy of Israel had been crushed. ^1-maccabees-13-51
 

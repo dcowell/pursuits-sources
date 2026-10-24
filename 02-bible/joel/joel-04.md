@@ -68,6 +68,8 @@ Let all the soldiers
 
 report and march!
 
+10 Beat your plowshares into swords, ^joel-04-10
+
 and your pruning knives into spears;
 
 let the weakling boast, “I am a warrior!”

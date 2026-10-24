@@ -96,6 +96,8 @@ description: Leviticus, Chapter 7
 
 34 for from the communion sacrifices of the Israelites I have taken the brisket that is elevated and the leg that is a contribution, and I have given them to Aaron, the priest, and to his sons as their due from the Israelites forever. ^leviticus-07-34
 
+35 This is the priestly share from the oblations for the LORD, allotted to Aaron and his sons on the day they were brought forth to be the priests of the LORD, ^leviticus-07-35
+
 36 which the LORD ordered to be given them from the Israelites on the day they were anointed, as their due throughout their generations forever. ^leviticus-07-36
 
 **Summary.**

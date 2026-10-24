@@ -40,7 +40,7 @@ for they will be comforted.
 
 for they will inherit the land.
 
-6 Blessed are they who hunger and thirst for righteousness, ^b58f09 ^matthew-05-6
+6 Blessed are they who hunger and thirst for righteousness, ^matthew-05-6
 
 for they will be satisfied.
 
@@ -82,7 +82,7 @@ for theirs is the kingdom of heaven.
 
 19 Therefore, whoever breaks one of the least of these commandments and teaches others to do so will be called least in the kingdom of heaven. But whoever obeys and teaches these commandments will be called greatest in the kingdom of heaven. ^matthew-05-19
 
-20 ***I tell you, unless your righteousness surpasses that of the scribes and Pharisees, you will not enter into the kingdom of heaven***. ^29e948 ^matthew-05-20
+20 ***I tell you, unless your righteousness surpasses that of the scribes and Pharisees, you will not enter into the kingdom of heaven***. ^matthew-05-20
 
 **Teaching About Anger.**
 

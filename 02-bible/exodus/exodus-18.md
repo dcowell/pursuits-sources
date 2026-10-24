@@ -44,6 +44,8 @@ description: exodus-chapter 18
 
 11 Now I know that the LORD is greater than all the gods; for he rescued the people from the power of the Egyptians when they treated them arrogantly.” ^exodus-18-11
 
+12 Then Jethro, the father-in-law of Moses, brought a burnt offering* and sacrifices for God, and Aaron came with all the elders of Israel to share with Moses’ father-in-law in the meal before God. ^exodus-18-12
+
 **Appointment of Minor Judges.**
 
 13 The next day Moses sat in judgment for the people, while they stood around him from morning until evening. ^exodus-18-13

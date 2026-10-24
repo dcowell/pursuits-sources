@@ -108,6 +108,8 @@ description: Mark, Chapter 9
 
 **Another Exorcist.**
 
+38 John said to him, “Teacher, we saw someone driving out demons in your name, and we tried to prevent him because he does not follow us.” ^mark-09-38
+
 39 Jesus replied, “Do not prevent him. There is no one who performs a mighty deed in my name who can at the same time speak ill of me. ^mark-09-39
 
 40 For whoever is not against us is for us. ^mark-09-40
@@ -120,11 +122,11 @@ description: Mark, Chapter 9
 
 43 If your hand causes you to sin, cut it off. It is better for you to enter into life maimed than with two hands to go into Gehenna, into the unquenchable fire. ^mark-09-43
 
-\[44\]
+44 * ^mark-09-44
 
 45 And if your foot causes you to sin, cut it off. It is better for you to enter into life crippled than with two feet to be thrown into Gehenna. ^mark-09-45
 
-\[46\]
+46 * ^mark-09-46
 
 47 And if your eye causes you to sin, pluck it out. Better for you to enter into the kingdom of God with one eye than with two eyes to be thrown into Gehenna, ^mark-09-47
 

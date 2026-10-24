@@ -61,6 +61,8 @@ description: Acts of the Apostles, Chapter 1
 
 16 “My brothers, the scripture had to be fulfilled which the holy Spirit spoke beforehand through the mouth of David, concerning Judas, who was the guide for those who arrested Jesus. ^acts-of-the-apostles-01-16
 
+17 He was numbered among us and was allotted a share in this ministry. ^acts-of-the-apostles-01-17
+
 18 He bought a parcel of land with the wages of his iniquity, and falling headlong, he burst open in the middle, and all his insides spilled out. ^acts-of-the-apostles-01-18
 
 19 This became known to everyone who lived in Jerusalem, so that the parcel of land was called in their language ‘Akeldama,’ that is, Field of Blood. ^acts-of-the-apostles-01-19

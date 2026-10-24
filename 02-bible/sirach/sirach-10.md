@@ -112,6 +112,8 @@ Those who transgress the commandment are disgraceful offspring.
 
 but whoever fears God is honored among God’s people.
 
+21 * ^sirach-10-21
+
 22 Resident alien, stranger, foreigner, pauper— ^sirach-10-22
 
 their glory is the fear of the LORD.

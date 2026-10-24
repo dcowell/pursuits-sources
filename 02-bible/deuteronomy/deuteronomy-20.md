@@ -40,6 +40,10 @@ description: deuteronomy-chapter 20
 
 9 When the officials have finished speaking to the army, military commanders shall be appointed over them. ^deuteronomy-20-9
 
+10 When you draw near a city to attack it, offer it terms of peace. ^deuteronomy-20-10
+
+11 If it agrees to your terms of peace and lets you in, all the people to be found in it shall serve you in forced labor. ^deuteronomy-20-11
+
 **Cities of the Enemy.**
 
 12 But if it refuses to make peace with you and instead joins battle with you, lay siege to it, ^deuteronomy-20-12

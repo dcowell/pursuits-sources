@@ -136,6 +136,8 @@ description: Numbers, Chapter 33
 
 53 You will take possession of the land and settle in it, for I have given you the land to possess. ^numbers-33-53
 
+54 You will apportion the land among yourselves by lot, clan by clan, assigning a large heritage to a large clan and a small heritage to a small clan.k Wherever anyone’s lot falls, there will his possession be; you will apportion these shares within your ancestral tribe. ^numbers-33-54
+
 55 But if you do not dispossess the inhabitants of the land before you, those whom you allow to remain will become barbs in your eyes and thorns in your sides, and they will harass you in the land where you live, ^numbers-33-55
 
 56 and I will treat you as I had intended to treat them. ^numbers-33-56

@@ -42,6 +42,8 @@ description: 2 Timothy, Chapter 1
 
 7 For God did not give us a spirit of cowardice but rather of power and love and self-control. ^2-timothy-01-7
 
+8 So do not be ashamed of your testimony to our Lord,* nor of me, a prisoner for his sake; but bear your share of hardship for the gospel with the strength that comes from God. ^2-timothy-01-8
+
 9 He saved us and called us to a holy life, not according to our works but according to his own design and the grace bestowed on us in Christ Jesus before time began, ^2-timothy-01-9
 
 10 but now made manifest through the appearance of our savior Christ Jesus, who destroyed death and brought life and immortality to light through the gospel, ^2-timothy-01-10

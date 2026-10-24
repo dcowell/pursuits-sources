@@ -60,11 +60,15 @@ description: John, Chapter 21
 
 18 Amen, amen, I say to you, when you were younger, you used to dress yourself and go where you wanted; but when you grow old, you will stretch out your hands, and someone else will dress you and lead you where you do not want to go.” ^john-21-18
 
+19 He said this signifying by what kind of death he would glorify God. And when he had said this, he said to him, “Follow me.” ^john-21-19
+
 **The Beloved Disciple.**
 
 20 Peter turned and saw the disciple following whom Jesus loved, the one who had also reclined upon his chest during the supper and had said, “Master, who is the one who will betray you?” ^john-21-20
 
 21 When Peter saw him, he said to Jesus, “Lord, what about him?” ^john-21-21
+
+22 Jesus said to him, “What if I want him to remain until I come?* What concern is it of yours? You follow me.” ^john-21-22
 
 23 So the word spread among the brothers that that disciple would not die. But Jesus had not told him that he would not die, just “What if I want him to remain until I come? \[What concern is it of yours?\]” ^john-21-23
 

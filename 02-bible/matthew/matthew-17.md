@@ -66,7 +66,7 @@ description: Matthew, Chapter 17
 
 20 He said to them, “Because of your little faith. Amen, I say to you, if you have faith the size of a mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move. Nothing will be impossible for you.”\[ ^matthew-17-20
 
-21\]
+21 * ^matthew-17-21
 
 **The Second Prediction of the Passion.**
 

@@ -56,6 +56,8 @@ description: 2 Chronicles, Chapter 32
 
 16 His officials said still more against the LORD God and against his servant Hezekiah, ^2-chronicles-32-16
 
+17 for he had written letters to deride the LORD, the God of Israel, speaking of him in these terms: “As the gods of the nations in other lands have not rescued their people from my hand, neither shall Hezekiah’s god rescue his people from my hand.” ^2-chronicles-32-17
+
 18 In a loud voice they shouted in the language of Judah to the people of Jerusalem who were on the wall, to frighten and terrify them so that they might capture their city. ^2-chronicles-32-18
 
 19 They spoke of the God of Israel as though he were one of the gods of the other peoples of the earth, a work of human hands. ^2-chronicles-32-19

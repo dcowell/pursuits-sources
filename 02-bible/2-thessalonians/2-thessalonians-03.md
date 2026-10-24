@@ -58,6 +58,8 @@ description: 2 Thessalonians, Chapter 3
 
 # Iv. Final Greetings
 
+17 This greeting is in my own hand, Paul’s. This is the sign in every letter; this is how I write. ^2-thessalonians-03-17
+
 18 The grace of our Lord Jesus Christ be with all of you. ^2-thessalonians-03-18
 
 \* (3:1] – [18) The final chapter urges the Thessalonians to pray for Paul and his colleagues ([2 Thes 3:1] – [2]) and reiterates confidence in the Thessalonians ([2 Thes 3:3] – [5]), while admonishing them about a specific problem in their community that has grown out of the intense eschatological speculation, namely, not to work but to become instead disorderly busybodies ([2 Thes 3:6] – [15]). A benediction ([2 Thes 3:16]) and postscript in Paul’s own hand round out the letter. On [2 Thes 3:17] – [18], cf. note on [2 Thes 2:2].

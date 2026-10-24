@@ -20,9 +20,31 @@ description: 1 Chronicles, Chapter 14
 
 ## Chapter 14
 
-**David in Jerusalem.**1 Hiram, king of Tyre, sent envoys to David along with cedar wood, and masons and carpenters to build him a house.2David now knew that the LORD had truly established him as king over Israel, for his kingdom was greatly exalted for the sake of his people Israel.3David took other wives in Jerusalem and became the father of more sons and daughters.4These are the names of those who were born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,5Ibhar, Elishua, Elpelet,6Nogah, Nepheg, Japhia,7Elishama, Beeliada, and Eliphelet.
+**David in Jerusalem.**
 
-**The Philistine Wars.**8When the Philistines had heard that David was anointed king over all Israel, they marched out in force looking for him. But when David heard of this, he went out against them.9Meanwhile the Philistines had come and raided the valley of Rephaim.10David inquired of God, “Shall I attack the Philistines, and will you deliver them into my power?” The LORD answered him, “Attack, for I have delivered them into your power.” 11So they attacked, at Baal-perazim, and David defeated them there. Then David said, “By my hand God has broken through my enemies just as water breaks through a dam.” Therefore that place was called Baal-perazim.
+1 Hiram, king of Tyre, sent envoys to David along with cedar wood, and masons and carpenters to build him a house. ^1-chronicles-14-1
+
+2 David now knew that the LORD had truly established him as king over Israel, for his kingdom was greatly exalted for the sake of his people Israel. ^1-chronicles-14-2
+
+3 David took other wives in Jerusalem and became the father of more sons and daughters. ^1-chronicles-14-3
+
+4 These are the names of those who were born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon, ^1-chronicles-14-4
+
+5 Ibhar, Elishua, Elpelet, ^1-chronicles-14-5
+
+6 Nogah, Nepheg, Japhia, ^1-chronicles-14-6
+
+7 Elishama, Beeliada, and Eliphelet. ^1-chronicles-14-7
+
+
+**The Philistine Wars.**
+
+8 When the Philistines had heard that David was anointed king over all Israel, they marched out in force looking for him. But when David heard of this, he went out against them. ^1-chronicles-14-8
+9 Meanwhile the Philistines had come and raided the valley of Rephaim. ^1-chronicles-14-9
+10 David inquired of God, “Shall I attack the Philistines, and will you deliver them into my power?” The LORD answered him, “Attack, for I have delivered them into your power.” ^1-chronicles-14-10
+11 So they attacked, at Baal-perazim, and David defeated them there. Then David said, “By my hand God has broken through my enemies just as water breaks through a dam.” Therefore that place was called Baal-perazim. ^1-chronicles-14-11
+
+
 
 12 The Philistines abandoned their gods there, and David ordered them to be burnt. ^1-chronicles-14-12
 

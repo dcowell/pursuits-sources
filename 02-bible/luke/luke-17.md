@@ -60,7 +60,7 @@ description: Luke, Chapter 17
 
 16 and he fell at the feet of Jesus and thanked him. He was a Samaritan. ^luke-17-16
 
-17 Jesus said in reply, “Ten were cleansed, were they not? Where are the other nine? ^04a341 ^luke-17-17
+17 Jesus said in reply, “Ten were cleansed, were they not? Where are the other nine? ^luke-17-17
 
 18 Has none but this foreigner returned to give thanks to God?” ^luke-17-18
 
@@ -102,7 +102,7 @@ description: Luke, Chapter 17
 
 35 And there will be two women grinding meal together; one will be taken, the other left.” ^luke-17-35
 
-\[36\]
+36 * ^luke-17-36
 
 37 They said to him in reply, “Where, Lord?” He said to them, “Where the body is, there also the vultures will gather.” ^luke-17-37
 

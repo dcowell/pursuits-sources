@@ -26,6 +26,8 @@ description: Ezekiel, Chapter 36
 
 2 Thus says the Lord G OD: Because the enemy said about you, “Ha! the ancient heights have become our possession,” ^ezekiel-36-2
 
+3 therefore prophesy and say: Thus says the Lord GOD: because you have been ridiculed and hounded on all sides for becoming a possession for the remaining nations and have become a byword and a popular jeer, ^ezekiel-36-3
+
 4 therefore, mountains of Israel, hear the word of the Lord G OD: Thus says the Lord G OD to the mountains and hills, to the ravines and valleys, to the desolate ruins and abandoned cities, plundered and mocked by the nations remaining around you: ^ezekiel-36-4
 
 5 therefore thus says the Lord G OD: Truly, with burning jealousy I speak against the remaining nations and against Edom; they all took possession of my land for plunder with wholehearted joy and utter contempt. ^ezekiel-36-5

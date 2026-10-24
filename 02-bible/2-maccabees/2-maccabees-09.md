@@ -18,67 +18,67 @@ description: 2 Maccabees, Chapter
 
 # 2 Maccabees, Chapter 9
 
-## Chapter
+## Chapter 9
 
-**Punishment and Death of Antiochus IV.[*]**
+**Punishment and Death of Antiochus IV.**
 
-1[a] About that time Antiochus retreated in disgrace from the region of Persia.
+1 About that time Antiochus retreated in disgrace from the region of Persia. ^2-maccabees-09-1
 
-2He had entered the city called Persepolis and attempted to rob the temples and gain control of the city. Thereupon the people had swift recourse to arms, and Antiochus’ forces were routed, so that in the end Antiochus was put to flight by the people of that region and forced to beat a shameful retreat.
+2 He had entered the city called Persepolis and attempted to rob the temples and gain control of the city. Thereupon the people had swift recourse to arms, and Antiochus’ forces were routed, so that in the end Antiochus was put to flight by the people of that region and forced to beat a shameful retreat. ^2-maccabees-09-2
 
-3On his arrival in Ecbatana, he learned what had happened to Nicanor and to Timothy’s forces.
+3 On his arrival in Ecbatana, he learned what had happened to Nicanor and to Timothy’s forces. ^2-maccabees-09-3
 
-4Overcome with anger, he planned to make the Jews suffer for the injury done by those who had put him to flight. Therefore he ordered his charioteer to drive without stopping until he finished the journey. Yet the condemnation of Heaven rode with him, because he said in his arrogance, “I will make Jerusalem the common graveyard of Jews as soon as I arrive there.”
+4 Overcome with anger, he planned to make the Jews suffer for the injury done by those who had put him to flight. Therefore he ordered his charioteer to drive without stopping until he finished the journey. Yet the condemnation of Heaven rode with him, because he said in his arrogance, “I will make Jerusalem the common graveyard of Jews as soon as I arrive there.” ^2-maccabees-09-4
 
-5So the all-seeing Lord, the God of Israel, struck him down with an incurable and invisible blow; for scarcely had he uttered those words when he was seized with excruciating pains in his bowels and sharp internal torment,[b]
+5 So the all-seeing Lord, the God of Israel, struck him down with an incurable and invisible blow; for scarcely had he uttered those words when he was seized with excruciating pains in his bowels and sharp internal torment, ^2-maccabees-09-5
 
-6a fit punishment for him who had tortured the bowels of others with many barbarous torments.
+6 a fit punishment for him who had tortured the bowels of others with many barbarous torments. ^2-maccabees-09-6
 
-7Far from giving up his insolence, he was all the more filled with arrogance. Breathing fire in his rage against the Jews, he gave orders to drive even faster. As a result he hurtled from the speeding chariot, and every part of his body was racked by the violent fall.
+7 Far from giving up his insolence, he was all the more filled with arrogance. Breathing fire in his rage against the Jews, he gave orders to drive even faster. As a result he hurtled from the speeding chariot, and every part of his body was racked by the violent fall. ^2-maccabees-09-7
 
-8Thus he who previously, in his superhuman presumption, thought he could command the waves of the sea, and imagined he could weigh the mountaintops in his scales, was now thrown to the ground and had to be carried on a litter, clearly manifesting to all the power of God.[c]
+8 Thus he who previously, in his superhuman presumption, thought he could command the waves of the sea, and imagined he could weigh the mountaintops in his scales, was now thrown to the ground and had to be carried on a litter, clearly manifesting to all the power of God. ^2-maccabees-09-8
 
-9The body of this impious man swarmed with worms, and while he was still alive in hideous torments, his flesh rotted off, so that the entire army was sickened by the stench of his corruption.[d]
+9 The body of this impious man swarmed with worms, and while he was still alive in hideous torments, his flesh rotted off, so that the entire army was sickened by the stench of his corruption. ^2-maccabees-09-9
 
-10Shortly before, he had thought that he could reach the stars of heaven, and now, no one could endure to transport the man because of this intolerable stench.
+10 Shortly before, he had thought that he could reach the stars of heaven, and now, no one could endure to transport the man because of this intolerable stench. ^2-maccabees-09-10
 
-11At last, broken in spirit, he began to give up his excessive arrogance, and to gain some understanding, under the scourge of God, for he was racked with pain unceasingly.
+11 At last, broken in spirit, he began to give up his excessive arrogance, and to gain some understanding, under the scourge of God, for he was racked with pain unceasingly. ^2-maccabees-09-11
 
-12When he could no longer bear his own stench, he said, “It is right to be subject to God, and not to think one’s mortal self equal to God.”[e]
+12 When he could no longer bear his own stench, he said, “It is right to be subject to God, and not to think one’s mortal self equal to God.” ^2-maccabees-09-12
 
-13Then this vile man vowed to him who would never again show him mercy, the Sovereign Lord,
+13 Then this vile man vowed to him who would never again show him mercy, the Sovereign Lord, ^2-maccabees-09-13
 
-14that the holy city, toward which he had been hurrying with the intention of leveling it to the ground and making it a common graveyard, he would now set free;
+14 that the holy city, toward which he had been hurrying with the intention of leveling it to the ground and making it a common graveyard, he would now set free; ^2-maccabees-09-14
 
-15that the Jews, whom he had judged not even worthy of burial, but fit only to be thrown out with their children to be eaten by vultures and wild animals—all of them he would make equal to the Athenians;
+15 that the Jews, whom he had judged not even worthy of burial, but fit only to be thrown out with their children to be eaten by vultures and wild animals—all of them he would make equal to the Athenians; ^2-maccabees-09-15
 
-16that he would adorn with the finest offerings the holy temple which he had previously despoiled, restore all the sacred vessels many times over, and provide from his own revenues the expenses required for the sacrifices.
+16 that he would adorn with the finest offerings the holy temple which he had previously despoiled, restore all the sacred vessels many times over, and provide from his own revenues the expenses required for the sacrifices. ^2-maccabees-09-16
 
-17Besides all this, he would become a Jew himself and visit every inhabited place to proclaim there the power of God.
+17 Besides all this, he would become a Jew himself and visit every inhabited place to proclaim there the power of God. ^2-maccabees-09-17
 
-18But since his sufferings were not lessened, for God’s just judgment had come upon him, he lost hope for himself and wrote the following letter to the Jews in the form of a supplication. It read thus:
+18 But since his sufferings were not lessened, for God’s just judgment had come upon him, he lost hope for himself and wrote the following letter to the Jews in the form of a supplication. It read thus: ^2-maccabees-09-18
 
-19[*] “To the worthy Jewish citizens, Antiochus, king and general, sends hearty greetings and best wishes for their health and prosperity.
+19 “To the worthy Jewish citizens, Antiochus, king and general, sends hearty greetings and best wishes for their health and prosperity. ^2-maccabees-09-19
 
-20If you and your children are well and your affairs are going as you wish, I thank God very much, for my hopes are in heaven.
+20 If you and your children are well and your affairs are going as you wish, I thank God very much, for my hopes are in heaven. ^2-maccabees-09-20
 
-21Now that I am ill, I recall with affection your esteem and goodwill. On returning from the regions of Persia, I fell victim to a troublesome illness; so I thought it necessary to form plans for the general security of all.
+21 Now that I am ill, I recall with affection your esteem and goodwill. On returning from the regions of Persia, I fell victim to a troublesome illness; so I thought it necessary to form plans for the general security of all. ^2-maccabees-09-21
 
-22I do not despair about my health, since I have much hope of recovering from my illness.
+22 I do not despair about my health, since I have much hope of recovering from my illness. ^2-maccabees-09-22
 
-23Nevertheless, I know that my father, whenever he went on campaigns in the hinterland, would name his successor,
+23 Nevertheless, I know that my father, whenever he went on campaigns in the hinterland, would name his successor, ^2-maccabees-09-23
 
-24so that, if anything unexpected happened or any unwelcome news came, the people throughout the realm would know to whom the government had been entrusted, and so not be disturbed.
+24 so that, if anything unexpected happened or any unwelcome news came, the people throughout the realm would know to whom the government had been entrusted, and so not be disturbed. ^2-maccabees-09-24
 
-25I am also bearing in mind that the neighboring rulers, especially those on the borders of our kingdom, are on the watch for opportunities and waiting to see what will happen. I have therefore appointed as king my son Antiochus, whom I have often before entrusted and commended to most of you, when I made hurried visits to the outlying provinces. I have written to him what is written here.
+25 I am also bearing in mind that the neighboring rulers, especially those on the borders of our kingdom, are on the watch for opportunities and waiting to see what will happen. I have therefore appointed as king my son Antiochus, whom I have often before entrusted and commended to most of you, when I made hurried visits to the outlying provinces. I have written to him what is written here. ^2-maccabees-09-25
 
-26Therefore I beg and entreat each of you to remember the general and individual benefits you have received, and to continue to show goodwill toward me and my son.
+26 Therefore I beg and entreat each of you to remember the general and individual benefits you have received, and to continue to show goodwill toward me and my son. ^2-maccabees-09-26
 
-27I am confident that, following my policy, he will treat you with equity and kindness in his relations with you.”
+27 I am confident that, following my policy, he will treat you with equity and kindness in his relations with you.” ^2-maccabees-09-27
 
-28So this murderer and blasphemer, after extreme sufferings, such as he had inflicted on others, died a miserable death in the mountains of a foreign land.
+28 So this murderer and blasphemer, after extreme sufferings, such as he had inflicted on others, died a miserable death in the mountains of a foreign land. ^2-maccabees-09-28
 
-29His foster brother[*] Philip brought the body home; but fearing Antiochus’ son, he later withdrew into Egypt, to Ptolemy Philometor.[f]
+29 His foster brother Philip brought the body home; but fearing Antiochus’ son, he later withdrew into Egypt, to Ptolemy Philometor. ^2-maccabees-09-29
 
 * ([9:1]–[29]] In order to keep together the various accounts of God’s punishment of the persecutors of his people, the author places here the stories of Antiochus’ illness and death (in actuality the king died about the same time as the purification of the Temple, i.e., 164 B.C.; cf. [1 Mc 4:36]–[59]; [6:1]–[16]; [2 Mc 10:1]–[8]); of Judas’ campaigns in Idumea and Transjordan; cf. [1 Mc 5:1]–[51]; [2 Mc 10:14]–[38]; and of the first expedition of Lysias ([1 Mc 4:26]–[35]; [2 Mc 11:1]–[15]).
 * ([9:19]–[27]] Despite the statement in v. [18] this letter is not really a supplication. It is rather a notification to all the king’s subjects of the appointment of his son as his successor and a request that they be loyal to the new king. Apparently the same letter, which has every appearance of being authentic, was sent to the various peoples throughout the kingdom, with only a few words of address changed for each group.

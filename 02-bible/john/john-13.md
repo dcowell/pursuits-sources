@@ -48,9 +48,9 @@ description: John, Chapter 13
 
 13 You call me ‘teacher’ and ‘master,’ and rightly so, for indeed I am. ^john-13-13
 
-14 I, therefore, the master and teacher, have washed your feet, you ought to wash one another’s feet. ^559215 ^john-13-14
+14 I, therefore, the master and teacher, have washed your feet, you ought to wash one another’s feet. ^john-13-14
 
-15 I have given you a model to follow, so that as I have done for you, you should also do. ^ba99a0 ^john-13-15
+15 I have given you a model to follow, so that as I have done for you, you should also do. ^john-13-15
 
 16 Amen, amen, I say to you, no slave is greater than his master nor any messenger greater than the one who sent him. ^john-13-16
 
@@ -60,7 +60,7 @@ description: John, Chapter 13
 
 19 From now on I am telling you before it happens, so that when it happens you may believe that I AM. ^john-13-19
 
-20 Amen, amen, I say to you, whoever receives the one I send receives me, and whoever receives me receives the one who sent me.” ^6c6205 ^john-13-20
+20 Amen, amen, I say to you, whoever receives the one I send receives me, and whoever receives me receives the one who sent me.” ^john-13-20
 
 **Announcement of Judas’s Betrayal.**
 
@@ -97,6 +97,8 @@ description: John, Chapter 13
 35 This is how all will know that you are my disciples, if you have love for one another.” ^john-13-35
 
 **Peter’s Denial Predicted.**
+
+36 Simon Peter said to him, “Master, where are you going?” Jesus answered [him], “Where I am going, you cannot follow me now, though you will follow later.” ^john-13-36
 
 37 Peter said to him, “Master, why can’t I follow you now? I will lay down my life for you.” ^john-13-37
 

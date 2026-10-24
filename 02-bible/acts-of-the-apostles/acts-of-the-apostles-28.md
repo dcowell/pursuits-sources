@@ -76,29 +76,13 @@ description: Acts of the Apostles, Chapter 28
 
 25 Without reaching any agreement among themselves they began to leave; then Paul made one final statement. “Well did the holy Spirit speak to your ancestors through the prophet Isaiah, saying: ^acts-of-the-apostles-28-25
 
-26 ‘Go to this people and say: ^acts-of-the-apostles-28-26
+26 ‘Go to this people and say: You shall indeed hear but not understand. You shall indeed look but never see. ^acts-of-the-apostles-28-26
 
-You shall indeed hear but not understand.
-
-You shall indeed look but never see.
-
-27 Gross is the heart of this people; ^acts-of-the-apostles-28-27
-
-they will not hear with their ears;
-
-they have closed their eyes,
-
-so they may not see with their eyes
-
-and hear with their ears
-
-and understand with their heart and be converted,
-
-and I heal them.’
+27 Gross is the heart of this people; they will not hear with their ears; they have closed their eyes, so they may not see with their eyes and hear with their ears and understand with their heart and be converted, and I heal them.’ ^acts-of-the-apostles-28-27
 
 28 Let it be known to you that this salvation of God has been sent to the Gentiles; they will listen.” ^acts-of-the-apostles-28-28
 
-29
+29 * ^acts-of-the-apostles-28-29
 
 30 He remained for two full years in his lodgings. He received all who came to him, ^acts-of-the-apostles-28-30
 

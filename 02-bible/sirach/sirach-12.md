@@ -46,6 +46,8 @@ Twofold evil you will obtain for every good deed you do for them.
 
 and takes vengeance on evildoers.
 
+7 * ^sirach-12-7
+
 8 In prosperity we cannot know our friends; ^sirach-12-8
 
 in adversity an enemy will not remain concealed.

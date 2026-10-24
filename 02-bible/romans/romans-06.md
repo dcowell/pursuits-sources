@@ -58,6 +58,8 @@ description: romans-chapter 6
 
 18 Freed from sin, you have become slaves of righteousness. ^romans-06-18
 
+19 I am speaking in human terms because of the weakness of your nature. For just as you presented the parts of your bodies as slaves to impurity and to lawlessness for lawlessness, so now present them as slaves to righteousness for sanctification. ^romans-06-19
+
 20 For when you were slaves of sin, you were free from righteousness. ^romans-06-20
 
 21 But what profit did you get then from the things of which you are now ashamed? For the end of those things is death. ^romans-06-21

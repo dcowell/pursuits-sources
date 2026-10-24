@@ -52,33 +52,31 @@ description: esther-chapter 3
 
 13 Letters were sent by couriers to all the royal provinces, to destroy, kill and annihilate all the Jews, young and old, including women and children in one day, the thirteenth day of the twelfth month, Adar, and to seize their goods as spoil. ^esther-03-13
 
-CHAPTER B
+## CHAPTER B
 
-1 This is a copy of the letter: ^esther-03-1
+13a. This is a copy of the letter: “The great King Ahasuerus writes to the satraps of the hundred and twenty-seven provinces from India to Ethiopia, and the governors subordinate to them, as follows: ^esther-03-13a
 
-“The great King Ahasuerus writes to the satraps of the hundred and twenty-seven provinces from India to Ethiopia, and the governors subordinate to them, as follows:
+13b. When I came to rule many peoples and to hold sway over the whole world, not being carried away by a sense of my own authority but always acting fairly and with mildness, I determined to provide for my subjects a life of lasting tranquility; and, by making my kingdom civilized and safe for travel to its farthest borders, to restore the peace desired by all people. ^esther-03-13b
 
-2 When I came to rule many peoples and to hold sway over the whole world, not being carried away by a sense of my own authority but always acting fairly and with mildness, I determined to provide for my subjects a life of lasting tranquility; and, by making my kingdom civilized and safe for travel to its farthest borders, to restore the peace desired by all people. ^esther-03-2
+13c When I consulted my counselors as to how this might be accomplished, Haman, who excels among us in discretion, who is outstanding for constant good will and steadfast loyalty, and who has gained a place in the kingdom second only to me, ^esther-03-13c
 
-3 When I consulted my counselors as to how this might be accomplished, Haman, who excels among us in discretion, who is outstanding for constant good will and steadfast loyalty, and who has gained a place in the kingdom second only to me, ^esther-03-3
+13d. brought it to our attention that, mixed among all the nations throughout the world, there is one people of ill will, which by its laws is opposed to every other people and continually disregards the decrees of kings, so that the unity of empire blamelessly designed by us cannot be established. ^esther-03-13d
 
-4 brought it to our attention that, mixed among all the nations throughout the world, there is one people of ill will, which by its laws is opposed to every other people and continually disregards the decrees of kings, so that the unity of empire blamelessly designed by us cannot be established. ^esther-03-4
+13e. “Having noted, therefore, that this nation, and it alone, is continually at variance with all people, lives by divergent and alien laws, is inimical to our government, and does all the harm it can to undermine the stability of the kingdom, ^esther-03-13e
 
-5 “Having noted, therefore, that this nation, and it alone, is continually at variance with all people, lives by divergent and alien laws, is inimical to our government, and does all the harm it can to undermine the stability of the kingdom, ^esther-03-5
+13f. we hereby decree that all those who are indicated to you in the letters of Haman, who is in charge of the administration and is a second father to us, shall, together with their wives and children, be utterly destroyed by the swords of their enemies, without any pity or mercy, on the fourteenth day of the twelfth month, Adar, of the current year; ^esther-03-13f
 
-6 we hereby decree that all those who are indicated to you in the letters of Haman, who is in charge of the administration and is a second father to us, shall, together with their wives and children, be utterly destroyed by the swords of their enemies, without any pity or mercy, on the fourteenth day of the twelfth month, Adar, of the current year; ^esther-03-6
+13g. so that when these people, whose present ill will is of long standing, have gone down into Hades by a violent death on a single day, they may leave our government completely stable and undisturbed for the future.” ^esther-03-13g
 
-7 so that when these people, whose present ill will is of long standing, have gone down into Hades by a violent death on a single day, they may leave our government completely stable and undisturbed for the future.” ^esther-03-7
+\* (3:13f) Fourteenth day: only the Greek text here names the fourteenth of Adar as the day set aside for the destruction of the Jews. The Hebrew text consistently gives the date as the thirteenth of Adar (e.g., [3:13]) as does Greek addition [8:12u]; see note on [9:17] – [19].
 
-\* (B:6) Fourteenth day: only the Greek text here names the fourteenth of Adar as the day set aside for the destruction of the Jews. The Hebrew text consistently gives the date as the thirteenth of Adar (e.g., [3:13]) as does Greek addition [E:20]; see note on [9:17] – [19].
+a. (3:13b) [Est 5:2h] – [9].
 
-a. (B:2) [Est E:8] – [9].
+b. (3:13c) [Est 3:1]; [5:11]; [8:12l].
 
-b. (B:3) [Est 3:1]; [5:11]; [E:11].
+c. (3:13d) [Est 3:8]; [8:12y].
 
-c. (B:4) [Est 3:8]; [E:24].
-
-d. (B:6) [Est 3:13]; [7:4]; [E:11].
+d. (3:13f) [Est 3:13]; [7:4]; [8:12l].
 
 14 A copy of the decree to be promulgated as law in every province was published to all the peoples, that they might be prepared for that day. ^esther-03-14
 
@@ -86,7 +84,7 @@ d. (B:6) [Est 3:13]; [7:4]; [E:11].
 
 # Iv. Esther and Mordecai Plead for Help
 
-\* (3:2) We are not told the reasons for Mordecai’s refusal to bow. It may be the result of a form of Jewish piety that refuses to offer such homage to any mortal; see also Greek addition [C:5] – [7].
+\* (3:2) We are not told the reasons for Mordecai’s refusal to bow. It may be the result of a form of Jewish piety that refuses to offer such homage to any mortal; see also Greek addition [4:17e] – [15g].
 
 \* (3:7) The pur, or lot: the Hebrew text preserves the Akkadian word *pur* because its plural, *purim*, became the name of the feast of Purim commemorating the deliverance of the Jews; cf. [9:24], [26]. The lot functions as a kind of horoscope to determine the most favorable day for the pogrom.
 
@@ -94,21 +92,21 @@ d. (B:6) [Est 3:13]; [7:4]; [E:11].
 
 \* (3:11) Although Ahasuerus seems to refuse the bribe, this is probably a polite way of accepting it that makes him appear munificent (compare [[genesis-23|Gen 23]]:11 – [15], where Ephron tells [[abraham|Abraham]] that he “gives” him the field and, after a few more pleasantries, sets a very high price for it). Both [4:7] and [7:4] seem to assume Ahasuerus has accepted the money.
 
-a. (3:1) [Est B:3]; [5:11]; [E:11].
+a. (3:1) [Est 3:13c]; [5:11]; [8:12l].
 
-b. (3:2) [Est C:5]; [5:9], [13]; [6:10], [12].
+b. (3:2) [Est 4:15e]; [5:9], [13]; [6:10], [12].
 
 c. (3:3) [Est 4:16].
 
-d. (3:7) [Est 9:24] – [32]; [F:10].
+d. (3:7) [Est 9:24] – [32]; [10:3k].
 
-e. (3:8) [Est 3:13]; [B:4]; [E:24]; ([[wisdom-02|Wis 2]]:14] – [15]; [Dn 3:8] – [12].
+e. (3:8) [Est 3:13]; [3:13d]; [8:12y]; ([[wisdom-02|Wis 2]]:14] – [15]; [Dn 3:8] – [12].
 
 f. (3:9) [Est 7:4].
 
 g. (3:10) [Gn 41:42].
 
-h. (3:13) [Est B:6]; [7:4].
+h. (3:13) [Est 3:13f]; [7:4].
 
 ---
 

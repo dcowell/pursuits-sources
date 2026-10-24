@@ -92,6 +92,8 @@ But the people saw and did not understand,
 
 nor did they take that consideration into account.
 
+15 * ^wisdom-04-15
+
 16 Yes, the righteous one who has died will condemn ^wisdom-04-16
 
 the sinful who live;

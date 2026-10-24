@@ -88,7 +88,7 @@ But you have made it a den of thieves.”
 
 25 When you stand to pray, forgive anyone against whom you have a grievance, so that your heavenly Father may in turn forgive you your transgressions.” ^mark-11-25
 
-\[26\]
+26 * ^mark-11-26
 
 **The Authority of Jesus Questioned.**
 

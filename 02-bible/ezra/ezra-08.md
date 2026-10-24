@@ -92,6 +92,8 @@ description: Ezra, Chapter 8
 
 33 On the fourth day, the silver, the gold, and the vessels were weighed out in the house of our God and given to the priest Meremoth, son of Uriah, with whom was Eleazar, son of Phinehas; they were assisted by the Levites Jozabad, son of Jeshua, and Noadiah, son of Binnui. ^ezra-08-33
 
+34 Everything was in order as to number and weight, and the total weight was registered. At that same time, ^ezra-08-34
+
 35 those who had returned from the captivity, the exiles, offered as burnt offerings to the God of Israel twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve goats as sin offerings: all these as a burnt offering to the LORD. ^ezra-08-35
 
 36 Finally, the orders of the king were presented to the king’s satraps and to the governors in West-of-Euphrates, who gave their support to the people and to the house of God. ^ezra-08-36

@@ -40,6 +40,8 @@ description: 2 John, the Second Letter of John
 
 10 If anyone comes to you and does not bring this doctrine, do not receive him in your house or even greet him; ^2-john-01-10
 
+11 for whoever greets him shares in his evil works. ^2-john-01-11
+
 12 Although I have much to write to you, I do not intend to use paper and ink. Instead, I hope to visit you and to speak face to face so that our joy may be complete. ^2-john-01-12
 
 13 The children of your chosen sister send you greetings. ^2-john-01-13

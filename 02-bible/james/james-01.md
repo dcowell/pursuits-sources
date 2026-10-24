@@ -82,7 +82,7 @@ description: James, Chapter 1
 
 26 If anyone thinks he is religious and does not bridle his tongue but deceives his heart, his religion is vain. ^james-01-26
 
-27 Religion that is pure and undefiled before God and the Father is this: to care for orphans and widows in their affliction and to keep oneself unstained by the world. ^c320f7 ^james-01-27
+27 Religion that is pure and undefiled before God and the Father is this: to care for orphans and widows in their affliction and to keep oneself unstained by the world. ^james-01-27
 
 ---
 

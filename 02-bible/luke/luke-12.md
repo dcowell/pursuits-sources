@@ -52,6 +52,8 @@ description: Luke, Chapter 12
 
 **Saying Against Greed.**
 
+13 Someone in the crowd said to him, “Teacher, tell my brother to share the inheritance with me.” ^luke-12-13
+
 14 He replied to him, “Friend, who appointed me as your judge and arbitrator?” ^luke-12-14
 
 15 Then he said to the crowd, “Take care to guard against all greed, for though one may be rich, one’s life does not consist of possessions.” ^luke-12-15

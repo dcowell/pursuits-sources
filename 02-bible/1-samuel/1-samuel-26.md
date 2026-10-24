@@ -62,6 +62,8 @@ description: 1 Samuel, Chapter 26
 
 18 He continued: “Why does my lord pursue his servant? What have I done? What evil am I planning? ^1-samuel-26-18
 
+19 Please, now, let my lord the king listen to the words of his servant. If the LORD has incited you against me, may an offering please the LORD. But if it is the people who have done so, may they be cursed before the LORD. They have driven me away so that today I have no share in the LORD’s heritage,* but am told: ‘Go serve other gods!’ ^1-samuel-26-19
+
 20 Do not let my blood spill on the ground far from the presence of the LORD. For the king of Israel has come out to seek a single flea as if he were hunting partridge in the mountains.” ^1-samuel-26-20
 
 21 Then Saul said: “I have done wrong. Come back, David, my son! I will not harm you again, because you considered my life precious today even though I have been a fool and have made a serious mistake.” ^1-samuel-26-21

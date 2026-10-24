@@ -26,7 +26,7 @@ description: Luke, Chapter 13
 
 2 He said to them in reply, “Do you think that because these Galileans suffered in this way they were greater sinners than all other Galileans? ^luke-13-2
 
-3 By no means! But I tell you, if you do not repent, you will all perish as they did! ^6768c1 ^luke-13-3
+3 By no means! But I tell you, if you do not repent, you will all perish as they did! ^luke-13-3
 
 4 Or those eighteen people who were killed when the tower at Siloam fell on them—do you think they were more guilty than everyone else who lived in Jerusalem? ^luke-13-4
 

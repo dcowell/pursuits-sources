@@ -74,37 +74,15 @@ description: Daniel, Chapter 3
 
 25 Azariah stood up in the midst of the fire and prayed aloud: ^daniel-03-25
 
-26 “Blessed are you, and praiseworthy, ^daniel-03-26
+26 “Blessed are you, and praiseworthy, O Lord, the God of our ancestors, and glorious forever is your name. ^daniel-03-26
 
-O Lord, the God of our ancestors,
+27 For you are just in all you have done; all your deeds are faultless, all your ways right, and all your judgments proper. ^daniel-03-27
 
-and glorious forever is your name.
+28 You have executed proper judgments in all that you have brought upon us and upon Jerusalem, the holy city of our ancestors. By a proper judgment you have done all this because of our sins; ^daniel-03-28
 
-27 For you are just in all you have done; ^daniel-03-27
+29 For we have sinned and transgressed by departing from you, and we have done every kind of evil. ^daniel-03-29
 
-all your deeds are faultless, all your ways right,
-
-and all your judgments proper.
-
-28 You have executed proper judgments ^daniel-03-28
-
-in all that you have brought upon us
-
-and upon Jerusalem, the holy city of our ancestors.
-
-By a proper judgment you have done all this
-
-because of our sins;
-
-29 For we have sinned and transgressed ^daniel-03-29
-
-by departing from you,
-
-and we have done every kind of evil.
-
-30 Your commandments we have not heeded or observed, ^daniel-03-30
-
-nor have we done as you ordered us for our good.
+30 Your commandments we have not heeded or observed, nor have we done as you ordered us for our good. ^daniel-03-30
 
 31 Therefore all you have brought upon us, ^daniel-03-31
 

@@ -26,7 +26,11 @@ description: 1 kings-chapter 6
 
 2 The house which King Solomon built for the LORD was sixty cubits long, twenty wide, and thirty high. ^1-kings-06-2
 
+3 The porch in front of the nave of the house was twenty cubits from side to side along the width of the house, and ten cubits deep in front of the house. ^1-kings-06-3
+
 4 Windows with closed lattices were made for the house, ^1-kings-06-4
+
+5 and adjoining the wall of the house he built a substructure around its walls that enclosed the nave and the inner sanctuary, and he made side chambers all around. ^1-kings-06-5
 
 6 The lowest story was five cubits wide, the middle one six cubits wide, the third seven cubits wide, because he put recesses along the outside of the house to avoid fastening anything into the walls of the house. ^1-kings-06-6
 
@@ -49,6 +53,8 @@ description: 1 kings-chapter 6
 15 its inside walls were lined with cedar paneling: he covered the interior with wood from floor to ceiling, and he covered its floor with fir planking. ^1-kings-06-15
 
 16 At the rear of the house a space of twenty cubits was set off by cedar panels from the floor to the ceiling, enclosing the inner sanctuary, the holy of holies. ^1-kings-06-16
+
+17 The house was forty cubits long, that is, the nave, the part in front. ^1-kings-06-17
 
 18 The cedar in the interior of the house was carved in the form of gourds and open flowers; all was of cedar, and no stone was to be seen. ^1-kings-06-18
 
@@ -79,6 +85,8 @@ description: 1 kings-chapter 6
 31 At the entrance of the inner sanctuary, doors of pine were made; the doorframes had five-sided posts. ^1-kings-06-31
 
 32 The two doors were of pine, with carved figures of cherubim, palm trees, and open flowers. The doors were overlaid with gold, and the cherubim and the palm trees were also covered with beaten gold. ^1-kings-06-32
+
+33 He did the same at the entrance to the nave, where the doorposts were of pine and were four-sided. ^1-kings-06-33
 
 34 The two doors were of fir wood, each door consisting of two panels hinged together; ^1-kings-06-34
 

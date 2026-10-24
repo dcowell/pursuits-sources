@@ -56,6 +56,8 @@ What can anyone do to me?”
 
 15 Through him \[then\] let us continually offer God a sacrifice of praise, that is, the fruit of lips that confess his name. ^hebrews-13-15
 
+16 Do not neglect to do good and to share what you have; God is pleased by sacrifices of that kind. ^hebrews-13-16
+
 17 Obey your leaders and defer to them, for they keep watch over you and will have to give an account, that they may fulfill their task with joy and not with sorrow, for that would be of no advantage to you. ^hebrews-13-17
 
 18 Pray for us, for we are confident that we have a clear conscience, wishing to act rightly in every respect. ^hebrews-13-18

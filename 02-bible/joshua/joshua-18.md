@@ -34,9 +34,13 @@ description: Joshua, Chapter 18
 
 6 You shall bring to me here the description of the land in seven sections. I will then cast lots for you here before the LORD, our God. ^joshua-18-6
 
+7 For the Levites have no share among you, because the priesthood of the LORD is their heritage; while Gad, Reuben, and the half-tribe of Manasseh have already received the heritage east of the Jordan which Moses, the servant of the LORD, gave them.” ^joshua-18-7
+
 8 When those who were to describe the land were ready for their journey, Joshua commanded them, “Go throughout the land and describe it; return to me and I will cast lots for you here before the LORD in Shiloh.” ^joshua-18-8
 
 9 So they went through the land, described its cities in writing in seven sections, and returned to Joshua in the camp at Shiloh. ^joshua-18-9
+
+10 Joshua then cast lots for them before the LORD in Shiloh, and divided up the land for the Israelites into their separate shares. ^joshua-18-10
 
 **Benjamin.**
 

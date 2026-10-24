@@ -40,6 +40,8 @@ description: Ecclesiastes, Chapter 2
 
 9 I accumulated much more than all others before me in Jerusalem; my wisdom, too, stayed with me. ^ecclesiastes-02-9
 
+10 Nothing that my eyes desired did I deny them, nor did I deprive myself of any joy; rather, my heart rejoiced in the fruit of all my toil. This was my share for all my toil. ^ecclesiastes-02-10
+
 11 But when I turned to all the works that my hands had wrought, and to the fruit of the toil for which I had toiled so much, see! all was vanity and a chase after wind. There is no profit under the sun. ^ecclesiastes-02-11
 
 12 What about one who succeeds a king? He can do only what has already been done. ^ecclesiastes-02-12

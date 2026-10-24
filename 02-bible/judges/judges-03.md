@@ -80,6 +80,8 @@ description: Judges, Chapter 3
 
 27 On his arrival he sounded the horn in the mountain region of Ephraim, and the Israelites went down from the mountains with him as their leader. ^judges-03-27
 
+28 “Follow me,” he said to them, “for the LORD has delivered your enemies the Moabites into your power.”i So they followed him down and seized the fords of the Jordan against the Moabites, permitting no one to cross. ^judges-03-28
+
 29 On that occasion they slew about ten thousand Moabites, all of them strong warriors. Not one escaped. ^judges-03-29
 
 30 So Moab was brought under the power of Israel at that time; and the land had rest for eighty years. ^judges-03-30

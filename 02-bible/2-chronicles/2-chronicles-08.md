@@ -52,6 +52,8 @@ description: 2 Chronicles, Chapter 8
 
 14 And according to the ordinance of David his father he appointed the various divisions of the priests for their service, and the Levites according to their functions of praise and attendance upon the priests, as the daily duty required. The gatekeepers by their divisions stood guard at each gate, since such was the command of David, the man of God. ^2-chronicles-08-14
 
+15 There was no deviation from the king’s command in whatever related to the priests and Levites or the treasuries. ^2-chronicles-08-15
+
 16 All of Solomon’s work was carried out successfully from the day the foundation of the house of the LORD was laid until its completion. The house of the LORD was finished. ^2-chronicles-08-16
 
 **Glories of the Court.**

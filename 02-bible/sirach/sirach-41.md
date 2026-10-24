@@ -90,7 +90,9 @@ but a good name, for days without number.
 
 ### True and False Shame
 
-14b Hidden wisdom and concealed treasure,
+14 * ^sirach-41-14
+
+14b. Hidden wisdom and concealed treasure,
 
 of what value is either?
 
@@ -98,11 +100,13 @@ of what value is either?
 
 than the one who hides his wisdom.
 
-14a My children, listen to instruction about shame;
+14a. My children, listen to instruction about shame;
 
-16a judge of disgrace according to my rules,
+16 * ^sirach-41-16
 
-16b Not every kind of shame is shameful,
+16a. judge of disgrace according to my rules,
+
+16b. Not every kind of shame is shameful,
 
 nor is every kind of disgrace to be recognized.
 
@@ -124,15 +128,17 @@ and of stretching your elbow at dinner;
 
 Of refusing to give when asked,
 
+20 * ^sirach-41-20
+
 21 of rebuffing your own relatives; ^sirach-41-21
 
 Of defrauding another of his appointed share,
 
-20a of failing to return a greeting;
+20a. of failing to return a greeting;
 
-21c Of gazing at a man’s wife,
+21c. Of gazing at a man’s wife,
 
-20b of entertaining thoughts about another woman;
+20b. of entertaining thoughts about another woman;
 
 22 Of trifling with a servant girl you have, ^sirach-41-22
 

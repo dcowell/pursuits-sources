@@ -26,6 +26,8 @@ description: Jeremiah, Chapter 39
 
 2 In the eleventh year of Zedekiah, on the ninth day of the fourth month, the city wall was breached. ^jeremiah-39-2
 
+3 All the princes of the king of Babylon came and took their seats at the middle gate: Nergal-sharezer of Simmagir, a chief officer; Nebushazban, a high dignitary; and all the rest of the princes of the king of Babylon.* ^jeremiah-39-3
+
 4 When Zedekiah, king of Judah, and all his warriors saw this, they fled, leaving the city at night by way of the king’s garden, through a gate between the two walls. He went in the direction of the Arabah, ^jeremiah-39-4
 
 5 but the Chaldean army pursued them; they caught up with Zedekiah in the wilderness near Jericho and took him prisoner. They brought him to Nebuchadnezzar, king of Babylon, in Riblah, in the land of Hamath, and he pronounced sentence upon him. ^jeremiah-39-5
@@ -45,6 +47,8 @@ description: Jeremiah, Chapter 39
 11 Concerning Jeremiah, Nebuchadnezzar, king of Babylon, gave these orders through Nebuzaradan, captain of the bodyguard: ^jeremiah-39-11
 
 12 “Take him and look after him; do not let anything happen to him. Whatever he may ask, you must do for him.” ^jeremiah-39-12
+
+13 Thereupon Nebuzaradan, captain of the bodyguard, and Nebushazban, a high dignitary, and Nergal-sharezer, a chief officer, and all the nobles of the king of Babylon, ^jeremiah-39-13
 
 14 had Jeremiah taken out of the courtyard of the guard and entrusted to Gedaliah, son of Ahikam, son of Shaphan, to bring him home. And so he remained among the people. ^jeremiah-39-14
 

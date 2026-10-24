@@ -44,6 +44,8 @@ description: Jeremiah, Chapter 37
 
 11 Now when the Chaldean army withdrew from Jerusalem because of the army of Pharaoh, ^jeremiah-37-11
 
+12 Jeremiah set out from Jerusalem to go to the territory of Benjamin, to receive his share of property among the people. ^jeremiah-37-12
+
 13 But at the Gate of Benjamin, the captain of the guard, by the name of Irijah, son of Shelemiah, son of Hananiah, arrested Jeremiah the prophet, saying, “You are deserting to the Chaldeans!” ^jeremiah-37-13
 
 14 “That is a lie!” Jeremiah answered, “I am not deserting to the Chaldeans.” Without listening to him, Irijah kept Jeremiah in custody and brought him to the princes. ^jeremiah-37-14

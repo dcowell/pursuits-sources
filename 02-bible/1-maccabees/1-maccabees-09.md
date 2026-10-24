@@ -94,7 +94,7 @@ description: 1 Maccabees, Chapter 9
 
 33 But Jonathan and his brother Simon and all who were with him discovered this, and they fled to the wilderness of Tekoa and camped by the waters of the pool of Asphar. ^1-maccabees-09-33
 
-\[34\]
+34 * ^1-maccabees-09-34
 
 35 Jonathan sent his brother as leader of the convoy to implore his friends, the Nabateans, to let them deposit with them their great quantity of baggage. ^1-maccabees-09-35
 

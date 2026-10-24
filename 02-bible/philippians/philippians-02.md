@@ -78,6 +78,10 @@ to the glory of God the Father.
 
 16 as you hold on to the word of life, so that my boast for the day of Christ may be that I did not run in vain or labor in vain. ^philippians-02-16
 
+17 But, even if I am poured out as a libation* upon the sacrificial service of your faith, I rejoice and share my joy with all of you. ^philippians-02-17
+
+18 In the same way you also should rejoice and share your joy with me. ^philippians-02-18
+
 # Iv. Travel Plans of Paul and His Assistants
 
 **Timothy and Paul.**

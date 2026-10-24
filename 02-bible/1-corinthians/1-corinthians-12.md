@@ -74,6 +74,8 @@ description: 1 Corinthians, Chapter 12
 
 25 so that there may be no division in the body, but that the parts may have the same concern for one another. ^1-corinthians-12-25
 
+26 If [one] part suffers, all the parts suffer with it; if one part is honored, all the parts share its joy. ^1-corinthians-12-26
+
 **Application to Christ.**
 
 27 Now you are Christ’s body, and individually parts of it. ^1-corinthians-12-27

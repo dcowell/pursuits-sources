@@ -28,6 +28,8 @@ description: Joshua, Chapter 14
 
 3 To two and a half tribes Moses had already given a heritage beyond the Jordan; to the Levites he had given no heritage among them: ^joshua-14-3
 
+4 the descendants of Joseph formed two tribes, Manasseh and Ephraim. But the Levites were given no share of the land except cities to live in, with their pasture lands for the herds and flocks. ^joshua-14-4
+
 5 As the LORD had commanded Moses, so the Israelites did: they apportioned the land. ^joshua-14-5
 
 **Caleb’s Portion.**

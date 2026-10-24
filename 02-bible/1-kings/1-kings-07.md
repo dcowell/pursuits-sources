@@ -118,6 +118,8 @@ description: 1 Kings, Chapter 7
 
 49 the lampstands of pure gold, five to the right and five to the left before the inner sanctuary; their flowers, lamps, and tongs of gold; ^1-kings-07-49
 
+50 basins, snuffers, bowls, cups, and firepans of pure gold; hinges of gold for the doors of the innermost part of the house, or holy of holies, and for the doors of the outer room, the nave. ^1-kings-07-50
+
 51 When all the work undertaken by King Solomon in the house of the LORD was completed, he brought in the votive offerings of his father David, and put the silver, gold, and other articles in the treasuries of the house of the LORD. ^1-kings-07-51
 
 \* (7:1] – [12]\] The account of Solomon’s building of the Temple (the Lord’s “house”) is interrupted by an account of his building of the palace (Solomon’s “house”), which contained also the main buildings of public administration. The passage is anachronistic, since [6:38] – [7:1] and [9:10] imply that the palace was not begun until the Temple was completed. By placing the account here, the narrator highlights the fact that Solomon spent almost twice as long on his own “house” as on the Lord’s.

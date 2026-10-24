@@ -34,19 +34,13 @@ description: Hebrews, Chapter 2
 
 5 For it was not to angels that he subjected the world to come, of which we are speaking. ^hebrews-02-5
 
-6 Instead, someone has testified somewhere: ^hebrews-02-6
+6 Instead, someone has testified somewhere:  ^hebrews-02-6
 
-“What is man that you are mindful of him,
+“What is man that you are mindful of him, or the son of man that you care for him? ^hebrews-02-6
 
-or the son of man that you care for him?
+7 You made him for a little while lower than the angels; you crowned him with glory and honor, ^hebrews-02-7
 
-7 You made him for a little while lower than the angels; ^hebrews-02-7
-
-you crowned him with glory and honor,
-
-8 subjecting all things under his feet.” ^hebrews-02-8
-
-In “subjecting” all things \[to him\], he left nothing not “subject to him.” Yet at present we do not see “all things subject to him,”
+8 subjecting all things under his feet.” In “subjecting” all things \[to him\], he left nothing not “subject to him.” Yet at present we do not see “all things subject to him,” ^hebrews-02-8
 
 9 but we do see Jesus “crowned with glory and honor” because he suffered death, he who “for a little while” was made “lower than the angels,” that by the grace of God he might taste death for everyone. ^hebrews-02-9
 
@@ -54,19 +48,11 @@ In “subjecting” all things \[to him\], he left nothing not “subject to him
 
 11 He who consecrates and those who are being consecrated all have one origin. Therefore, he is not ashamed to call them “brothers,” ^hebrews-02-11
 
-12 saying: ^hebrews-02-12
+12 saying: “I will proclaim your name to my brothers, in the midst of the assembly I will praise you”; ^hebrews-02-12
 
-“I will proclaim your name to my brothers,
+13 and again: “I will put my trust in him”; and again: “Behold, I and the children God has given me.” ^hebrews-02-13
 
-in the midst of the assembly I will praise you”;
-
-13 and again: ^hebrews-02-13
-
-“I will put my trust in him”;
-
-and again:
-
-“Behold, I and the children God has given me.”
+14 Now since the children share in blood and flesh, he likewise shared in them, that through death he might destroy the one who has the power of death, that is, the devil, ^hebrews-02-14
 
 15 and free those who through fear of death had been subject to slavery all their life. ^hebrews-02-15
 

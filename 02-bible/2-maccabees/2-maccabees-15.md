@@ -22,33 +22,33 @@ description: 2 Maccabees, Chapter
 
 **Nicanor’s Arrogance.**
 
-1When Nicanor learned that Judas and his companions were in the territory of Samaria, he decided he could attack them in complete safety on the day of rest.
+1 When Nicanor learned that Judas and his companions were in the territory of Samaria, he decided he could attack them in complete safety on the day of rest. ^2-maccabees-15-1
 
-2The Jews who were forced to accompany him pleaded, “Do not massacre them so savagely and barbarously, but show respect for the day which the All-seeing has exalted with holiness above all other days.”
+2 The Jews who were forced to accompany him pleaded, “Do not massacre them so savagely and barbarously, but show respect for the day which the All-seeing has exalted with holiness above all other days.” ^2-maccabees-15-2
 
-3At this the thrice-accursed wretch asked if there was a ruler in heaven who prescribed the keeping of the sabbath day.[a]
+3 At this the thrice-accursed wretch asked if there was a ruler in heaven who prescribed the keeping of the sabbath day. ^2-maccabees-15-3
 
-4They replied, “It is the living Lord, the ruler in heaven, who commands the observance of the sabbath day.”
+4 They replied, “It is the living Lord, the ruler in heaven, who commands the observance of the sabbath day.” ^2-maccabees-15-4
 
-5Then he said, “I, the ruler on earth, command you to take up arms and carry out the king’s business.” Nevertheless he did not succeed in carrying out his cruel plan.
+5 Then he said, “I, the ruler on earth, command you to take up arms and carry out the king’s business.” Nevertheless he did not succeed in carrying out his cruel plan. ^2-maccabees-15-5
 
-6In his utter boastfulness and arrogance Nicanor had determined to erect a public victory monument[*] over Judas and his companions.
+6 In his utter boastfulness and arrogance Nicanor had determined to erect a public victory monument over Judas and his companions. ^2-maccabees-15-6
 
-7But Maccabeus remained confident, fully convinced that he would receive help from the Lord.
+7 But Maccabeus remained confident, fully convinced that he would receive help from the Lord. ^2-maccabees-15-7
 
-8He urged his men not to fear the attack of the Gentiles, but mindful of the help they had received in the past from Heaven, to expect now the victory that would be given them by the Almighty.
+8 He urged his men not to fear the attack of the Gentiles, but mindful of the help they had received in the past from Heaven, to expect now the victory that would be given them by the Almighty. ^2-maccabees-15-8
 
-9By encouraging them with words from the law and the prophets,[*]and by reminding them of the battles they had already won, he filled them with fresh enthusiasm.
+9 By encouraging them with words from the law and the prophets, and by reminding them of the battles they had already won, he filled them with fresh enthusiasm. ^2-maccabees-15-9
 
-10Having stirred up their courage, he gave his orders and pointed out at the same time the perfidy of the Gentiles and their violation of oaths.
+10 Having stirred up their courage, he gave his orders and pointed out at the same time the perfidy of the Gentiles and their violation of oaths. ^2-maccabees-15-10
 
-11When he had armed each of them, not so much with the security of shield and spear as with the encouragement of noble words, he cheered them all by relating a dream, a kind of waking vision, worthy of belief.
+11 When he had armed each of them, not so much with the security of shield and spear as with the encouragement of noble words, he cheered them all by relating a dream, a kind of waking vision, worthy of belief. ^2-maccabees-15-11
 
-12What he saw was this: Onias, the former high priest,[*] a noble and good man, modest in bearing, gentle in manner, distinguished in speech, and trained from childhood in all that belongs to excellence, was praying with outstretched arms for the whole Jewish community.[b]
+12 What he saw was this: Onias, the former high priest, a noble and good man, modest in bearing, gentle in manner, distinguished in speech, and trained from childhood in all that belongs to excellence, was praying with outstretched arms for the whole Jewish community. ^2-maccabees-15-12
 
 13 Then in the same way another man appeared, distinguished by his white hair and dignity, and with an air of wondrous and majestic authority. ^2-maccabees-15-13
 
-14 Onias then said of him, “This is a man[*] who loves his fellow Jews and fervently prays for the people and the holy city—the prophet of God, Jeremiah.” ^2-maccabees-15-14
+14 Onias then said of him, “This is a man who loves his fellow Jews and fervently prays for the people and the holy city—the prophet of God, Jeremiah.” ^2-maccabees-15-14
 
 15 Stretching out his right hand, Jeremiah presented a gold sword to Judas. As he gave it to him he said, ^2-maccabees-15-15
 
@@ -64,47 +64,47 @@ description: 2 Maccabees, Chapter
 
 **Defeat of Nicanor.**
 
-21Maccabeus, surveying the hosts before him, the variety of weaponry, and the fierceness of their beasts, stretched out his hands toward heaven and called upon the Lord who works wonders; for he knew that it is not weapons but the Lord’s decision that brings victory to those who deserve it.
+21 Maccabeus, surveying the hosts before him, the variety of weaponry, and the fierceness of their beasts, stretched out his hands toward heaven and called upon the Lord who works wonders; for he knew that it is not weapons but the Lord’s decision that brings victory to those who deserve it. ^2-maccabees-15-21
 
-22Calling upon God, he spoke in this manner: “You, master, sent your angel in the days of King Hezekiah of Judea, and he slew a hundred and eighty-five thousand men of Sennacherib’s camp.[d]
+22 Calling upon God, he spoke in this manner: “You, master, sent your angel in the days of King Hezekiah of Judea, and he slew a hundred and eighty-five thousand men of Sennacherib’s camp. ^2-maccabees-15-22
 
-23And now, Sovereign of the heavens, send a good angel to spread fear and trembling ahead of us.
+23 And now, Sovereign of the heavens, send a good angel to spread fear and trembling ahead of us. ^2-maccabees-15-23
 
-24By the might of your arm may those be struck down who have blasphemously come against your holy people!” With these words he ended his prayer.
+24 By the might of your arm may those be struck down who have blasphemously come against your holy people!” With these words he ended his prayer. ^2-maccabees-15-24
 
-25[e] Nicanor and his troops advanced to the sound of trumpets and battle songs.
+25 Nicanor and his troops advanced to the sound of trumpets and battle songs.  ^2-maccabees-15-25
 
-26But Judas and his troops met the enemy with supplication and prayers.
+26 But Judas and his troops met the enemy with supplication and prayers. ^2-maccabees-15-26
 
-27Fighting with their hands and praying to God with their hearts, they laid low at least thirty-five thousand, and rejoiced greatly over this manifestation of God’s power.
+27 Fighting with their hands and praying to God with their hearts, they laid low at least thirty-five thousand, and rejoiced greatly over this manifestation of God’s power. ^2-maccabees-15-27
 
-28When the battle was over and they were joyfully departing, they discovered Nicanor fallen there in all his armor;
+28 When the battle was over and they were joyfully departing, they discovered Nicanor fallen there in all his armor; ^2-maccabees-15-28
 
-29so they raised tumultuous shouts in their ancestral language in praise of the divine Sovereign.
+29 so they raised tumultuous shouts in their ancestral language in praise of the divine Sovereign. ^2-maccabees-15-29
 
-30Then Judas, that man who was ever in body and soul the chief defender of his fellow citizens, and had maintained from youth his affection for his compatriots, ordered Nicanor’s head and right arm up to the shoulder to be cut off and taken to Jerusalem.
+30 Then Judas, that man who was ever in body and soul the chief defender of his fellow citizens, and had maintained from youth his affection for his compatriots, ordered Nicanor’s head and right arm up to the shoulder to be cut off and taken to Jerusalem. ^2-maccabees-15-30
 
-31When he arrived there, he assembled his compatriots, stationed the priests before the altar, and sent for those in the citadel.[*]
+31 When he arrived there, he assembled his compatriots, stationed the priests before the altar, and sent for those in the citadel. ^2-maccabees-15-31
 
-32He showed them the vile Nicanor’s head and the wretched blasphemer’s arm that had been boastfully stretched out against the holy dwelling of the Almighty.
+32 He showed them the vile Nicanor’s head and the wretched blasphemer’s arm that had been boastfully stretched out against the holy dwelling of the Almighty. ^2-maccabees-15-32
 
-33He cut out the tongue of the godless Nicanor, saying he would feed it piecemeal to the birds and would hang up the other wages of his folly opposite the temple.
+33 He cut out the tongue of the godless Nicanor, saying he would feed it piecemeal to the birds and would hang up the other wages of his folly opposite the temple. ^2-maccabees-15-33
 
-34At this, everyone looked toward heaven and praised the Lord who manifests himself: “Blessed be the one who has preserved undefiled his own place!”
+34 At this, everyone looked toward heaven and praised the Lord who manifests himself: “Blessed be the one who has preserved undefiled his own place!” ^2-maccabees-15-34
 
-35Judas hung Nicanor’s head and arm on the wall of the citadel, a clear and evident sign to all of the Lord’s help.[f]
+35 Judas hung Nicanor’s head and arm on the wall of the citadel, a clear and evident sign to all of the Lord’s help. ^2-maccabees-15-35
 
-36By public vote it was unanimously decreed never to let this day pass unobserved, but to celebrate the thirteenth day of the twelfth month, called Adar in Aramaic, the eve of Mordecai’s Day.[*][g]
+36 By public vote it was unanimously decreed never to let this day pass unobserved, but to celebrate the thirteenth day of the twelfth month, called Adar in Aramaic, the eve of Mordecai’s Day. ^2-maccabees-15-36
 
 # Vii. Epilogue
 
 **Compiler’s Apology.**
 
-37Since Nicanor’s doings ended in this way, with the city remaining in the possession of the Hebrews from that time on, I will bring my story to an end here too.
+37 Since Nicanor’s doings ended in this way, with the city remaining in the possession of the Hebrews from that time on, I will bring my story to an end here too. ^2-maccabees-15-37
 
-38[h] If it is well written and to the point, that is what I wanted; if it is poorly done and mediocre, that is the best I could do.
+38 If it is well written and to the point, that is what I wanted; if it is poorly done and mediocre, that is the best I could do. ^2-maccabees-15-38
 
-39Just as it is unpleasant to drink wine by itself or just water, whereas wine mixed with water makes a delightful and pleasing drink, so a skillfully composed story delights the ears of those who read the work. Let this, then, be the end.
+39 Just as it is unpleasant to drink wine by itself or just water, whereas wine mixed with water makes a delightful and pleasing drink, so a skillfully composed story delights the ears of those who read the work. Let this, then, be the end. ^2-maccabees-15-39
 
 * (15:6]] Public victory monument: a heap of stones covered with the arms and armor of the fallen enemy.
 * (15:9]] The law and the prophets: the first of the three parts of the Hebrew Scriptures, called the sacred books ([1 Mc 12:9]; [2 Mc 2:14]).

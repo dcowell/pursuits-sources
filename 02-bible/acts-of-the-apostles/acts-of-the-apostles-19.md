@@ -76,6 +76,8 @@ description: Acts of the Apostles, Chapter 19
 
 24 There was a silversmith named Demetrius who made miniature silver shrines of Artemis and provided no little work for the craftsmen. ^acts-of-the-apostles-19-24
 
+25 He called a meeting of these and other workers in related crafts and said, “Men, you know well that our prosperity derives from this work. ^acts-of-the-apostles-19-25
+
 26 As you can now see and hear, not only in Ephesus but throughout most of the province of Asia this Paul has persuaded and misled a great number of people by saying that gods made by hands are not gods at all. ^acts-of-the-apostles-19-26
 
 27 The danger grows, not only that our business will be discredited, but also that the temple of the great goddess Artemis will be of no account, and that she whom the whole province of Asia and all the world worship will be stripped of her magnificence.” ^acts-of-the-apostles-19-27

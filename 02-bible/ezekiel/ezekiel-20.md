@@ -94,6 +94,8 @@ description: Ezekiel, Chapter 20
 
 36 Just as I entered into judgment with your ancestors in the wilderness of the land of Egypt, so will I enter into judgment with you—oracle of the Lord G OD. ^ezekiel-20-36
 
+37 Thus I will make you pass under the staff* and will impose on you the terms of the covenant. ^ezekiel-20-37
+
 38 I will sort out from you those who defied me and rebelled against me; from the land where they resided as aliens I will bring them out, but they shall not return to the land of Israel. Thus you shall know that I am the LORD. ^ezekiel-20-38
 
 39 As for you, house of Israel, thus says the Lord G OD: Go! each of you, and worship your idols. Listen to me! You shall never again desecrate my holy name with your offerings and your idols! ^ezekiel-20-39

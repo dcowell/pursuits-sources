@@ -24,6 +24,42 @@ description: esther-chapter 5
 
 2 When he saw Queen Esther standing in the courtyard, she won his favor and he extended toward her the golden scepter he held. She came up to him, and touched the top of the scepter.\] ^esther-05-2
 
+## CHAPTER D
+
+**Esther Goes to Ahasuerus.**
+
+2a. On the third day, ending her prayers, she took off her prayer garments and arrayed herself in her splendid attire. ^esther-05-2a
+
+2b. In making her appearance, after invoking the all-seeing God and savior, she took with her two maids; ^esther-05-2b
+
+2c. on the one she leaned gently for support, ^esther-05-2c
+
+2d. while the other followed her, bearing her train. ^esther-05-2d
+
+2e. She glowed with perfect beauty and her face was as joyous as it was lovely, though her heart was pounding with fear. ^esther-05-22e
+
+2f. She passed through all the portals till she stood before the king, who was seated on his royal throne, clothed in full robes of state, and covered with gold and precious stones, so that he inspired great awe. ^esther-05-2f
+
+2g. As he looked up in extreme anger, his features fiery and majestic, the queen staggered, turned pale and fainted, collapsing against the maid in front of her. ^esther-05-2g
+
+2h. But God changed the king’s anger to gentleness. In great anxiety he sprang from his throne, held her in his arms until she recovered, and comforted her with reassuring words. ^esther-05-2h
+
+2i. “What is it, Esther?” he said to her. “I am your brother. Take courage! ^esther-05-2i
+
+2k. You shall not die; this order of ours applies only to our subjects. ^esther-05-2k
+
+2l. Come near!” ^esther-05-2l
+
+2m. Raising the golden scepter, he touched her neck with it, embraced her, and said, “Speak to me.” ^esther-05-2m
+
+2n. She replied: “I saw you, my lord, as an angel of God, and my heart was shaken by fear of your majesty. ^esther-05-2n
+
+2o. For you are awesome, my lord, though your countenance is full of mercy.” ^esther-05-2o
+
+2p. As she said this, she fainted. ^esther-05-2p
+
+2q. The king was shaken and all his attendants tried to revive her. ^esther-05-2q
+
 3 Then the king said to her, “What is it, Queen Esther? What is your request? Even if it is half of my kingdom, it shall be granted you.” ^esther-05-3
 
 4 Esther replied, “If it please your majesty, come today with Haman to a banquet I have prepared.” ^esther-05-4
@@ -56,13 +92,19 @@ description: esther-chapter 5
 
 \* (5:1] – [2) The Hebrew text translated here is a short form of the account which is in Greek addition D.
 
+\* (5:2a] – [2q) Addition D expands on and replaces [5:1] – [2] of the Hebrew text.
+
+\* (5:2i) Brother: along with “sister,” a common term of affection between lovers or husband and wife. See, e.g., [Sg 4:9] – [12]; [8:1]; [Tb 5:22]; [7:11].
+
+a. (5:2m) [Est 4:11].
+
 a. (5:3) [Est 5:6]; [7:2]; [9:12].
 
 b. (5:6) [Est 5:3].
 
-c. (5:9) [Est 3:2] – [3]; [C:5] – [7]; [6:10], [12].
+c. (5:9) [Est 3:2] – [3]; [4:17e] – [7]; [6:10], [12].
 
-d. (5:11) [Est 3:1]; [B:3]; [E:11]; [9:6] – [10].
+d. (5:11) [Est 3:1]; [3:13c]; [8:12k]; [9:6] – [10].
 
 e. (5:13) [Est 3:2] – [3]; [6:10], [12].
 

@@ -70,6 +70,8 @@ description: Numbers, Chapter 3
 
 21 To Gershon belonged the clan of the Libnites and the clan of the Shimeites; these were the clans of the Gershonites. ^numbers-03-21
 
+22 Their enrollment, registering every male of a month or more, was seven thousand five hundred. ^numbers-03-22
+
 23 The clans of the Gershonites camped behind the tabernacle, to the west. ^numbers-03-23
 
 24 The leader of the ancestral house of the Gershonites was Eliasaph, son of Lael. ^numbers-03-24
@@ -80,6 +82,8 @@ description: Numbers, Chapter 3
 
 27 To Kohath belonged the clans of the Amramites, the Izharites, the Hebronites, and the Uzzielites; these were the clans of the Kohathites. ^numbers-03-27
 
+28 Their enrollment, registering every male of a month or more, was eight thousand three hundred. They were the ones who performed the duties of the sanctuary. ^numbers-03-28
+
 29 The clans of the Kohathites camped on the south side of the tabernacle. ^numbers-03-29
 
 30 And the leader of their ancestral house of the clan of the Kohathites was Elizaphan, son of Uzziel. ^numbers-03-30
@@ -89,6 +93,8 @@ description: Numbers, Chapter 3
 32 The chief of the leaders of the Levites, however, was Eleazar, son of Aaron the priest; he was in charge of those who performed the duties of the sanctuary. ^numbers-03-32
 
 33 To Merari belonged the clans of the Mahlites and the Mushites; these were the clans of Merari. ^numbers-03-33
+
+34 Their enrollment, registering every male of a month or more, was six thousand two hundred. ^numbers-03-34
 
 35 The leader of the ancestral house of the clans of Merari was Zuriel, son of Abihail. They camped at the north side of the tabernacle. ^numbers-03-35
 
@@ -107,6 +113,8 @@ description: Numbers, Chapter 3
 41 Then take the Levites for me—I am the LORD —in place of all the firstborn of the Israelites, as well as the Levites’ cattle, in place of all the firstborn among the cattle of the Israelites. ^numbers-03-41
 
 42 So Moses enrolled all the firstborn of the Israelites, as the LORD had commanded him. ^numbers-03-42
+
+43 All the firstborn males, registered by name, of a month or more, numbered twenty-two thousand two hundred and seventy-three. ^numbers-03-43
 
 44 The LORD said to Moses: ^numbers-03-44
 

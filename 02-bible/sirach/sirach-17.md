@@ -38,6 +38,8 @@ and made them in his image.
 
 and gave them dominion over beasts and birds.
 
+5 * ^sirach-17-5
+
 6 Discernment, tongues, and eyes, ^sirach-17-6
 
 ears, and a mind for thinking he gave them.
@@ -74,9 +76,13 @@ to each of them he gave precepts about their neighbor.
 
 they cannot be hidden from his eyes.
 
+16 * ^sirach-17-16
+
 17 Over every nation he appointed a ruler, ^sirach-17-17
 
 but Israel is the Lord’s own portion.
+
+18 * ^sirach-17-18
 
 19 All their works are clear as the sun to him, ^sirach-17-19
 
@@ -85,6 +91,8 @@ and his eyes are ever upon their ways.
 20 Their iniquities cannot be hidden from him; ^sirach-17-20
 
 all their sins are before the Lord.
+
+21 * ^sirach-17-21
 
 22 Human goodness is like a signet ring with God, ^sirach-17-22
 

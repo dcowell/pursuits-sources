@@ -80,23 +80,18 @@ description: 1 Maccabees, Chapter 1
 
 25 And there was great mourning throughout all Israel, ^1-maccabees-01-25
 
-26 and the rulers and the elders groaned. ^1-maccabees-01-26
+26 and the rulers and the elders groaned. Young women and men languished, and the beauty of the women faded. ^1-maccabees-01-26
 
-Young women and men languished,
+27 Every bridegroom took up lamentation, while the bride sitting in her chamber mourned, ^1-maccabees-01-27
 
-and the beauty of the women faded.
+28 And the land quaked on account of its inhabitants, and all the house of Jacob was clothed with shame. ^1-maccabees-01-28
 
-27 Every bridegroom took up lamentation, ^1-maccabees-01-27
-
-while the bride sitting in her chamber mourned,
-
-28 And the land quaked on account of its inhabitants, ^1-maccabees-01-28
-
-and all the house of Jacob was clothed with shame.
 
 **Attack and Occupation.**
 
 29 Two years later, the king sent the Mysian commander to the cities of Judah, and he came to Jerusalem with a strong force. ^1-maccabees-01-29
+
+30  ^1-maccabees-01-30
 
 31 He plundered the city and set fire to it, demolished its houses and its surrounding walls. ^1-maccabees-01-31
 
@@ -112,29 +107,13 @@ and all the house of Jacob was clothed with shame.
 
 and a wicked adversary to Israel at all times.
 
-37 They shed innocent blood around the sanctuary; ^1-maccabees-01-37
+37 They shed innocent blood around the sanctuary; they defiled the sanctuary. ^1-maccabees-01-37
 
-they defiled the sanctuary.
+38 Because of them the inhabitants of Jerusalem fled away, she became the abode of strangers. She became a stranger to her own offspring, and her children forsook her. ^1-maccabees-01-38
 
-38 Because of them the inhabitants of Jerusalem fled away, ^1-maccabees-01-38
+39 Her sanctuary became desolate as a wilderness; her feasts were turned into mourning, Her sabbaths to shame, her honor to contempt. ^1-maccabees-01-39
 
-she became the abode of strangers.
-
-She became a stranger to her own offspring,
-
-and her children forsook her.
-
-39 Her sanctuary became desolate as a wilderness; ^1-maccabees-01-39
-
-her feasts were turned into mourning,
-
-Her sabbaths to shame,
-
-her honor to contempt.
-
-40 As her glory had been, so great was her dishonor: ^1-maccabees-01-40
-
-her exaltation was turned into mourning.
+40 As her glory had been, so great was her dishonor: her exaltation was turned into mourning. ^1-maccabees-01-40
 
 **Religious Persecution.**
 

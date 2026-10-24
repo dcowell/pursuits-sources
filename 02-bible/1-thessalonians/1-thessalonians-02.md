@@ -36,6 +36,8 @@ description: 1 Thessalonians, Chapter 2
 
 7 although we were able to impose our weight as apostles of Christ. Rather, we were gentle among you, as a nursing mother cares for her children. ^1-thessalonians-02-7
 
+8 With such affection for you, we were determined to share with you not only the gospel of God, but our very selves as well, so dearly beloved had you become to us. ^1-thessalonians-02-8
+
 9 You recall, brothers, our toil and drudgery. Working night and day in order not to burden any of you, we proclaimed to you the gospel of God. ^1-thessalonians-02-9
 
 10 You are witnesses, and so is God, how devoutly and justly and blamelessly we behaved toward you believers. ^1-thessalonians-02-10

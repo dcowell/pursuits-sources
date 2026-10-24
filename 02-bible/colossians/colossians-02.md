@@ -26,7 +26,7 @@ description: Colossians, Chapter 2
 
 3 in whom are hidden all the treasures of wisdom and knowledge. ^colossians-02-3
 
-# Iii. Warnings Against False Teachers
+# III. Warnings Against False Teachers
 
 **A General Admonition.**
 
@@ -43,6 +43,8 @@ description: Colossians, Chapter 2
 **Sovereign Role of Christ.**
 
 9 For in him dwells the whole fullness of the deity bodily, ^colossians-02-9
+
+10 and you share in this fullness in him, who is the head of every principality and power. ^colossians-02-10
 
 11 In him you were also circumcised with a circumcision not administered by hand, by stripping off the carnal body, with the circumcision of Christ. ^colossians-02-11
 

@@ -58,7 +58,7 @@ description: 1 Thessalonians, Chapter 5
 
 17 Pray without ceasing. ^1-thessalonians-05-17
 
-18 In all circumstances give thanks, for this is the will of God for you in Christ Jesus ^18 ^1-thessalonians-05-18
+18 In all circumstances give thanks, for this is the will of God for you in Christ Jesus ^1-thessalonians-05-18
 
 19 Do not quench the Spirit. ^1-thessalonians-05-19
 

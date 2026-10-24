@@ -40,6 +40,8 @@ description: 1 Maccabees, Chapter 7
 
 9 He sent him and the renegade Alcimus, to whom he granted the high priesthood, with orders to take revenge on the Israelites. ^1-maccabees-07-9
 
+10 They set out and, on arriving in the land of Judah with a great army, sent messengers who spoke deceitfully to Judas and his brothers in peaceful terms. ^1-maccabees-07-10
+
 11 But these paid no attention to their words, seeing that they had come with a great army. ^1-maccabees-07-11
 
 12 A group of scribes, however, gathered about Alcimus and Bacchides to ask for a just agreement. ^1-maccabees-07-12
@@ -52,11 +54,7 @@ description: 1 Maccabees, Chapter 7
 
 16 So they trusted him. But he arrested sixty of them and killed them in one day, according to the words that he wrote: ^1-maccabees-07-16
 
-17 “The flesh of your faithful, ^1-maccabees-07-17
-
-and their blood they have spilled all around about Jerusalem,
-
-and no one was left to bury them.”
+17 “The flesh of your faithful, and their blood they have spilled all around about Jerusalem, and no one was left to bury them.” ^1-maccabees-07-17
 
 18 Then fear and dread of them came upon all the people, who said: “There is no truth or justice among them; they violated the agreement and the oath that they swore.” ^1-maccabees-07-18
 

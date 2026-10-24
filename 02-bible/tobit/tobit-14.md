@@ -38,7 +38,7 @@ As for our kindred who dwell in the land of Israel, they will all be scattered a
 
 7 They will bless the God of the ages in righteousness. All the Israelites truly mindful of God, who are to be saved in those days, will be gathered together and will come to Jerusalem; in security will they dwell forever in the land of [[abraham|Abraham]], which will be given to them. Those who love God sincerely will rejoice, but those who commit sin and wickedness will disappear completely from the land. ^tobit-14-7
 
-8<sup>,</sup>
+8 * ^tobit-14-8
 
 9 “Now, my children, I give you this command: serve God sincerely and do what is pleasing in his sight; you must instruct your children to do what is right and to give alms, to be mindful of God and at all times to bless his name sincerely and with all their strength. Now, as for you, son, leave Nineveh; do not stay here. ^tobit-14-9
 

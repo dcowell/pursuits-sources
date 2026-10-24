@@ -74,6 +74,8 @@ description: 1 Samuel, Chapter 30
 
 23 But David said: “You must not do this, my brothers, after what the LORD has given us. The LORD has protected us and delivered into our hands the raiders that came against us. ^1-samuel-30-23
 
+24 Who could agree with this proposal of yours? Rather, the share of the one who goes down to battle shall be the same as that of the one who remains with the baggage—they share alike.” ^1-samuel-30-24
+
 25 And from that day forward he made this a law and a custom in Israel, as it still is today. ^1-samuel-30-25
 
 **David’s Gifts to Judah.**

@@ -136,7 +136,7 @@ Everyone who listens to my Father and learns from him comes to me.
 
 52 The Jews quarreled among themselves, saying, “How can this man give us \[his\] flesh to eat?” ^john-06-52
 
-53 Jesus said to them, “Amen, amen, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you do not have life within you. ^143166 ^john-06-53
+53 Jesus said to them, “Amen, amen, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you do not have life within you. ^john-06-53
 
 54 Whoever eats my flesh and drinks my blood has eternal life, and I will raise him on the last day. ^john-06-54
 
@@ -212,7 +212,7 @@ Everyone who listens to my Father and learns from him comes to me.
 
 \* (6:43) Murmuring: the word may reflect the Greek of ([[exodus-16|Ex 16]]:2], [7] – [8].
 
-\* (6:54] – [58) Eats: the verb used in these verses is not the classical Greek verb used of human eating, but that of animal eating: “munch,” “gnaw.” This may be part of John’s emphasis on the reality of the flesh and blood of Jesus (cf. [[john-06|Jn 6]]:55]), but the same verb eventually became the ordinary verb in Greek meaning “eat.”
+\* (6:54] – [58) Eats: the verb used in these verses is not the classical Greek verb used of human eating, but that of animal eating: “munch,” “gnaw.” This may be part of John’s emphasis on the reality of the flesh and blood of Jesus (cf. [[john-06|Jn 6]]:55]), but the same verb eventually became the ordinary verb in Greek meaning “eat.” ^7686ff
 
 \* (6:60] – [71) These verses refer more to themes of [[john-06|Jn 6]]:35] – [50] than to those of [[john-06|Jn 6]]:51] – [58] and seem to be addressed to members of the Johannine community who found it difficult to accept the high christology reflected in the bread of life discourse.
 

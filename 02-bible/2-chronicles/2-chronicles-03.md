@@ -30,6 +30,8 @@ description: 2 chronicles-chapter 3
 
 4 the front porch along the width of the house was also twenty cubits, and it was twenty cubits high. He covered its interior with pure gold. ^2-chronicles-03-4
 
+5 The nave he overlaid with cypress wood and overlaid that with fine gold, embossing on it palms and chains. ^2-chronicles-03-5
+
 6 He also covered the house with precious stones for splendor; the gold was from Parvaim. ^2-chronicles-03-6
 
 7 The house, its beams and thresholds, as well as its walls and its doors, he overlaid with gold, and he engraved cherubim upon the walls. ^2-chronicles-03-7
@@ -43,6 +45,8 @@ description: 2 chronicles-chapter 3
 11 The wings of the cherubim spanned twenty cubits: one wing of each cherub, five cubits in length, extended to a wall of the house, while the other wing, also five cubits in length, touched the corresponding wing of the other cherub. ^2-chronicles-03-11
 
 12 The wing of the cherub, five cubits, touched the wall of the house, and the other wing, five cubits, was joined to the wing of the other cherub. ^2-chronicles-03-12
+
+13 The combined wingspread of the two cherubim was thus twenty cubits. They stood upon their own feet, facing toward the nave. ^2-chronicles-03-13
 
 14 He made the veil of violet, purple, crimson, and fine linen, and had cherubim embroidered upon it. ^2-chronicles-03-14
 

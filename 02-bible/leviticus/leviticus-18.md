@@ -54,6 +54,8 @@ description: Leviticus, Chapter 18
 
 16 You shall not have intercourse with your brother’s wife; that would be a disgrace to your brother. ^leviticus-18-16
 
+17 You shall not have intercourse with a woman and also with her daughter, nor shall you marry and have intercourse with her son’s daughter or her daughter’s daughter; they are related to her. This would be shameful. ^leviticus-18-17
+
 18 While your wife is still living you shall not marry her sister as her rival and have intercourse with her. ^leviticus-18-18
 
 19 You shall not approach a woman to have intercourse with her while she is in her menstrual uncleanness. ^leviticus-18-19

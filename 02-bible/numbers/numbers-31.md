@@ -100,6 +100,8 @@ description: Numbers, Chapter 31
 
 35 and thirty-two thousand women who had not had sexual relations. ^numbers-31-35
 
+36 The half-share that fell to those who had gone out on the campaign was in number: three hundred and thirty-seven thousand five hundred sheep, ^numbers-31-36
+
 37 of which six hundred and seventy-five fell as tax to the LORD; ^numbers-31-37
 
 38 thirty-six thousand oxen, of which seventy-two fell as tax to the LORD; ^numbers-31-38

@@ -28,6 +28,8 @@ description: Daniel, Chapter 4
 
 3 So I issued a decree that all the wise men of Babylon should be brought before me to give the interpretation of the dream. ^daniel-04-3
 
+4 When the magicians, enchanters, Chaldeans, and diviners had come in, I related the dream before them; but none of them could tell me its meaning. ^daniel-04-4
+
 5 Finally there came before me Daniel, whose name is Belteshazzar after the name of my god, and in whom is a spirit of the holy gods. I repeated the dream to him: ^daniel-04-5
 
 6 “Belteshazzar, chief of the magicians, I know that a spirit of the holy gods is in you and no mystery is too difficult for you; this is the dream that I saw, tell me its meaning. ^daniel-04-6

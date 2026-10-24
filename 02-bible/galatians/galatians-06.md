@@ -32,6 +32,8 @@ description: Galatians, Chapter 6
 
 5 for each will bear his own load. ^galatians-06-5
 
+6 One who is being instructed in the word should share all good things with his instructor. ^galatians-06-6
+
 7 Make no mistake: God is not mocked, for a person will reap only what he sows, ^galatians-06-7
 
 8 because the one who sows for his flesh will reap corruption from the flesh, but the one who sows for the spirit will reap eternal life from the spirit. ^galatians-06-8

@@ -24,7 +24,11 @@ description: 2 Samuel, Chapter 24
 
 1 The LORD’s anger against Israel flared again, and he incited David against them: “Go, take a census of Israel and Judah.” ^2-samuel-24-1
 
+2 The king therefore said to Joab and the leaders of the army who were with him, “Tour all the tribes of Israel from Dan to Beer-sheba and register the people, that I may know their number.” ^2-samuel-24-2
+
 3 But Joab replied to the king: “May the LORD your God increase the number of people a hundredfold for my lord the king to see it with his own eyes. But why does it please my lord to do a thing of this kind?” ^2-samuel-24-3
+
+4 However, the king’s command prevailed over Joab and the leaders of the army, so they left the king’s presence in order to register the people of Israel. ^2-samuel-24-4
 
 5 Crossing the Jordan, they began near Aroer, south of the city in the wadi, and turned in the direction of Gad toward Jazer. ^2-samuel-24-5
 

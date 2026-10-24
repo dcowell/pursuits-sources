@@ -54,6 +54,8 @@ in the end they reveal their meanness.
 
 they turn away and disregard others.
 
+9 The greedy see their share as not enough; ^sirach-14-9
+
 greedy injustice dries up the soul.
 
 10 The eye of the miserly is rapacious for food, ^sirach-14-10

@@ -18,105 +18,107 @@ description: 2 Maccabees, Chapter
 
 # 2 Maccabees, Chapter 14
 
-## Chapter
+## Chapter 14
 
-[a] Three years later,[*] Judas and his companions learned that Demetrius, son of Seleucus, had sailed into the port of Tripolis with a powerful army and a fleet,
+1 Three years later, Judas and his companions learned that Demetrius, son of Seleucus, had sailed into the port of Tripolis with a powerful army and a fleet, ^2-maccabees-14-1
 
-2and that he had occupied the country, after doing away with Antiochus and his guardian Lysias.
+2 and that he had occupied the country, after doing away with Antiochus and his guardian Lysias. ^2-maccabees-14-2
 
-3A certain Alcimus, a former high priest,[*] who had willfully incurred defilement before the time of the revolt, realized that there was no way for him to be safe and regain access to the holy altar.
+3 A certain Alcimus, a former high priest, who had willfully incurred defilement before the time of the revolt, realized that there was no way for him to be safe and regain access to the holy altar. ^2-maccabees-14-3
 
-4So he went to King Demetrius around the one hundred and fifty-first year and presented him with a gold crown and a palm branch, as well as some of the customary olive branches from the temple. On that day he kept quiet.[b]
+4 So he went to King Demetrius around the one hundred and fifty-first year and presented him with a gold crown and a palm branch, as well as some of the customary olive branches from the temple. On that day he kept quiet.[b] ^2-maccabees-14-4
 
-5But he found an opportunity to further his mad scheme when he was invited to the council by Demetrius and questioned about the dispositions and intentions of the Jews. He replied:
+5 But he found an opportunity to further his mad scheme when he was invited to the council by Demetrius and questioned about the dispositions and intentions of the Jews. He replied: ^2-maccabees-14-5
 
-6“Those Jews called Hasideans, led by Judas Maccabeus,[*] are warmongers, who stir up sedition and keep the kingdom from enjoying peace.[c]
+6 “Those Jews called Hasideans, led by Judas Maccabeus, are warmongers, who stir up sedition and keep the kingdom from enjoying peace. ^2-maccabees-14-6
 
-7For this reason, now that I am deprived of my ancestral dignity, that is to say, the high priesthood, I have come here,
+7 For this reason, now that I am deprived of my ancestral dignity, that is to say, the high priesthood, I have come here, ^2-maccabees-14-7
 
-8first, out of my genuine concern for the king’s interests, and second, out of consideration for my own compatriots, since our entire nation is suffering no little affliction from the rash conduct of the people just mentioned.
+8 first, out of my genuine concern for the king’s interests, and second, out of consideration for my own compatriots, since our entire nation is suffering no little affliction from the rash conduct of the people just mentioned. ^2-maccabees-14-8
 
-9When you have informed yourself in detail on these matters, O king, provide for our country and its hard-pressed people with the same gracious consideration that you show toward all.
+9 When you have informed yourself in detail on these matters, O king, provide for our country and its hard-pressed people with the same gracious consideration that you show toward all. ^2-maccabees-14-9
 
-10As long as Judas is around, it is impossible for the government to enjoy peace.”
+10 As long as Judas is around, it is impossible for the government to enjoy peace.” ^2-maccabees-14-10
 
-11When he had said this, the other Friends who were hostile to Judas quickly added fuel to Demetrius’ indignation.
+11 When he had said this, the other Friends who were hostile to Judas quickly added fuel to Demetrius’ indignation. ^2-maccabees-14-11
 
 **Dealings with Nicanor.**
 
-12[d] The king immediately chose Nicanor, who had been in command of the elephants, and appointed him governor of Judea. He sent him off
+12 The king immediately chose Nicanor, who had been in command of the elephants, and appointed him governor of Judea. He sent him off ^2-maccabees-14-12
 
-13with orders to put Judas to death, to disperse his followers, and to set up Alcimus as high priest of the great temple.
+13 with orders to put Judas to death, to disperse his followers, and to set up Alcimus as high priest of the great temple. ^2-maccabees-14-13
 
-14The Gentiles from Judea, who had fled before Judas, flocked to Nicanor, thinking that the misfortunes and calamities of the Jews would mean prosperity for themselves.
+14 The Gentiles from Judea, who had fled before Judas, flocked to Nicanor, thinking that the misfortunes and calamities of the Jews would mean prosperity for themselves. ^2-maccabees-14-14
 
-15[e] When the Jews heard of Nicanor’s coming, and that the Gentiles were rallying to him, they sprinkled themselves with earth and prayed to him who established his people forever, and who always comes to the aid of his heritage by manifesting himself.
+15 When the Jews heard of Nicanor’s coming, and that the Gentiles were rallying to him, they sprinkled themselves with earth and prayed to him who established his people forever, and who always comes to the aid of his heritage by manifesting himself. ^2-maccabees-14-15
 
-16At their leader’s command, they set out at once from there and came upon the enemy at the village of Adasa.
+16 At their leader’s command, they set out at once from there and came upon the enemy at the village of Adasa. ^2-maccabees-14-16
 
-17Judas’ brother Simon had engaged Nicanor, but he suffered a slight setback because of the sudden appearance of the enemy.
+17 Judas’ brother Simon had engaged Nicanor, but he suffered a slight setback because of the sudden appearance of the enemy. ^2-maccabees-14-17
 
-18However, when Nicanor heard of the valor of Judas and his companions, and the great courage with which they fought for their country, he shrank from deciding the issue by bloodshed.
+18 However, when Nicanor heard of the valor of Judas and his companions, and the great courage with which they fought for their country, he shrank from deciding the issue by bloodshed. ^2-maccabees-14-18
 
-19So he sent Posidonius, Theodotus and Mattathias to exchange pledges of friendship.
+19 So he sent Posidonius, Theodotus and Mattathias to exchange pledges of friendship. ^2-maccabees-14-19
 
-20After a long discussion of the terms, each leader communicated them to his troops; and when general agreement was expressed, they assented to the treaty.
+20 After a long discussion of the terms, each leader communicated them to his troops; and when general agreement was expressed, they assented to the treaty. ^2-maccabees-14-20
 
-21A day was set on which the leaders would meet by themselves. From each side a chariot came forward, and thrones were set in place.
+21 A day was set on which the leaders would meet by themselves. From each side a chariot came forward, and thrones were set in place. ^2-maccabees-14-21
 
-22Judas had posted armed men in readiness at strategic points for fear that the enemy might suddenly commit some treachery. But the conference was held in the proper way.
+22 Judas had posted armed men in readiness at strategic points for fear that the enemy might suddenly commit some treachery. But the conference was held in the proper way. ^2-maccabees-14-22
 
-23Nicanor stayed on in Jerusalem, where he did nothing out of place. He disbanded the throngs of people who gathered around him;
+23 Nicanor stayed on in Jerusalem, where he did nothing out of place. He disbanded the throngs of people who gathered around him; ^2-maccabees-14-23
 
-24and he always kept Judas in his company, for he felt affection[*] for the man.
+24 and he always kept Judas in his company, for he felt affection for the man. ^2-maccabees-14-24
 
-25He urged him to marry and have children; so Judas married and settled into an ordinary life.
+25 He urged him to marry and have children; so Judas married and settled into an ordinary life. ^2-maccabees-14-25
 
 **Nicanor’s Threat Against Judas.**
 
-26When Alcimus saw their mutual goodwill, he took the treaty that had been made, went to Demetrius, and said that Nicanor was plotting against the government, for he had appointed Judas, that conspirator against the kingdom, as his successor.
+26 When Alcimus saw their mutual goodwill, he took the treaty that had been made, went to Demetrius, and said that Nicanor was plotting against the government, for he had appointed Judas, that conspirator against the kingdom, as his successor. ^2-maccabees-14-26
 
-27Stirred up by the villain’s slander, the king became enraged. He wrote to Nicanor, stating that he was displeased with the treaty, and ordering him to send Maccabeus at once as a prisoner to Antioch.
+27 Stirred up by the villain’s slander, the king became enraged. He wrote to Nicanor, stating that he was displeased with the treaty, and ordering him to send Maccabeus at once as a prisoner to Antioch. ^2-maccabees-14-27
 
-28When this message reached Nicanor he was dismayed and troubled at the thought of annulling his agreement with a man who had done no wrong.
+28 When this message reached Nicanor he was dismayed and troubled at the thought of annulling his agreement with a man who had done no wrong. ^2-maccabees-14-28
 
-29However, there was no way of opposing the king, so he watched for an opportunity to carry out this order by a stratagem.
+29 However, there was no way of opposing the king, so he watched for an opportunity to carry out this order by a stratagem. ^2-maccabees-14-29
 
-30But Maccabeus, noticing that Nicanor was more harsh in his dealings with him, and acting with unaccustomed rudeness when they met, concluded that this harshness was not a good sign. So he gathered together not a few of his men, and went into hiding from Nicanor.
+30 But Maccabeus, noticing that Nicanor was more harsh in his dealings with him, and acting with unaccustomed rudeness when they met, concluded that this harshness was not a good sign. So he gathered together not a few of his men, and went into hiding from Nicanor. ^2-maccabees-14-30
 
-31[f] When Nicanor realized that he had been cleverly outwitted by the man, he went to the great and holy temple, at a time when the priests were offering the customary sacrifices, and ordered them to surrender Judas.
+31 When Nicanor realized that he had been cleverly outwitted by the man, he went to the great and holy temple, at a time when the priests were offering the customary sacrifices, and ordered them to surrender Judas. ^2-maccabees-14-31
 
-32As they declared under oath that they did not know where the man they sought was,
+32 As they declared under oath that they did not know where the man they sought was, ^2-maccabees-14-32
 
-33he stretched out his right arm toward the temple and swore this oath: “If you do not hand Judas over to me as prisoner, I will level this shrine of God to the ground; I will tear down the altar, and erect here a splendid temple to Dionysus.”
+33 he stretched out his right arm toward the temple and swore this oath: “If you do not hand Judas over to me as prisoner, I will level this shrine of God to the ground; I will tear down the altar, and erect here a splendid temple to Dionysus.” ^2-maccabees-14-33
 
-34With these words he went away. The priests stretched out their hands toward heaven, calling upon the unfailing defender of our nation in these words:
+34 With these words he went away. The priests stretched out their hands toward heaven, calling upon the unfailing defender of our nation in these words: ^2-maccabees-14-34
 
-35“Lord of all, though you are in need of nothing, you were pleased to have a temple for your dwelling place among us.
+35 “Lord of all, though you are in need of nothing, you were pleased to have a temple for your dwelling place among us. ^2-maccabees-14-35
 
-36Therefore, Holy One, Lord of all holiness, preserve forever undefiled this house, which has been so recently purified.”[g]
+36 Therefore, Holy One, Lord of all holiness, preserve forever undefiled this house, which has been so recently purified.” ^2-maccabees-14-36
 
-**Martyrdom of Razis.[*]**
+**Martyrdom of Razis.**
 
-37A certain Razis, one of the elders of Jerusalem, was denounced to Nicanor as a patriot. A man highly regarded, he was called a father of the Jews because of his goodwill toward them.
+37 A certain Razis, one of the elders of Jerusalem, was denounced to Nicanor as a patriot. A man highly regarded, he was called a father of the Jews because of his goodwill toward them. ^2-maccabees-14-37
 
-38In the days before the revolt, he had been convicted of being a Jew, and had risked body and soul in his ardent zeal for Judaism.
+38 In the days before the revolt, he had been convicted of being a Jew, and had risked body and soul in his ardent zeal for Judaism. ^2-maccabees-14-38
 
-39Nicanor, to show his disdain for the Jews, sent more than five hundred soldiers to arrest him.
+39 Nicanor, to show his disdain for the Jews, sent more than five hundred soldiers to arrest him. ^2-maccabees-14-39
 
-40He thought that by arresting that man he would deal the Jews a hard blow.
+40 He thought that by arresting that man he would deal the Jews a hard blow. ^2-maccabees-14-40
 
-41But when the troops, on the point of capturing the tower, were forcing the outer gate and calling for fire to set the door ablaze, Razis, now caught on all sides, turned his sword against himself,
+41 But when the troops, on the point of capturing the tower, were forcing the outer gate and calling for fire to set the door ablaze, Razis, now caught on all sides, turned his sword against himself, ^2-maccabees-14-41
 
-42preferring to die nobly[*] rather than fall into the hands of vile men and suffer outrages unworthy of his noble birth.
+42 preferring to die nobly rather than fall into the hands of vile men and suffer outrages unworthy of his noble birth. ^2-maccabees-14-42
 
-43In the excitement of the struggle he failed to strike exactly. So while the troops rushed in through the doors, he gallantly ran up to the top of the wall and courageously threw himself down into the crowd.
+43 In the excitement of the struggle he failed to strike exactly. So while the troops rushed in through the doors, he gallantly ran up to the top of the wall and courageously threw himself down into the crowd. ^2-maccabees-14-43
 
-44But as they quickly drew back and left an opening, he fell into the middle of the empty space.
+44 But as they quickly drew back and left an opening, he fell into the middle of the empty space. ^2-maccabees-14-44
 
-45Still breathing, and inflamed with anger, he got up and ran through the crowd, with blood gushing from his frightful wounds. Then, standing on a steep rock,
+45 Still breathing, and inflamed with anger, he got up and ran through the crowd, with blood gushing from his frightful wounds. Then, standing on a steep rock, ^2-maccabees-14-45
 
-46as he lost the last of his blood, he tore out his entrails and flung them with both hands into the crowd, calling upon the Lord of life and of spirit to give these back to him again. Such was the manner of his death.[h]
+46 as he lost the last of his blood, he tore out his entrails and flung them with both hands into the crowd, calling upon the Lord of life and of spirit to give these back to him again. Such was the manner of his death. ^2-maccabees-14-46
+
+---
 
 * 14:1 Three years later: actually, Demetrius (I Soter), son of Seleucus (IV), landed at Tripolis in the year 151 of the Seleucid era (1 Mc 14:4), i.e., 162/161 B.C.; cf. 1 Mc 7:1–7.
 * 14:3 Alcimus, a former high priest: he was apparently appointed high priest by Antiochus V after Menelaus was executed, and then deposed for collaborating with the Seleucids.

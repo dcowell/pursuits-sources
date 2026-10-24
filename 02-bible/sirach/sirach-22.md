@@ -46,6 +46,10 @@ she is despised by both.
 
 but lashes and discipline are at all times wisdom.
 
+7 * ^sirach-22-7
+
+8 * ^sirach-22-8
+
 9 Teaching a fool is like gluing a broken pot, ^sirach-22-9
 
 or rousing another from deep sleep.

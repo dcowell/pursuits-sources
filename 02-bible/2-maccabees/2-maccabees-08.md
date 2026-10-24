@@ -22,83 +22,81 @@ description: 2 Maccabees, Chapter
 
 **Resistance from Judas Maccabeus.**
 
-1[a] Judas Maccabeus and his companions entered the villages secretly, summoned their kindred, and enlisted others who had remained faithful to Judaism. Thus they assembled about six thousand men.
+1 Judas Maccabeus and his companions entered the villages secretly, summoned their kindred, and enlisted others who had remained faithful to Judaism. Thus they assembled about six thousand men. ^2-maccabees-08-1
 
-2They implored the Lord to look kindly upon this people, who were being oppressed by all; to have pity on the sanctuary, which was profaned by renegades;
+2 They implored the Lord to look kindly upon this people, who were being oppressed by all; to have pity on the sanctuary, which was profaned by renegades; ^2-maccabees-08-2
 
-3to have mercy on the city, which was being destroyed and was about to be leveled to the ground; to listen to the blood that cried out to him;
+3 to have mercy on the city, which was being destroyed and was about to be leveled to the ground; to listen to the blood that cried out to him; ^2-maccabees-08-3
 
-4to remember the criminal slaughter of innocent children and the blasphemies uttered against his name; and to manifest his hatred of evil.
+4 to remember the criminal slaughter of innocent children and the blasphemies uttered against his name; and to manifest his hatred of evil. ^2-maccabees-08-4
 
-5[b] Once Maccabeus got his men organized, the Gentiles could not withstand him, for the Lord’s wrath had now changed to mercy.
+5 Once Maccabeus got his men organized, the Gentiles could not withstand him, for the Lord’s wrath had now changed to mercy. ^2-maccabees-08-5
 
-6Coming by surprise upon towns and villages, he set them on fire. He captured strategic positions, and put to flight not a few of the enemy.
+6 Coming by surprise upon towns and villages, he set them on fire. He captured strategic positions, and put to flight not a few of the enemy. ^2-maccabees-08-6
 
-7He preferred the nights as being especially favorable for such attacks. Soon talk of his valor spread everywhere.
+7 He preferred the nights as being especially favorable for such attacks. Soon talk of his valor spread everywhere. ^2-maccabees-08-7
 
-**First Victory over Nicanor.[*]**
+**First Victory over Nicanor.**
 
-8When Philip saw that Judas was gaining ground little by little and that his successful advances were becoming more frequent, he wrote to Ptolemy, governor of Coelesyria and Phoenicia, to come to the aid of the king’s interests.[c]
+8 When Philip saw that Judas was gaining ground little by little and that his successful advances were becoming more frequent, he wrote to Ptolemy, governor of Coelesyria and Phoenicia, to come to the aid of the king’s interests. ^2-maccabees-08-8
 
-9[d] Ptolemy promptly selected Nicanor, son of Patroclus, one of the Chief Friends, and sent him at the head of at least twenty thousand armed men of various nations to wipe out the entire Jewish nation. With him he associated Gorgias, a general, experienced in the art of war.[e]
+9 Ptolemy promptly selected Nicanor, son of Patroclus, one of the Chief Friends, and sent him at the head of at least twenty thousand armed men of various nations to wipe out the entire Jewish nation. With him he associated Gorgias, a general, experienced in the art of war. ^2-maccabees-08-9
 
-10Nicanor planned to raise the two thousand talents of tribute owed by the king to the Romans[*] by selling captured Jews into slavery.
+10 Nicanor planned to raise the two thousand talents of tribute owed by the king to the Romans by selling captured Jews into slavery. ^2-maccabees-08-10
 
-11So he immediately sent word to the coastal cities, inviting them to buy Jewish slaves and promising to deliver ninety slaves for a talent[*]—little anticipating the punishment that was to fall upon him from the Almighty.
+11 So he immediately sent word to the coastal cities, inviting them to buy Jewish slaves and promising to deliver ninety slaves for a talent—little anticipating the punishment that was to fall upon him from the Almighty. ^2-maccabees-08-11
 
-12When Judas learned of Nicanor’s advance and informed his companions about the approach of the army,
+12 When Judas learned of Nicanor’s advance and informed his companions about the approach of the army, ^2-maccabees-08-12
 
-13those who were fearful and those who lacked faith in God’s justice deserted and got away.
+13 those who were fearful and those who lacked faith in God’s justice deserted and got away. ^2-maccabees-08-13
 
-14But the others sold everything they had left, and at the same time entreated the Lord to deliver those whom the ungodly Nicanor had sold before even capturing them.
+14 But the others sold everything they had left, and at the same time entreated the Lord to deliver those whom the ungodly Nicanor had sold before even capturing them. ^2-maccabees-08-14
 
-15They entreated the Lord to do this, if not for their sake, at least for the sake of the covenants made with their ancestors, and because they themselves invoked his holy and glorious name.
+15 They entreated the Lord to do this, if not for their sake, at least for the sake of the covenants made with their ancestors, and because they themselves invoked his holy and glorious name. ^2-maccabees-08-15
 
-16Maccabeus assembled his forces, six thousand strong, and exhorted them not to be panic-stricken before the enemy, nor to fear the very large number of Gentiles unjustly attacking them, but to fight nobly.
+16 Maccabeus assembled his forces, six thousand strong, and exhorted them not to be panic-stricken before the enemy, nor to fear the very large number of Gentiles unjustly attacking them, but to fight nobly. ^2-maccabees-08-16
 
-17They were to keep before their eyes the lawless outrage perpetrated by the Gentiles against the holy place and the affliction of the humiliated city, as well as the subversion of their ancestral way of life.
+17 They were to keep before their eyes the lawless outrage perpetrated by the Gentiles against the holy place and the affliction of the humiliated city, as well as the subversion of their ancestral way of life. ^2-maccabees-08-17
 
-18He said, “They trust in weapons and acts of daring, but we trust in almighty God, who can by a mere nod destroy not only those who attack us but even the whole world.”
+18 He said, “They trust in weapons and acts of daring, but we trust in almighty God, who can by a mere nod destroy not only those who attack us but even the whole world.” ^2-maccabees-08-18
 
-19He went on to tell them of the times when help had been given their ancestors: both the time of Sennacherib, when a hundred and eighty-five thousand of his men perished,[f]
+19 He went on to tell them of the times when help had been given their ancestors: both the time of Sennacherib, when a hundred and eighty-five thousand of his men perished, ^2-maccabees-08-19
 
-20and the time of the battle in Babylonia against the Galatians,[*]when only eight thousand Jews fought along with four thousand Macedonians; yet when the Macedonians were hard pressed, the eight thousand, by the help they received from Heaven, destroyed one hundred and twenty thousand and took a great quantity of spoils.
+20 and the time of the battle in Babylonia against the Galatians,when only eight thousand Jews fought along with four thousand Macedonians; yet when the Macedonians were hard pressed, the eight thousand, by the help they received from Heaven, destroyed one hundred and twenty thousand and took a great quantity of spoils. ^2-maccabees-08-20
 
-21[g] With these words he encouraged them and made them ready to die for their laws and their country.
+21 With these words he encouraged them and made them ready to die for their laws and their country. Then Judas divided his army into four, ^2-maccabees-08-21
 
-Then Judas divided his army into four,
+22 placing his brothers, Simon, Joseph, and Jonathan, each over a division, assigning them fifteen hundred men apiece. ^2-maccabees-08-22
 
-22placing his brothers, Simon, Joseph,[*] and Jonathan, each over a division, assigning them fifteen hundred men apiece.[h]
+23 There was also Eleazar. After reading to them from the holy book and giving them the watchword, “The help of God,” Judas himself took charge of the first division and joined in battle with Nicanor. ^2-maccabees-08-23
 
-23There was also Eleazar.[*] After reading to them from the holy book and giving them the watchword, “The help of God,” Judas himself took charge of the first division and joined in battle with Nicanor.[i]
+24 With the Almighty as their ally, they killed more than nine thousand of the enemy, wounded and disabled the greater part of Nicanor’s army, and put all of them to flight. ^2-maccabees-08-24
 
-24With the Almighty as their ally, they killed more than nine thousand of the enemy, wounded and disabled the greater part of Nicanor’s army, and put all of them to flight.
+25 They also seized the money of those who had come to buy them as slaves. When they had pursued the enemy for some time, they were obliged to return by reason of the late hour. ^2-maccabees-08-25
 
-25They also seized the money of those who had come to buy them as slaves. When they had pursued the enemy for some time, they were obliged to return by reason of the late hour.
+26 It was the day before the sabbath, and for that reason they could not continue the pursuit. ^2-maccabees-08-26
 
-26It was the day before the sabbath, and for that reason they could not continue the pursuit.
+27 They collected the enemy’s weapons and stripped them of their spoils, and then observed the sabbath with fervent praise and thanks to the Lord who kept them safe for that day on which he allotted them the beginning of his mercy. ^2-maccabees-08-27
 
-27They collected the enemy’s weapons and stripped them of their spoils, and then observed the sabbath with fervent praise and thanks to the Lord who kept them safe for that day on which he allotted them the beginning of his mercy.
+28 After the sabbath, they gave a share of the spoils to those who were tortured and to widows and orphans; the rest they divided among themselves and their children. ^2-maccabees-08-28
 
-28After the sabbath, they gave a share of the spoils to those who were tortured and to widows and orphans; the rest they divided among themselves and their children.[j]
-
-29When this was done, they made supplication in common, imploring the merciful Lord to be completely reconciled with his servants.
+29 When this was done, they made supplication in common, imploring the merciful Lord to be completely reconciled with his servants. ^2-maccabees-08-29
 
 **Other Victories.**
 
-30They also challenged the forces of Timothy and Bacchides, killed more than twenty thousand of them, and captured some very high fortresses. They divided the considerable plunder, allotting half to themselves and the rest to victims of torture, orphans, widows, and the aged.
+30 They also challenged the forces of Timothy and Bacchides, killed more than twenty thousand of them, and captured some very high fortresses. They divided the considerable plunder, allotting half to themselves and the rest to victims of torture, orphans, widows, and the aged. ^2-maccabees-08-30
 
-31They collected the enemies’ weapons and carefully stored them in strategic places; the rest of the spoils they carried to Jerusalem.
+31 They collected the enemies’ weapons and carefully stored them in strategic places; the rest of the spoils they carried to Jerusalem. ^2-maccabees-08-31
 
-32They also killed the commander of Timothy’s forces, a most wicked man, who had done great harm to the Jews.
+32 They also killed the commander of Timothy’s forces, a most wicked man, who had done great harm to the Jews. ^2-maccabees-08-32
 
-33While celebrating the victory in their ancestral city, they burned both those who had set fire to the sacred gates and Callisthenes, who had taken refuge in a little house; so he received the reward his wicked deeds deserved.
+33 While celebrating the victory in their ancestral city, they burned both those who had set fire to the sacred gates and Callisthenes, who had taken refuge in a little house; so he received the reward his wicked deeds deserved. ^2-maccabees-08-33
 
-34[k] The thrice-accursed Nicanor, who had brought the thousand slave dealers to buy the Jews,
+34 The thrice-accursed Nicanor, who had brought the thousand slave dealers to buy the Jews, ^2-maccabees-08-34
 
-35after being humbled through the Lord’s help by those whom he had thought of no account, laid aside his fine clothes and fled alone across country like a runaway slave, until he reached Antioch. He was eminently successful in destroying his own army.
+35 after being humbled through the Lord’s help by those whom he had thought of no account, laid aside his fine clothes and fled alone across country like a runaway slave, until he reached Antioch. He was eminently successful in destroying his own army. ^2-maccabees-08-35
 
-36So he who had promised to provide tribute for the Romans by the capture of the people of Jerusalem proclaimed that the Jews had a champion, and that because they followed the laws laid down by him, they were unharmed.
+36 So he who had promised to provide tribute for the Romans by the capture of the people of Jerusalem proclaimed that the Jews had a champion, and that because they followed the laws laid down by him, they were unharmed. ^2-maccabees-08-36
 
 . (8:8]–[29], [34]–[35]] This account of the campaign of Nicanor and Gorgias against Judas is paralleled, with certain differences, in [1 Mc 3:38]–[4:24].
 

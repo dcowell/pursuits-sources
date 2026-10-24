@@ -52,7 +52,7 @@ description: John, Chapter 14
 
 **The Advocate.**
 
-15 “If you love me, you will keep my commandments. ^c1e1c9 ^john-14-15
+15 “If you love me, you will keep my commandments. ^john-14-15
 
 16 And I will ask the Father, and he will give you another Advocate to be with you always, ^john-14-16
 

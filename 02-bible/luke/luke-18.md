@@ -68,9 +68,9 @@ description: Luke, Chapter 18
 
 20 You know the commandments, ‘You shall not commit [[adultery]]; you shall not kill; you shall not steal; you shall not bear false witness; honor your father and your mother.’” ^luke-18-20
 
-21 And he replied, “All of these I have observed from my youth.” ^0dc9ae ^luke-18-21
+21 And he replied, “All of these I have observed from my youth.” ^luke-18-21
 
-22 When Jesus heard this he said to him, “There is still one thing left for you: sell all that you have and distribute it to the poor, and you will have a treasure in heaven. Then come, follow me.” ^1bcd23 ^luke-18-22
+22 When Jesus heard this he said to him, “There is still one thing left for you: sell all that you have and distribute it to the poor, and you will have a treasure in heaven. Then come, follow me.” ^luke-18-22
 
 23 But when he heard this he became quite sad, for he was very rich. ^luke-18-23
 

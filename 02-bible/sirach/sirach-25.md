@@ -82,6 +82,8 @@ but none is greater than the one who fears the Lord.
 
 To whom can we compare the one who has it?
 
+12 * ^sirach-25-12
+
 ### Wicked and Virtuous Women
 
 13 Any wound, but not a wound of the heart! ^sirach-25-13

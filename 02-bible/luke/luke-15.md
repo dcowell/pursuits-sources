@@ -48,6 +48,8 @@ description: Luke, Chapter 15
 
 11 Then he said, “A man had two sons, ^luke-15-11
 
+12 and the younger son said to his father, ‘Father, give me the share of your estate that should come to me.’ So the father divided the property between them. ^luke-15-12
+
 13 After a few days, the younger son collected all his belongings and set off to a distant country where he squandered his inheritance on a life of dissipation. ^luke-15-13
 
 14 When he had freely spent everything, a severe famine struck that country, and he found himself in dire need. ^luke-15-14

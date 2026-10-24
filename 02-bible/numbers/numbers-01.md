@@ -24,53 +24,67 @@ description: Numbers, Chapter 1
 
 1 In the second year after the Israelites’ departure from the land of Egypt, on the first day of the second month, the LORD said to Moses at the tent of meeting in the wilderness of Sinai: ^numbers-01-1
 
+2 Take a census of the whole community of the Israelites,a by clans and ancestral houses, registering by name each male individually. ^numbers-01-2
+
 3 You and Aaron shall enroll in companies all the men in Israel of twenty years or more who are fit for military service. ^numbers-01-3
 
 **Moses’ Assistants.**
 
 4 With you there shall be a man from each tribe, each the head of his ancestral house. ^numbers-01-4
 
-5 These are the names of those who are to assist you: ^numbers-01-5
+5 These are the names of those who are to assist you: from Reuben: Elizur, son of Shedeur; ^numbers-01-5
 
-> from Reuben: Elizur, son of Shedeur;
+6 from Simeon: Shelumiel, son of Zurishaddai; ^numbers-01-6
 
-> 6 from Simeon: Shelumiel, son of Zurishaddai;
+7 from Judah: Nahshon, son of Amminadab; ^numbers-01-7
 
-> 7 from Judah: Nahshon, son of Amminadab;
+8 from Issachar: Nethanel, son of Zuar; ^numbers-01-8
 
-> 8 from Issachar: Nethanel, son of Zuar;
+9 from Zebulun: Eliab, son of Helon; ^numbers-01-9
 
-> 9 from Zebulun: Eliab, son of Helon;
+10 for the descendants of Joseph: from Ephraim: Elishama, son of Ammihud; and from Manasseh: Gamaliel, son of Pedahzur; ^numbers-01-10
 
-> 10 for the descendants of Joseph: from Ephraim: Elishama, son of Ammihud; and from Manasseh: Gamaliel, son of Pedahzur;
+11 from Benjamin: Abidan, son of Gideoni; ^numbers-01-11
 
-> 11 from Benjamin: Abidan, son of Gideoni;
+12 from Dan: Ahiezer, son of Ammishaddai; ^numbers-01-12
 
-> 12 from Dan: Ahiezer, son of Ammishaddai;
+13 from Asher: Pagiel, son of Ochran; ^numbers-01-13
 
-> 13 from Asher: Pagiel, son of Ochran;
+14 from Gad: Eliasaph, son of Reuel; ^numbers-01-14
 
-> 14 from Gad: Eliasaph, son of Reuel;
-
-> 15 from Naphtali: Ahira, son of Enan.
+15 from Naphtali: Ahira, son of Enan. ^numbers-01-15
 
 16 These were the elect of the community, leaders of their ancestral tribes, heads of the clans of Israel. ^numbers-01-16
 
 17 So Moses and Aaron took these men who had been designated by name, ^numbers-01-17
 
+18 and assembled the whole community on the first day of the second month. Every man of twenty years or more then registered individually his name and lineage according to clan and ancestral house, ^numbers-01-18
+
 19 as the LORD had commanded Moses. So he enrolled them in the wilderness of Sinai. ^numbers-01-19
 
 **Count of the Twelve Tribes.**
 
+20 Of the descendants of Reuben, the firstborn of Israel, registered individually by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: ^numbers-01-20
+
 21 those enrolled from the tribe of Reuben were forty-six thousand five hundred. ^numbers-01-21
+
+22 Of the descendants of Simeon, registered individually by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: ^numbers-01-22
 
 23 those enrolled from the tribe of Simeon were fifty-nine thousand three hundred. ^numbers-01-23
 
+24 Of the descendants of Gad, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: ^numbers-01-24
+
 25 those enrolled from the tribe of Gad were forty-five thousand six hundred and fifty. ^numbers-01-25
+
+26 Of the descendants of Judah, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: ^numbers-01-26
 
 27 those enrolled from the tribe of Judah were seventy-four thousand six hundred. ^numbers-01-27
 
+28 Of the descendants of Issachar, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: ^numbers-01-28
+
 29 those enrolled from the tribe of Issachar were fifty-four thousand four hundred. ^numbers-01-29
+
+30 Of the descendants of Zebulun, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: ^numbers-01-30
 
 31 those enrolled from the tribe of Zebulun were fifty-seven thousand four hundred. ^numbers-01-31
 
@@ -80,13 +94,23 @@ Of the descendants of Ephraim, registered by name and lineage according to their
 
 33 those enrolled from the tribe of Ephraim were forty thousand five hundred. ^numbers-01-33
 
+34 Of the descendants of Manasseh, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: ^numbers-01-34
+
 35 those enrolled from the tribe of Manasseh were thirty-two thousand two hundred. ^numbers-01-35
+
+36 Of the descendants of Benjamin, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: ^numbers-01-36
 
 37 those enrolled from the tribe of Benjamin were thirty-five thousand four hundred. ^numbers-01-37
 
+38 Of the descendants of Dan, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: ^numbers-01-38
+
 39 those enrolled from the tribe of Dan were sixty-two thousand seven hundred. ^numbers-01-39
 
+40 Of the descendants of Asher, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: ^numbers-01-40
+
 41 those enrolled from the tribe of Asher were forty-one thousand five hundred. ^numbers-01-41
+
+42 Of the descendants of Naphtali, registered by name and lineage according to their clans and ancestral houses, every male of twenty years or more, everyone fit for military service: ^numbers-01-42
 
 43 those enrolled from the tribe of Naphtali were fifty-three thousand four hundred. ^numbers-01-43
 

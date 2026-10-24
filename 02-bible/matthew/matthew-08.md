@@ -76,6 +76,8 @@ and bore our diseases.”
 
 21 Another of \[his\] disciples said to him, “Lord, let me go first and bury my father.” ^matthew-08-21
 
+22 But Jesus answered him, “Follow me, and let the dead bury their dead.” ^matthew-08-22
+
 **The Calming of the Storm at Sea.**
 
 23 He got into a boat and his disciples followed him. ^matthew-08-23

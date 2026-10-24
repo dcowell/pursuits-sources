@@ -26,21 +26,13 @@ description: Deuteronomy, Chapter 28
 
 2 All these blessings will come upon you and overwhelm you when you obey the voice of the LORD, your God: ^deuteronomy-28-2
 
-3 May you be blessed in the city, ^deuteronomy-28-3
+3 May you be blessed in the city, <br> and blessed in the country! ^deuteronomy-28-3
 
-and blessed in the country!
-
-4 Blessed be the fruit of your womb, ^deuteronomy-28-4
-
-the produce of your soil and the offspring of your livestock,
-
-the issue of your herds and the young of your flocks!
+4 Blessed be the fruit of your womb, <br> the produce of your soil and the offspring of your livestock, <br> the issue of your herds and the young of your flocks! ^deuteronomy-28-4
 
 5 Blessed be your grain basket and your kneading bowl! ^deuteronomy-28-5
 
-6 May you be blessed in your coming in, ^deuteronomy-28-6
-
-and blessed in your going out!
+6 May you be blessed in your coming in, <br> and blessed in your going out! ^deuteronomy-28-6
 
 **Victory and Prosperity.**
 
@@ -94,7 +86,7 @@ and blessed in your going out!
 
 29 so that even at midday you will grope in the dark as though blind, unable to find your way. ^deuteronomy-28-29
 
-**Despoilment.**You will be oppressed and robbed continually, with no one to come to your aid.
+**Despoilment.** You will be oppressed and robbed continually, with no one to come to your aid.
 
 30 Though you betroth a wife, another will have her. Though you build a house, you will not live in it. Though you plant a vineyard, you will not pluck its fruits. ^deuteronomy-28-30
 
@@ -151,6 +143,8 @@ and blessed in your going out!
 53 and because of the siege and the distress to which your enemy subjects you, you will eat the fruit of your womb, the flesh of your own sons and daughters whom the LORD, your God, has given you. ^deuteronomy-28-53
 
 54 The most refined and fastidious man among you will begrudge his brother and his beloved wife and his surviving children, ^deuteronomy-28-54
+
+55 any share in the flesh of his children that he himself is using for food because nothing else is left him—such the siege and distress to which your enemy will subject you in all your communities. ^deuteronomy-28-55
 
 56 The most fastidious woman among you, who would not venture to set the sole of her foot on the ground, so refined and fastidious is she, will begrudge her beloved husband and her son and daughter ^deuteronomy-28-56
 

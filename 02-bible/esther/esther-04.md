@@ -58,133 +58,89 @@ description: esther-chapter 4
 
 \* (4:8) The Greek text adds the following to Mordecai’s message to Esther: “Remember the days of your lowly estate, when you were brought up in my charge; for Haman, who is second to the king, has asked for our death. Invoke the Lord and speak to the king for us: save us from death.”
 
-\* (4:14) From another url: probably Mordecai refers to divine aid; the Greek additions (C) are explicit about this.
+\* (4:14) From another url: probably Mordecai refers to divine aid; the Greek additions (4:17a] - [17dd) are explicit about this.
 
 a. (4:1) [Jdt 4:12].
 
 b. (4:11) [Est 2:14]; [4:12]; [D:12].
 
-c. (4:16) [Est C:12] – [13].
+c. (4:16) [Est 4:17l] – [17l].
 
-CHAPTER C
+## CHAPTER C
 
 **Prayer of Mordecai.**
 
-1 Recalling all that the Lord had done, Mordecai prayed to the Lord ^esther-04-1
+17a. Recalling all that the Lord had done, Mordecai prayed to the Lord ^esther-04-17a
 
-2 and said: “Lord, Lord, King and Ruler of all, everything is in your power, and there is no one to oppose you when it is your will to save Israel. ^esther-04-2
+17b. and said: “Lord, Lord, King and Ruler of all, everything is in your power, and there is no one to oppose you when it is your will to save Israel. ^esther-04-17b
 
-3 You made heaven and earth and every wonderful thing under heaven. ^esther-04-3
+17c. You made heaven and earth and every wonderful thing under heaven. ^esther-04-17c
 
-4 You are Lord of all, and there is no one who can resist you, the Lord. ^esther-04-4
+17d. You are Lord of all, and there is no one who can resist you, the Lord. ^esther-04-17d
 
-5 You know all things. You know, Lord, that it was not out of insolence or arrogance or desire for glory that I acted thus in not bowing down to the arrogant Haman. ^esther-04-5
+17e. You know all things. You know, Lord, that it was not out of insolence or arrogance or desire for glory that I acted thus in not bowing down to the arrogant Haman. ^esther-04-17e
 
-6 I would have gladly kissed the soles of his feet for the salvation of Israel. ^esther-04-6
+17f. I would have gladly kissed the soles of his feet for the salvation of Israel. ^esther-04-17f
 
-7 But I acted as I did so as not to place the honor of a mortal above that of God. I will not bow down to anyone but you, my Lord. It is not out of arrogance that I am acting thus. ^esther-04-7
+17g. But I acted as I did so as not to place the honor of a mortal above that of God. I will not bow down to anyone but you, my Lord. It is not out of arrogance that I am acting thus. ^esther-04-17g
 
-8 And now, Lord God, King, God of [[abraham|Abraham]], spare your people, for our enemies regard us with deadly envy and are bent upon destroying the inheritance that was yours from the beginning. ^esther-04-8
+17h. And now, Lord God, King, God of [[abraham|Abraham]], spare your people, for our enemies regard us with deadly envy and are bent upon destroying the inheritance that was yours from the beginning. ^esther-04-17h
 
-9 Do not spurn your portion, which you redeemed for yourself out of the land of Egypt. ^esther-04-9
+17i. Do not spurn your portion, which you redeemed for yourself out of the land of Egypt. ^esther-04-17i
 
-10 Hear my prayer; have pity on your inheritance and turn our mourning into feasting, that we may live to sing praise to your name, Lord. Do not silence the mouths of those who praise you.” ^esther-04-10
+17j. Hear my prayer; have pity on your inheritance and turn our mourning into feasting, that we may live to sing praise to your name, Lord. Do not silence the mouths of those who praise you.” ^esther-04-17j
 
-11 All Israel, too, cried out with all their strength, for death was staring them in the face. ^esther-04-11
+17k. All Israel, too, cried out with all their strength, for death was staring them in the face. ^esther-04-17k
 
 **Prayer of Esther.**
 
-12 Queen Esther, seized with mortal anguish, fled to the Lord for refuge. ^esther-04-12
+17l. Queen Esther, seized with mortal anguish, fled to the Lord for refuge. ^esther-04-17l
 
-13 Taking off her splendid garments, she put on garments of distress and mourning. In place of her precious ointments she covered her head with dung and ashes. She afflicted her body severely and in place of her festive adornments, her tangled hair covered her. ^esther-04-13
+17m. Taking off her splendid garments, she put on garments of distress and mourning. In place of her precious ointments she covered her head with dung and ashes. She afflicted her body severely and in place of her festive adornments, her tangled hair covered her. ^esther-04-17m
 
-14 Then she prayed to the Lord, the God of Israel, saying: “My Lord, you alone are our King. Help me, who am alone and have no help but you, ^esther-04-14
+17n. Then she prayed to the Lord, the God of Israel, saying: “My Lord, you alone are our King. Help me, who am alone and have no help but you, ^esther-04-17n
 
-15 for I am taking my life in my hand. ^esther-04-15
+17o. for I am taking my life in my hand. ^esther-04-17o
 
-16 From birth, I have heard among my people that you, Lord, chose Israel from among all nations, and our ancestors from among all their forebears, as a lasting inheritance, and that you fulfilled all your promises to them. ^esther-04-16
+17p. From birth, I have heard among my people that you, Lord, chose Israel from among all nations, and our ancestors from among all their forebears, as a lasting inheritance, and that you fulfilled all your promises to them. ^esther-04-17p
 
-17 But now we have sinned in your sight, and you have delivered us into the hands of our enemies, ^esther-04-17
+17q. But now we have sinned in your sight, and you have delivered us into the hands of our enemies, ^esther-04-17q
 
-18 because we worshiped their gods. You are just, O Lord. ^esther-04-18
+17r. because we worshiped their gods. You are just, O Lord. ^esther-04-17r
 
-19 But now they are not satisfied with our bitter servitude, but have sworn an oath to their idols ^esther-04-19
+17s. But now they are not satisfied with our bitter servitude, but have sworn an oath to their idols ^esther-04-17s
 
-20 to do away with the decree you have pronounced, to destroy your inheritance, to close the mouths of those who praise you, to extinguish the glory of your house and your altar, ^esther-04-20
+17t. to do away with the decree you have pronounced, to destroy your inheritance, to close the mouths of those who praise you, to extinguish the glory of your house and your altar, ^esther-04-17t
 
-21 to open the mouths of the nations to acclaim their worthless gods, and to extol a mortal king forever. ^esther-04-21
+17u. to open the mouths of the nations to acclaim their worthless gods, and to extol a mortal king forever. ^esther-04-17u
 
-22 “Lord, do not relinquish your scepter to those who are nothing. Do not let our foes gloat over our ruin, but turn their own counsel against them and make an example of the one who began this against us. ^esther-04-22
+17v. “Lord, do not relinquish your scepter to those who are nothing. Do not let our foes gloat over our ruin, but turn their own counsel against them and make an example of the one who began this against us. ^esther-04-17v
 
-23 Be mindful of us, Lord. Make yourself known in the time of our distress and give me courage, King of gods and Ruler of every power. ^esther-04-23
+17w. Be mindful of us, Lord. Make yourself known in the time of our distress and give me courage, King of gods and Ruler of every power. ^esther-04-17w
 
-24 Put in my mouth persuasive words in the presence of the lion, and turn his heart to hatred for our enemy, so that he and his co-conspirators may perish. ^esther-04-24
+17x. Put in my mouth persuasive words in the presence of the lion, and turn his heart to hatred for our enemy, so that he and his co-conspirators may perish. ^esther-04-17x
 
-25 Save us by your power, and help me, who am alone and have no one but you, Lord. ^esther-04-25
+17y. Save us by your power, and help me, who am alone and have no one but you, Lord. ^esther-04-17y
 
-26 “You know all things. You know that I hate the pomp of the lawless, and abhor the bed of the uncircumcised or of any foreigner. ^esther-04-26
+17z. “You know all things. You know that I hate the pomp of the lawless, and abhor the bed of the uncircumcised or of any foreigner. ^esther-04-17z
 
-27 You know that I am under constraint, that I abhor the sign of grandeur that rests on my head when I appear in public. I abhor it like a polluted rag, and do not wear it in private. ^esther-04-27
+17aa. You know that I am under constraint, that I abhor the sign of grandeur that rests on my head when I appear in public. I abhor it like a polluted rag, and do not wear it in private. ^esther-04-17aa
 
-28 I, your servant, have never eaten at the table of Haman, nor have I graced the banquet of the king or drunk the wine of libations. ^esther-04-28
+17bb. I, your servant, have never eaten at the table of Haman, nor have I graced the banquet of the king or drunk the wine of libations. ^esther-04-17bb
 
-29 From the day I was brought here till now, your servant has had no joy except in you, Lord, God of [[abraham|Abraham]]. ^esther-04-29
+17cc. From the day I was brought here till now, your servant has had no joy except in you, Lord, God of [[abraham|Abraham]]. ^esther-04-17cc
 
-30 O God, whose power is over all, hear the voice of those in despair. Save us from the power of the wicked, and deliver me from my fear.” ^esther-04-30
+17dd. O God, whose power is over all, hear the voice of those in despair. Save us from the power of the wicked, and deliver me from my fear.” ^esther-04-17dd
 
-\* (C:28) Wine of libations: offered in sacrifice to the gods.
+\* (4:17bb) Wine of libations: offered in sacrifice to the gods.
 
-a. (C:5] – [7) [Est 3:2]; [5:9].
+a. (4:17e] – [17g) [Est 3:2]; [5:9].
 
-b. (C:12] – [13) [Est 4:16].
+b. (4:17m] – [17n) [Est 4:16].
 
-c. (C:15) [Est 4:16].
+c. (4:17p) [Est 4:16].
 
-d. (C:16) [Dt 4:20]; [7:6]; [9:29]; [14:2]; [26:18]; [32:9].
-
-CHAPTER D
-
-CHAPTER D
-
-**Esther Goes to Ahasuerus.**
-
-1 On the third day, ending her prayers, she took off her prayer garments and arrayed herself in her splendid attire. ^esther-04-1
-
-2 In making her appearance, after invoking the all-seeing God and savior, she took with her two maids; ^esther-04-2
-
-3 on the one she leaned gently for support, ^esther-04-3
-
-4 while the other followed her, bearing her train. ^esther-04-4
-
-5 She glowed with perfect beauty and her face was as joyous as it was lovely, though her heart was pounding with fear. ^esther-04-5
-
-6 She passed through all the portals till she stood before the king, who was seated on his royal throne, clothed in full robes of state, and covered with gold and precious stones, so that he inspired great awe. ^esther-04-6
-
-7 As he looked up in extreme anger, his features fiery and majestic, the queen staggered, turned pale and fainted, collapsing against the maid in front of her. ^esther-04-7
-
-8 But God changed the king’s anger to gentleness. In great anxiety he sprang from his throne, held her in his arms until she recovered, and comforted her with reassuring words. ^esther-04-8
-
-9 “What is it, Esther?” he said to her. “I am your brother. Take courage! ^esther-04-9
-
-10 You shall not die; this order of ours applies only to our subjects. ^esther-04-10
-
-11 Come near!” ^esther-04-11
-
-12 Raising the golden scepter, he touched her neck with it, embraced her, and said, “Speak to me.” ^esther-04-12
-
-13 She replied: “I saw you, my lord, as an angel of God, and my heart was shaken by fear of your majesty. ^esther-04-13
-
-14 For you are awesome, my lord, though your countenance is full of mercy.” ^esther-04-14
-
-15 As she said this, she fainted. ^esther-04-15
-
-16 The king was shaken and all his attendants tried to revive her. ^esther-04-16
-
-\* (D:1] – [16) Addition D expands on and replaces [5:1] – [2] of the Hebrew text.
-
-\* (D:9) Brother: along with “sister,” a common term of affection between lovers or husband and wife. See, e.g., [Sg 4:9] – [12]; [8:1]; [Tb 5:22]; [7:11].
-
-a. (D:12) [Est 4:11].
+d. (4:17q) [Dt 4:20]; [7:6]; [9:29]; [14:2]; [26:18]; [32:9].
 
 ---
 

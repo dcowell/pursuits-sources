@@ -66,6 +66,8 @@ description: 1 Timothy, Chapter 5
 
 21 I charge you before God and Christ Jesus and the elect angels to keep these rules without prejudice, doing nothing out of favoritism. ^1-timothy-05-21
 
+22 Do not lay hands too readily on anyone, and do not share in another’s sins. Keep yourself pure. ^1-timothy-05-22
+
 23 Stop drinking only water, but have a little wine for the sake of your stomach and your frequent illnesses. ^1-timothy-05-23
 
 24 Some people’s sins are public, preceding them to judgment; but other people are followed by their sins. ^1-timothy-05-24

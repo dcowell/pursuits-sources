@@ -102,6 +102,8 @@ my branches so glorious and so graceful.
 
 my blossoms are glorious and rich fruit.
 
+18 * ^sirach-24-18
+
 19 Come to me, all who desire me, ^sirach-24-19
 
 and be filled with my fruits.
@@ -123,6 +125,8 @@ and those who serve me will never go astray.”
 the Law which Moses commanded us
 
 as a heritage for the community of Jacob.
+
+24 * ^sirach-24-24
 
 25 It overflows, like the Pishon, with wisdom, ^sirach-24-25
 

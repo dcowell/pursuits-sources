@@ -58,6 +58,8 @@ and a son left to himself grows up unruly.
 
 indulge him, and he will bring you grief.
 
+10 Do not laugh with him lest you share sorrow with him, ^sirach-30-10
+
 and in the end you will gnash your teeth.
 
 11 Do not give him his own way in his youth, ^sirach-30-11

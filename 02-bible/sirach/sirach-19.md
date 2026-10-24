@@ -86,11 +86,17 @@ who has not sinned with his tongue?
 
 and give due place to the Law of the Most High.
 
+18 * ^sirach-19-18
+
+19 * ^sirach-19-19
+
 ### How to Recognize True Wisdom
 
 20 All wisdom is fear of the LORD; ^sirach-19-20
 
 and in all wisdom, the observance of the Law.
+
+21 * ^sirach-19-21
 
 22 The knowledge of wickedness is not wisdom, ^sirach-19-22
 

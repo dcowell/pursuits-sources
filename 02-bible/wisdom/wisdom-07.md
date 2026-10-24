@@ -78,7 +78,7 @@ though I had not known that she is their mother.
 
 ### Solomon Prays for Help to Speak Worthily of Wisdom
 
-her riches I do not hide away;
+13 Sincerely I learned about her, and ungrudgingly do I share— her riches I do not hide away; ^wisdom-07-13
 
 14 For she is an unfailing treasure; ^wisdom-07-14
 

@@ -106,7 +106,9 @@ but for all who seek instruction.
 
 rulers of the congregation, pay heed!
 
-20a Let neither son nor wife, neither brother nor friend,
+20 * ^sirach-33-20
+
+20a. Let neither son nor wife, neither brother nor friend,
 
 have power over you as long as you live.
 
@@ -114,7 +116,7 @@ have power over you as long as you live.
 
 let no one take your place.
 
-20b Do not give your wealth to another,
+20b. Do not give your wealth to another,
 
 lest you must plead for support yourself.
 
@@ -168,7 +170,7 @@ for you need him as you need your life.
 
 \* (33:3) Oracle: as the answer given through the Urim and Thummim to the high priest is true, so the law proves itself true to those who obey it. Cf. ([[exodus-28|Ex 28]]:30]; [Nm 27:21].
 
-\* (33:7] – [15) An important doctrine of Ben Sira is his view of the polarities in creation and history; cf. v. [15]; [42:24]. Contrasts observable in the physical universe as well as in the moraLORDer serve the purposes of divine wisdom (vv. [5] – [9]). All creatures are like clay in the hands of their Maker—the fool and the wise, the sinner and the just (vv. [10] – [15]). This does not imply that some are created to be sinners: God is not the author of wickedness. Divine determinism and human freedom are a mysterious mix.
+\* (33:7] – [15) An important doctrine of Ben Sira is his view of the polarities in creation and history; cf. v. [15]; [42:24]. Contrasts observable in the physical universe as well as in the moral order serve the purposes of divine wisdom (vv. [5] – [9]). All creatures are like clay in the hands of their Maker—the fool and the wise, the sinner and the just (vv. [10] – [15]). This does not imply that some are created to be sinners: God is not the author of wickedness. Divine determinism and human freedom are a mysterious mix.
 
 \* (33:16] – [18) Ben Sira refers to himself as the most recent of the biblical writers who have endeavored to present true wisdom to their readers.
 

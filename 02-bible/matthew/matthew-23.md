@@ -48,7 +48,7 @@ description: Matthew, Chapter 23
 
 13 “Woe to you, scribes and Pharisees, you hypocrites. You lock the kingdom of heaven before human beings. You do not enter yourselves, nor do you allow entrance to those trying to enter. ^matthew-23-13
 
-\[14\]
+14 * ^matthew-23-14
 
 15 “Woe to you, scribes and Pharisees, you hypocrites. You traverse sea and land to make one convert, and when that happens you make him a child of Gehenna twice as much as yourselves. ^matthew-23-15
 

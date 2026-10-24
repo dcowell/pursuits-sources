@@ -68,6 +68,8 @@ description: Acts of the Apostles, Chapter 8
 
 20 But Peter said to him, “May your money perish with you, because you thought that you could buy the gift of God with money. ^acts-of-the-apostles-08-20
 
+21 You have no share or lot in this matter, for your heart is not upright before God. ^acts-of-the-apostles-08-21
+
 22 Repent of this wickedness of yours and pray to the Lord that, if possible, your intention may be forgiven. ^acts-of-the-apostles-08-22
 
 23 For I see that you are filled with bitter gall and are in the bonds of iniquity.” ^acts-of-the-apostles-08-23
@@ -90,19 +92,9 @@ description: Acts of the Apostles, Chapter 8
 
 31 He replied, “How can I, unless someone instructs me?” So he invited Philip to get in and sit with him. ^acts-of-the-apostles-08-31
 
-32 This was the scripture passage he was reading: ^acts-of-the-apostles-08-32
+32 This was the scripture passage he was reading: “Like a sheep he was led to the slaughter, and as a lamb before its shearer is silent, so he opened not his mouth. ^acts-of-the-apostles-08-32
 
-“Like a sheep he was led to the slaughter,
-
-and as a lamb before its shearer is silent,
-
-so he opened not his mouth.
-
-33 In (his) humiliation justice was denied him. ^acts-of-the-apostles-08-33
-
-Who will tell of his posterity?
-
-For his life is taken from the earth.”
+33 In (his) humiliation justice was denied him. Who will tell of his posterity? For his life is taken from the earth.” ^acts-of-the-apostles-08-33
 
 34 Then the eunuch said to Philip in reply, “I beg you, about whom is the prophet saying this? About himself, or about someone else?” ^acts-of-the-apostles-08-34
 
@@ -110,7 +102,7 @@ For his life is taken from the earth.”
 
 36 As they traveled along the road they came to some water, and the eunuch said, “Look, there is water. What is to prevent my being baptized?” ^acts-of-the-apostles-08-36
 
-37
+37 * ^acts-of-the-apostles-08-37
 
 38 Then he ordered the chariot to stop, and Philip and the eunuch both went down into the water, and he baptized him. ^acts-of-the-apostles-08-38
 

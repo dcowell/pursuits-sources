@@ -66,6 +66,10 @@ description: 1 Samuel, Chapter 13
 
 19 Not a single smith was to be found anywhere in Israel, for the Philistines had said, “Otherwise the Hebrews will make swords or spears.” ^1-samuel-13-19
 
+20 All Israel, therefore, had to go down to the Philistines to sharpen their plowshares, mattocks, axes, and sickles. ^1-samuel-13-20
+
+21 The price for the plowshares and mattocks was two thirds of a shekel, and a third of a shekel for sharpening the axes and for setting the ox-goads. ^1-samuel-13-21
+
 22 And so on the day of battle neither sword nor spear could be found in the hand of any of the soldiers with Saul or Jonathan. Only Saul and his son Jonathan had them. ^1-samuel-13-22
 
 **Jonathan’s Exploit.**

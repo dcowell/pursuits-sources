@@ -46,6 +46,8 @@ description: John, Chapter 17
 
 12 When I was with them I protected them in your name that you gave me, and I guarded them, and none of them was lost except the son of destruction, in order that the scripture might be fulfilled. ^john-17-12
 
+13 But now I am coming to you. I speak this in the world so that they may share my joy completely. ^john-17-13
+
 14 I gave them your word, and the world hated them, because they do not belong to the world any more than I belong to the world. ^john-17-14
 
 15 I do not ask that you take them out of the world but that you keep them from the evil one. ^john-17-15
@@ -60,7 +62,7 @@ description: John, Chapter 17
 
 20 “I pray not only for them, but also for those who will believe in me through their word, ^john-17-20
 
-21 so that they may all be one, as you, Father, are in me and I in you, that they also may be in us, that the world may believe that you sent me. ^da499a ^john-17-21
+21 so that they may all be one, as you, Father, are in me and I in you, that they also may be in us, that the world may believe that you sent me. ^john-17-21
 
 22 And I have given them the glory you gave me, so that they may be one, as we are one, ^john-17-22
 

@@ -84,7 +84,7 @@ description: Luke, Chapter 10
 
 26 Jesus said to him, “What is written in the law? How do you read it?” ^luke-10-26
 
-27 He said in reply, “You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself.” ^26689c ^luke-10-27
+27 He said in reply, “You shall love the Lord, your God, with all your heart, with all your being, with all your strength, and with all your mind, and your neighbor as yourself.” ^luke-10-27
 
 28 He replied to him, “You have answered correctly; do this and you will live.” ^luke-10-28
 
@@ -92,7 +92,7 @@ description: Luke, Chapter 10
 
 29 But because he wished to justify himself, he said to Jesus, “And who is my neighbor?” ^luke-10-29
 
-30 Jesus replied, “A man fell victim to robbers as he went down from Jerusalem to Jericho. They stripped and beat him and went off leaving him half-dead. ^c7b90c ^luke-10-30
+30 Jesus replied, “A man fell victim to robbers as he went down from Jerusalem to Jericho. They stripped and beat him and went off leaving him half-dead. ^luke-10-30
 
 31 A priest happened to be going down that road, but when he saw him, he passed by on the opposite side. ^luke-10-31
 

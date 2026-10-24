@@ -48,69 +48,69 @@ description: esther-chapter 8
 
 12 on a single day throughout the provinces of King Ahasuerus, the thirteenth day of the twelfth month, Adar. ^esther-08-12
 
-CHAPTER E
+## CHAPTER E
 
-1 The following is a copy of the letter: ^esther-08-1
+12a. The following is a copy of the letter: “The great King Ahasuerus to the governors of the provinces in the hundred and twenty-seven satrapies from India to Ethiopia, and to those who are loyal to our government: Greetings! ^esther-08-12a
 
-“The great King Ahasuerus to the governors of the provinces in the hundred and twenty-seven satrapies from India to Ethiopia, and to those who are loyal to our government: Greetings!
+12b. “Many have become more ambitious the more they were showered with honors through the bountiful generosity of their patrons. ^esther-08-12b
 
-2 “Many have become more ambitious the more they were showered with honors through the bountiful generosity of their patrons. ^esther-08-2
+12c. Not only do they seek to do harm to our subjects but, incapable of dealing with such greatness, they even begin plotting against their own benefactors. ^esther-08-12c
 
-3 Not only do they seek to do harm to our subjects but, incapable of dealing with such greatness, they even begin plotting against their own benefactors. ^esther-08-3
+12d. Not only do they drive out gratitude from among humankind but, with the arrogant boastfulness of those to whom goodness has no meaning, they suppose they will escape the stern judgment of the all-seeing God. ^esther-08-12d
 
-4 Not only do they drive out gratitude from among humankind but, with the arrogant boastfulness of those to whom goodness has no meaning, they suppose they will escape the stern judgment of the all-seeing God. ^esther-08-4
+12e. “Often, too, the fair speech of friends entrusted with the administration of affairs has induced many placed in authority to become accomplices in the shedding of innocent blood, and has involved them in irreparable calamities ^esther-08-12e
 
-5 “Often, too, the fair speech of friends entrusted with the administration of affairs has induced many placed in authority to become accomplices in the shedding of innocent blood, and has involved them in irreparable calamities ^esther-08-5
+12f. by deceiving with malicious slander the sincere good will of rulers. ^esther-08-12f
 
-6 by deceiving with malicious slander the sincere good will of rulers. ^esther-08-6
+12g. This can be verified in the ancient stories that have been handed down to us, but more fully when you consider the wicked deeds perpetrated in your midst by the pestilential influence of those undeserving of authority. ^esther-08-12g
 
-7 This can be verified in the ancient stories that have been handed down to us, but more fully when you consider the wicked deeds perpetrated in your midst by the pestilential influence of those undeserving of authority. ^esther-08-7
+12h. We must provide for the future, so as to render the kingdom undisturbed and peaceful for all people, ^esther-08-12h
 
-8 We must provide for the future, so as to render the kingdom undisturbed and peaceful for all people, ^esther-08-8
+12i. taking advantage of changing conditions and always deciding matters coming to our attention with equitable treatment. ^esther-08-12i
 
-9 taking advantage of changing conditions and always deciding matters coming to our attention with equitable treatment. ^esther-08-9
+12j. *
 
-10 “For instance, Haman, son of Hammedatha, a Macedonian, certainly not of Persian blood, and very different from us in generosity, was hospitably received by us. ^esther-08-10
+12k. “For instance, Haman, son of Hammedatha, a Macedonian, certainly not of Persian blood, and very different from us in generosity, was hospitably received by us. ^esther-08-12k
 
-11 He benefited so much from the good will we have toward all peoples that he was proclaimed ‘our father,’ before whom everyone was to bow down; and he attained a position second only to the royal throne. ^esther-08-11
+12l. He benefited so much from the good will we have toward all peoples that he was proclaimed ‘our father,’ before whom everyone was to bow down; and he attained a position second only to the royal throne. ^esther-08-12l
 
-12 But, unable to control his arrogance, he strove to deprive us of kingdom and of life, ^esther-08-12
+12m. But, unable to control his arrogance, he strove to deprive us of kingdom and of life, ^esther-08-12m
 
-13 and by weaving intricate webs of deceit he demanded the destruction of Mordecai, our savior and constant benefactor, and of Esther, our blameless royal consort, together with their whole nation. ^esther-08-13
+12n. and by weaving intricate webs of deceit he demanded the destruction of Mordecai, our savior and constant benefactor, and of Esther, our blameless royal consort, together with their whole nation. ^esther-08-12n
 
-14 For by such measures he hoped to catch us defenseless and to transfer the rule of the Persians to the Macedonians. ^esther-08-14
+12o. For by such measures he hoped to catch us defenseless and to transfer the rule of the Persians to the Macedonians. ^esther-08-12o
 
-15 But we find that the Jews, who were doomed to extinction by this archcriminal, are not evildoers, but rather are governed by very just laws ^esther-08-15
+12p. But we find that the Jews, who were doomed to extinction by this archcriminal, are not evildoers, but rather are governed by very just laws ^esther-08-12p
 
-16 and are the children of the Most High, the living God of majesty, who has maintained the kingdom in a flourishing condition for us and for our forebears. ^esther-08-16
+12q. and are the children of the Most High, the living God of majesty, who has maintained the kingdom in a flourishing condition for us and for our forebears. ^esther-08-12q
 
-17 “You will do well, then, to ignore the letter sent by Haman, son of Hammedatha, ^esther-08-17
+12r. “You will do well, then, to ignore the letter sent by Haman, son of Hammedatha, ^esther-08-12r
 
-18 for he who composed it has been impaled, together with his entire household, before the gates of Susa. Thus swiftly has God, who governs all, brought just punishment upon him. ^esther-08-18
+12s. for he who composed it has been impaled, together with his entire household, before the gates of Susa. Thus swiftly has God, who governs all, brought just punishment upon him. ^esther-08-12s
 
-19 “You shall exhibit a copy of this letter publicly in every place to certify that the Jews may follow their own laws ^esther-08-19
+12t. “You shall exhibit a copy of this letter publicly in every place to certify that the Jews may follow their own laws ^esther-08-12t
 
-20 and that you may help them on the day set for their ruin, the thirteenth day of the twelfth month, Adar, to defend themselves against those who attack them. ^esther-08-20
+12u. and that you may help them on the day set for their ruin, the thirteenth day of the twelfth month, Adar, to defend themselves against those who attack them. ^esther-08-12u
 
-21 For God, the ruler of all, has turned that day from one of destruction of the chosen people into one of joy for them. ^esther-08-21
+12v. For God, the ruler of all, has turned that day from one of destruction of the chosen people into one of joy for them. ^esther-08-12v
 
-22 Therefore, you too must celebrate this memorable day among your designated feasts with all rejoicing, ^esther-08-22
+12w. Therefore, you too must celebrate this memorable day among your designated feasts with all rejoicing, ^esther-08-12w
 
-23 so that both now and in the future it may be a celebration of deliverance for us and for Persians of good will, but for those who plot against us a reminder of destruction. ^esther-08-23
+12x. so that both now and in the future it may be a celebration of deliverance for us and for Persians of good will, but for those who plot against us a reminder of destruction. ^esther-08-12x
 
-24 “Every city and province without exception that does not observe this decree shall be ruthlessly destroyed with fire and sword, so that it will be left not merely untrodden by people, but even shunned by wild beasts and birds forever.” ^esther-08-24
+12y. “Every city and province without exception that does not observe this decree shall be ruthlessly destroyed with fire and sword, so that it will be left not merely untrodden by people, but even shunned by wild beasts and birds forever.” ^esther-08-12y
 
 \* (E:10) Macedonian: throughout the book Haman is identified with terms of contempt—in the Hebrew text as an Agagite ([3:1], [10]; [8:3], [5]; [9:24]; cf. note on [A:17]), thus making him a descendant of Agag, king of the Amalekites, a group hated by the Israelites; in the Greek additions Haman is identified as a Macedonian, reflecting the enmity between the Persians and the Macedonians after Macedonia’s conquest of Persia in the fourth century B.C.
 
-a. (E:8] – [9) [Est B:2].
+a. (8:12h] – [12i) [Est 3:13b].
 
-b. (E:11) [Est B:3], [6].
+b. (8:12k) [Est 3:13c], [6].
 
-c. (E:13) [Est A:17].
+c. (8:12m) [Est 1:1q].
 
-d. (E:18) [Est 7:10]; [9:14].
+d. (8:12r) [Est 7:10]; [9:14].
 
-e. (E:24) [Est 3:8] – [9]; [B:4].
+e. (8:12x) [Est 3:8] – [9]; [3:13d].
 
 ## (CHAPTER 8)
 

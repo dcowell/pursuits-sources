@@ -74,6 +74,8 @@ description: 1 Kings, Chapter 2
 
 25 Then King Solomon sent Benaiah, son of Jehoiada, who struck him dead. ^1-kings-02-25
 
+26 The king said to Abiathar the priest: “Go to your estate in Anathoth. Though you deserve to die, I will not put you to death at this time, because you carried the ark of the Lord GOD before David my father and shared in all the hardships my father endured.” ^1-kings-02-26
+
 27 So Solomon dismissed Abiathar from the office of priest of the LORD, thus fulfilling the word the LORD had spoken in Shiloh against the house of Eli. ^1-kings-02-27
 
 28 When the news came to Joab, since he had sided with Adonijah, though not with Absalom, he fled to the tent of the LORD and clung to the horns of the altar. ^1-kings-02-28

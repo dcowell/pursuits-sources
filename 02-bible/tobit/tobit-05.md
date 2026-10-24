@@ -68,7 +68,7 @@ Tobiah left to set out on his journey, and he kissed his father and mother. Tobi
 
 22 For a good angel will go with him, his journey will be successful, and he will return in good health.” ^tobit-05-22
 
-1 Then she stopped weeping. ^tobit-05-1
+Then she stopped weeping.
 
 \* (5:3) Bond: a document called in Greek *cheirographon*. In the Middle Ages, notably in England, a deed and its duplicate were written on one piece of parchment, with the Latin word *chirographum* inscribed across the top of the sheet or between the two copies of the text. The document was then cut in two in either a straight or a wavy line, the parts being given to the persons concerned. Perhaps this procedure was derived from the present verse of Tobit. Duplicate documents, usually one part open and the other sealed, are well known from the ancient Near East.
 

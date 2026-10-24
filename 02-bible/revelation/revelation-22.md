@@ -58,6 +58,8 @@ description: Revelation, Chapter 22
 
 18 I warn everyone who hears the prophetic words in this book: if anyone adds to them, God will add to him the plagues described in this book, ^revelation-22-18
 
+19 Then I saw the beast and the kings of the earth and their armies gathered to fight against the one riding the horse and against his army. ^revelation-22-19
+
 20 The one who gives this testimony says, “Yes, I am coming soon.” Amen! Come, Lord Jesus! ^revelation-22-20
 
 21 The grace of the Lord Jesus be with all. ^revelation-22-21

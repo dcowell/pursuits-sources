@@ -58,7 +58,7 @@ teaching as doctrines human precepts.’
 
 15 Nothing that enters one from outside can defile that person; but the things that come out from within are what defile.” ^mark-07-15
 
-\[16\]
+16 * ^mark-07-16
 
 17 When he got home away from the crowd his disciples questioned him about the parable. ^mark-07-17
 

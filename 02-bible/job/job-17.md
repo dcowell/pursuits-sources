@@ -36,6 +36,8 @@ who is there to give surety for me?
 
 therefore you will not exalt them.
 
+5 For a share of property he informs on friends, ^job-17-5
+
 while the eyes of his children grow dim.
 
 6 I am made a byword of the people; ^job-17-6

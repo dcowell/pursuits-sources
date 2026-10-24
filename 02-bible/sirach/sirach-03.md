@@ -92,6 +92,8 @@ and you will be loved more than a giver of gifts.
 
 and you will find mercy in the sight of God.
 
+19 * ^sirach-03-19
+
 20 For great is the power of the Lord; ^sirach-03-20
 
 by the humble he is glorified.

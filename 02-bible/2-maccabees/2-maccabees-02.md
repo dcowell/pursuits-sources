@@ -1,7 +1,7 @@
 ---
 type: bible
 title: 2 Maccabees, Chapter 2
-url: https://bible.usccb.org/bible/2maccabees/1
+url: https://bible.usccb.org/bible/2maccabees/2
 aliases:
   - 2 Maccabees, Chapter 2
   - 2-maccabees-02
@@ -20,69 +20,69 @@ description: 2 Maccabees, Chapter
 
 1 In the records it will be found that Jeremiah the prophet ordered the deportees to take some of the fire with them as indicated, ^2-maccabees-02-1
 
-2and that the prophet, in giving them the law, directed the deportees not to forget the commandments of the Lord or be led astray in their thoughts, when seeing the gold and silver idols and their adornments.[a]
+2 and that the prophet, in giving them the law, directed the deportees not to forget the commandments of the Lord or be led astray in their thoughts, when seeing the gold and silver idols and their adornments. ^2-maccabees-02-2
 
-3With other similar words he exhorted them that the law should not depart from their hearts.
+3 With other similar words he exhorted them that the law should not depart from their hearts. ^2-maccabees-02-3
 
-4[*] The same document also tells how the prophet, in virtue of an oracle, ordered that the tent and the ark should accompany him, and how he went to the very mountain that Moses climbed to behold God’s inheritance.[b]
+4 The same document also tells how the prophet, in virtue of an oracle, ordered that the tent and the ark should accompany him, and how he went to the very mountain that Moses climbed to behold God’s inheritance. ^2-maccabees-02-4
 
-5When Jeremiah arrived there, he found a chamber in a cave in which he put the tent, the ark, and the altar of incense; then he sealed the entrance.
+5 When Jeremiah arrived there, he found a chamber in a cave in which he put the tent, the ark, and the altar of incense; then he sealed the entrance. ^2-maccabees-02-5
 
-6Some of those who followed him came up intending to mark the path, but they could not find it.
+6 Some of those who followed him came up intending to mark the path, but they could not find it. ^2-maccabees-02-6
 
-7When Jeremiah heard of this, he reproved them: “The place is to remain unknown until God gathers his people together again and shows them mercy.
+7 When Jeremiah heard of this, he reproved them: “The place is to remain unknown until God gathers his people together again and shows them mercy. ^2-maccabees-02-7
 
-8Then the Lord will disclose these things, and the glory of the Lord and the cloud will be seen, just as they appeared in the time of Moses and of Solomon when he prayed that the place[*] might be greatly sanctified.”[c]
+8 Then the Lord will disclose these things, and the glory of the Lord and the cloud will be seen, just as they appeared in the time of Moses and of Solomon when he prayed that the place[*] might be greatly sanctified.”[c] ^2-maccabees-02-8
 
-9It is also related how Solomon in his wisdom offered a sacrifice for the dedication and the completion of the temple.
+9 It is also related how Solomon in his wisdom offered a sacrifice for the dedication and the completion of the temple. ^2-maccabees-02-9
 
-10Just as Moses prayed to the Lord and fire descended from the sky and consumed the sacrifices, so also Solomon prayed and fire came down and consumed the burnt offerings.[d]
+10 Just as Moses prayed to the Lord and fire descended from the sky and consumed the sacrifices, so also Solomon prayed and fire came down and consumed the burnt offerings. ^2-maccabees-02-10
 
-11[*] Moses had said, “Because it had not been eaten, the purification offering was consumed.”[e]
+11 Moses had said, “Because it had not been eaten, the purification offering was consumed.” ^2-maccabees-02-11
 
-12Solomon also celebrated the feast in the same way for eight days.
+12 Solomon also celebrated the feast in the same way for eight days. ^2-maccabees-02-12
 
-13These same things are also told in the records and in Nehemiah’s memoirs,[*] as well as how he founded a library and collected the books about the kings and the prophets, the books of David, and the royal letters about votive offerings.
+13 These same things are also told in the records and in Nehemiah’s memoirs, as well as how he founded a library and collected the books about the kings and the prophets, the books of David, and the royal letters about votive offerings. ^2-maccabees-02-13
 
-14In like manner Judas also collected for us all the books that had been scattered because of the war, and we now have them in our possession.[f]
+14 In like manner Judas also collected for us all the books that had been scattered because of the war, and we now have them in our possession. ^2-maccabees-02-14
 
-15If you need them, send messengers to get them for you.
+15 If you need them, send messengers to get them for you. ^2-maccabees-02-15
 
-16As we are about to celebrate the purification, we are writing: you should celebrate the feast days.
+16 As we are about to celebrate the purification, we are writing: you should celebrate the feast days. ^2-maccabees-02-16
 
-17It is God who has saved all his people and has restored to all of them their inheritance, the kingdom, the priesthood, and the sacred rites,
+17 It is God who has saved all his people and has restored to all of them their inheritance, the kingdom, the priesthood, and the sacred rites, ^2-maccabees-02-17
 
-18as he promised through the law. For we hope in God, that he will soon have mercy on us and gather us together from everywhere under the heavens to his holy place, for he has rescued us from great perils and has purified the place.[g]
+18 as he promised through the law. For we hope in God, that he will soon have mercy on us and gather us together from everywhere under the heavens to his holy place, for he has rescued us from great perils and has purified the place. ^2-maccabees-02-18
 
-## Ii. COMPILER’S Preface
+## II. COMPILER’S Preface
 
-19This is the story of Judas Maccabeus and his brothers, of the purification of the great temple, the dedication of the altar,
+19 This is the story of Judas Maccabeus and his brothers, of the purification of the great temple, the dedication of the altar, ^2-maccabees-02-19
 
-20the campaigns against Antiochus Epiphanes and his son Eupator,[*]
+20 the campaigns against Antiochus Epiphanes and his son Eupator, ^2-maccabees-02-20
 
-21and of the heavenly manifestations accorded to the heroes who fought bravely for the Jewish people. Few as they were, they plundered the whole land, put to flight the barbarian hordes,
+21 and of the heavenly manifestations accorded to the heroes who fought bravely for the Jewish people. Few as they were, they plundered the whole land, put to flight the barbarian hordes, ^2-maccabees-02-21
 
-22regained possession of the temple renowned throughout the world, and liberated the city. They re-established the laws that were in danger of being abolished, while the Lord favored them with every kindness.
+22 regained possession of the temple renowned throughout the world, and liberated the city. They re-established the laws that were in danger of being abolished, while the Lord favored them with every kindness. ^2-maccabees-02-22
 
-23All this, detailed by Jason of Cyrene in five volumes, we will try to condense into a single book.
+23 All this, detailed by Jason of Cyrene in five volumes, we will try to condense into a single book. ^2-maccabees-02-23
 
-24For in view of the flood of data, and the difficulties encountered, given such abundant material, by those who wish to plunge into accounts of the history,
+24 For in view of the flood of data, and the difficulties encountered, given such abundant material, by those who wish to plunge into accounts of the history, ^2-maccabees-02-24
 
-25we have aimed to please those who prefer simply to read, to make it easy for the studious who wish to commit things to memory, and to be helpful to all.
+25 we have aimed to please those who prefer simply to read, to make it easy for the studious who wish to commit things to memory, and to be helpful to all. ^2-maccabees-02-25
 
-26For us who have undertaken the labor of making this digest, the task, far from being easy, is one of sweat and of sleepless nights.
+26 For us who have undertaken the labor of making this digest, the task, far from being easy, is one of sweat and of sleepless nights. ^2-maccabees-02-26
 
-27Just so, the preparation of a festive banquet is no light matter for one who seeks to give enjoyment to others. Similarly, to win the gratitude of many we will gladly endure this labor,
+27 Just so, the preparation of a festive banquet is no light matter for one who seeks to give enjoyment to others. Similarly, to win the gratitude of many we will gladly endure this labor, ^2-maccabees-02-27
 
-28leaving the responsibility for exact details to the historian, and confining our efforts to presenting only a summary outline.
+28 leaving the responsibility for exact details to the historian, and confining our efforts to presenting only a summary outline. ^2-maccabees-02-28
 
-29As the architect of a new house must pay attention to the whole structure, while the one who undertakes the decoration and the frescoes has to be concerned only with what is needed for ornamentation, so I think it is with us.[h]
+29 As the architect of a new house must pay attention to the whole structure, while the one who undertakes the decoration and the frescoes has to be concerned only with what is needed for ornamentation, so I think it is with us.[h] ^2-maccabees-02-29
 
-30To enter into questions and examine them from all sides and to be busy about details is the task of the historian;
+30 To enter into questions and examine them from all sides and to be busy about details is the task of the historian; ^2-maccabees-02-30
 
-31but one who is making an adaptation should be allowed to aim at brevity of expression and to forgo complete treatment of the matter.
+31 but one who is making an adaptation should be allowed to aim at brevity of expression and to forgo complete treatment of the matter. ^2-maccabees-02-31
 
-32Here, then, let us begin our account without adding to what has already been said; it would be silly to lengthen the preface to the history and then cut short the history itself.
+32 Here, then, let us begin our account without adding to what has already been said; it would be silly to lengthen the preface to the history and then cut short the history itself. ^2-maccabees-02-32
 
 ---
 

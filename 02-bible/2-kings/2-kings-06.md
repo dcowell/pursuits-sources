@@ -62,6 +62,8 @@ Informed that Elisha was in Dothan,
 
 18 When the Arameans came down to get him, Elisha prayed to the LORD, “Strike this people blind, I pray you.” And the LORD struck them blind, according to Elisha’s word. ^2-kings-06-18
 
+19 Then Elisha said to them: “This is the wrong road, and this is the wrong city. Follow me! I will take you to the man you want.” And he led them to Samaria. ^2-kings-06-19
+
 20 When they entered Samaria, Elisha prayed, “O LORD, open their eyes that they may see.” The LORD opened their eyes, and they saw that they were inside Samaria. ^2-kings-06-20
 
 21 When the king of Israel saw them, he asked, “Shall I kill them, my father? Shall I kill them?” ^2-kings-06-21

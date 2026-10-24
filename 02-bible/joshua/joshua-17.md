@@ -30,6 +30,8 @@ description: Joshua, Chapter 17
 
 4 These presented themselves to Eleazar the priest, to Joshua, son of Nun, and to the leaders, saying, “The LORD commanded Moses to give us a heritage among our relatives.” So in accordance with the command of the LORD a heritage was given them among their father’s relatives. ^joshua-17-4
 
+5 Thus ten shares fell to Manasseh apart from the land of Gilead and Bashan beyond the Jordan, ^joshua-17-5
+
 6 since these female descendants of Manasseh received each a portion among his sons. The land of Gilead fell to the rest of the Manassites. ^joshua-17-6
 
 7 Manasseh bordered on Asher. From Michmethath, near Shechem, another boundary ran southward to include the inhabitants of En-Tappuah, ^joshua-17-7
@@ -48,9 +50,13 @@ description: Joshua, Chapter 17
 
 **Protest of Joseph Tribes.**
 
+14 The descendants of Joseph said to Joshua, “Why have you given us only one lot and one share as our heritage?g Our people are too many, because of the extent to which the LORD has blessed us.” ^joshua-17-14
+
 15 Joshua answered them, “If you are too many, go up to the forest and clear out a place for yourselves there in the land of the Perizzites and Rephaim, since the mountain regions of Ephraim are so narrow.” ^joshua-17-15
 
 16 For the Josephites said, “Our mountain regions are not enough for us; on the other hand, the Canaanites living in the valley region all have iron chariots, in particular those in Beth-shean and its towns, and those in the valley of Jezreel.” ^joshua-17-16
+
+17 Joshua therefore said to Ephraim and Manasseh, the house of Joseph, “You are a numerous people and very strong. You shall not have merely one share, ^joshua-17-17
 
 18 for the mountain region which is now forest shall be yours when you clear it. Its adjacent land shall also be yours if, despite their strength and iron chariots, you dispossess the Canaanites.” ^joshua-17-18
 

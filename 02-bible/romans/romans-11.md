@@ -70,6 +70,8 @@ and keep their backs bent forever.”
 
 16 If the firstfruits are holy, so is the whole batch of dough; and if the root is holy, so are the branches. ^romans-11-16
 
+17 But if some of the branches were broken off, and you, a wild olive shoot, were grafted in their place and have come to share in the rich root of the olive tree, ^romans-11-17
+
 18 do not boast against the branches. If you do boast, consider that you do not support the root; the root supports you. ^romans-11-18
 
 19 Indeed you will say, “Branches were broken off so that I might be grafted in.” ^romans-11-19

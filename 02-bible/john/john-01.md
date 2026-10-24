@@ -26,7 +26,7 @@ and the Word was with God,
 
 and the Word was God.
 
-2 He was in the beginning with God. ^b58eb9 ^john-01-2
+2 He was in the beginning with God. ^john-01-2
 
 3 All things came to be through him, ^john-01-3
 
@@ -143,6 +143,8 @@ as Isaiah the prophet said.”
 41 He first found his own brother Simon and told him, “We have found the Messiah” (which is translated Anointed). ^john-01-41
 
 42 Then he brought him to Jesus. Jesus looked at him and said, “You are Simon the son of John; you will be called Cephas” (which is translated Peter). ^john-01-42
+
+43 The next day he* decided to go to Galilee, and he found Philip. And Jesus said to him, “Follow me.” ^john-01-43
 
 44 Now Philip was from Bethsaida, the town of Andrew and Peter. ^john-01-44
 

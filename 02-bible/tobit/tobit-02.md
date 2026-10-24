@@ -22,6 +22,8 @@ description: Tobit, Chapter 2
 
 1 Thus under King Esarhaddon I returned to my home, and my wife Anna and my son Tobiah were restored to me. Then on our festival of Pentecost, the holy feast of Weeks, a fine dinner was prepared for me, and I reclined to eat. ^tobit-02-1
 
+2 The table was set for me, and the dishes placed before me were many. So I said to my son Tobiah: “Son, go out and bring in whatever poor person you find among our kindred exiled here in Nineveh who may be a sincere worshiper of God to share this meal with me. Indeed, son, I shall wait for you to come back.” ^tobit-02-2
+
 3 Tobiah went out to look for some poor person among our kindred, but he came back and cried, “Father!” I said to him, “Here I am, son.” He answered, “Father, one of our people has been murdered! He has been thrown out into the market place, and there he lies strangled.” ^tobit-02-3
 
 4 I sprang to my feet, leaving the dinner untouched, carried the dead man from the square, and put him in one of the rooms until sundown, so that I might bury him. ^tobit-02-4

@@ -74,7 +74,7 @@ description: John, Chapter 8
 
 23 He said to them, “You belong to what is below, I belong to what is above. You belong to this world, but I do not belong to this world. ^john-08-23
 
-24 That is why I told you that you will die in your sins. For if you do not believe that I AM, you will die in your sins.” ^5008d7 ^john-08-24
+24 That is why I told you that you will die in your sins. For if you do not believe that I AM, you will die in your sins.” ^john-08-24
 
 25 So they said to him, “Who are you?” Jesus said to them, “What I told you from the beginning. ^john-08-25
 

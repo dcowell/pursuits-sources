@@ -32,6 +32,8 @@ description: 2 Peter, Chapter 1
 
 3 His divine power has bestowed on us everything that makes for life and devotion, through the knowledge of him who called us by his own glory and power. ^2-peter-01-3
 
+4 Through these, he has bestowed on us the precious and very great promises, so that through them you may come to share in the divine nature, after escaping from the corruption that is in the world because of evil desire. ^2-peter-01-4
+
 5 For this very reason, make every effort to supplement your faith with virtue, virtue with knowledge, ^2-peter-01-5
 
 6 knowledge with self-control, self-control with endurance, endurance with devotion, ^2-peter-01-6

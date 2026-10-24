@@ -40,9 +40,15 @@ description: 1 Corinthians, Chapter 9
 
 9 It is written in the law of Moses, “You shall not muzzle an ox while it is treading out the grain.” Is God concerned about oxen, ^1-corinthians-09-9
 
+10 or is he not really speaking for our sake? It was written for our sake, because the plowman should plow in hope, and the thresher in hope of receiving a share.e ^1-corinthians-09-10
+
 11 If we have sown spiritual seed for you, is it a great thing that we reap a material harvest from you? ^1-corinthians-09-11
 
+12 If others share this rightful claim on you, do not we still more? ^1-corinthians-09-12
+
 **Reason for Not Using His Rights.**Yet we have not used this right. On the contrary, we endure everything so as not to place an obstacle to the gospel of Christ.
+
+13 Do you not know that those who perform the temple services eat [what] belongs to the temple, and those who minister at the altar share in the sacrificial offerings? ^1-corinthians-09-13
 
 14 In the same way, the Lord ordered that those who preach the gospel should live by the gospel. ^1-corinthians-09-14
 
@@ -63,6 +69,8 @@ description: 1 Corinthians, Chapter 9
 21 To those outside the law I became like one outside the law—though I am not outside God’s law but within the law of Christ—to win over those outside the law. ^1-corinthians-09-21
 
 22 To the weak I became weak, to win over the weak. I have become all things to all, to save at least some. ^1-corinthians-09-22
+
+23 All this I do for the sake of the gospel, so that I too may have a share in it. ^1-corinthians-09-23
 
 24 Do you not know that the runners in the stadium all run in the race, but only one wins the prize? Run so as to win. ^1-corinthians-09-24
 

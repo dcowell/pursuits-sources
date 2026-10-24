@@ -46,6 +46,8 @@ description: Acts of the Apostles, Chapter 11
 
 12 The Spirit told me to accompany them without discriminating. These six brothers also went with me, and we entered the man’s house. ^acts-of-the-apostles-11-12
 
+13 He related to us how he had seen (the) angel standing in his house, saying, ‘Send someone to Joppa and summon Simon, who is called Peter, ^acts-of-the-apostles-11-13
+
 14 who will speak words to you by which you and all your household will be saved.’ ^acts-of-the-apostles-11-14
 
 15 As I began to speak, the holy Spirit fell upon them as it had upon us at the beginning, ^acts-of-the-apostles-11-15

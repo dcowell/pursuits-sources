@@ -44,7 +44,7 @@ description: exodus-chapter 20
 
 11 For in six days the LORD made the heavens and the earth, the sea and all that is in them; but on the seventh day he rested. That is why the LORD has blessed the sabbath day and made it holy. ^exodus-20-11
 
-12 Honor your father and your mother, that you may have a long life in the land the LORD your God is giving you. ^3e4678 ^exodus-20-12
+12 Honor your father and your mother, that you may have a long life in the land the LORD your God is giving you. ^exodus-20-12
 
 13 You shall not kill. ^exodus-20-13
 

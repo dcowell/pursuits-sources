@@ -54,6 +54,8 @@ description: 2 Kings, Chapter 18
 
 15 Hezekiah gave him all the funds there were in the house of the LORD and in the treasuries of the king’s house. ^2-kings-18-15
 
+16 At the same time, Hezekiah removed the nave doors and the uprights of the house of the LORD, which the king of Judah had ordered to be overlaid with gold, and gave them to the king of Assyria. ^2-kings-18-16
+
 17 The king of Assyria sent the general, the lord chamberlain, and the commander from Lachish with a great army to King Hezekiah at Jerusalem. They went up and came to Jerusalem, to the conduit of the upper pool on the highway of the fuller’s field, where they took their stand. ^2-kings-18-17
 
 18 They called for the king, but Eliakim, son of Hilkiah, the master of the palace, came out, along with Shebnah the scribe and the chancellor Joah, son of Asaph. ^2-kings-18-18

@@ -26,9 +26,13 @@ description: 2 Timothy, Chapter 2
 
 2 And what you heard from me through many witnesses entrust to faithful people who will have the ability to teach others as well. ^2-timothy-02-2
 
+3 Bear your share of hardship along with me like a good soldier of Christ Jesus. ^2-timothy-02-3
+
 4 To satisfy the one who recruited him, a soldier does not become entangled in the business affairs of life. ^2-timothy-02-4
 
 5 Similarly, an athlete cannot receive the winner’s crown except by competing according to the rules. ^2-timothy-02-5
+
+6 The hardworking farmer ought to have the first share of the crop. ^2-timothy-02-6
 
 7 Reflect on what I am saying, for the Lord will give you understanding in everything. ^2-timothy-02-7
 

@@ -34,39 +34,17 @@ description: 1 Maccabees, Chapter 2
 
 6 When he saw the sacrileges that were being committed in Judah and in Jerusalem, ^1-maccabees-02-6
 
-7 he said: ^1-maccabees-02-7
-
-“Woe is me! Why was I born
-
-to see the ruin of my people,
-
-the ruin of the holy city—
-
-To dwell there
-
-as it was given into the hands of enemies,
-
-the sanctuary into the hands of strangers?
+7 he said: “Woe is me! Why was I born to see the ruin of my people, the ruin of the holy city— To dwell there as it was given into the hands of enemies, the sanctuary into the hands of strangers? ^1-maccabees-02-7
 
 8 Her temple has become like a man disgraced, ^1-maccabees-02-8
 
-9 her glorious vessels carried off as spoils, ^1-maccabees-02-9
+9 her glorious vessels carried off as spoils, Her infants murdered in her streets, her youths by the sword of the enemy. and laid its hand on her spoils? ^1-maccabees-02-9
 
-Her infants murdered in her streets,
+10 What nation has not taken its share of her realm, and laid its hand on her spoils? ^1-maccabees-02-10
 
-her youths by the sword of the enemy.
+11 All her adornment has been taken away. Once free, she has become a slave. ^1-maccabees-02-11
 
-and laid its hand on her spoils?
-
-11 All her adornment has been taken away. ^1-maccabees-02-11
-
-Once free, she has become a slave.
-
-12 We see our sanctuary laid waste, ^1-maccabees-02-12
-
-our beauty, our glory.
-
-The Gentiles have defiled them!
+12 We see our sanctuary laid waste, our beauty, our glory. The Gentiles have defiled them! ^1-maccabees-02-12
 
 13 Why are we still alive?” ^1-maccabees-02-13
 
@@ -97,6 +75,8 @@ The Gentiles have defiled them!
 25 At the same time, he also killed the messenger of the king who was forcing them to sacrifice, and he tore down the altar. ^1-maccabees-02-25
 
 26 Thus he showed his zeal for the law, just as Phinehas did with Zimri, son of Salu. ^1-maccabees-02-26
+
+27 Then Mattathias cried out in the city, “Let everyone who is zealous for the law and who stands by the covenant follow me!” ^1-maccabees-02-27
 
 28 Then he and his sons fled to the mountains, leaving behind in the city all their possessions. ^1-maccabees-02-28
 

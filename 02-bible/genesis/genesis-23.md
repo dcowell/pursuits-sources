@@ -57,6 +57,8 @@ bible_chapter: "23"
 
 15 sir, listen to me! A piece of land worth four hundred shekels of silver—what is that between you and me? Bury your dead!” ^genesis-23-15
 
+16 [[abraham|Abraham]] accepted Ephron’s terms; he weighed out to him the silver that Ephron had stipulated in the hearing of the Hittites, four hundred shekels of silver at the current market value.* ^genesis-23-16
+
 17 Thus Ephron’s field in Machpelah, facing Mamre, together with its cave and all the trees anywhere within its limits, was conveyed ^genesis-23-17
 
 18 to Abraham by purchase in the presence of the Hittites, all who entered the gate of Ephron’s city. ^genesis-23-18

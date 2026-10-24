@@ -58,6 +58,8 @@ description: Deuteronomy, Chapter 21
 
 16 when he comes to bequeath his property to his sons he may not consider as his firstborn the son of the wife he loves, in preference to the son of the wife he does not love, the firstborn. ^deuteronomy-21-16
 
+17 On the contrary, he shall recognize as his firstborn the son of the unloved wife, giving him a double share of whatever he happens to own, since he is the first fruits of his manhood, and to him belong the rights of the firstborn. ^deuteronomy-21-17
+
 **The Stubborn and Rebellious Son.**
 
 18 If someone has a stubborn and rebellious son who will not listen to his father or mother, and will not listen to them even though they discipline him, ^deuteronomy-21-18

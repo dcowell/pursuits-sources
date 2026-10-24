@@ -54,6 +54,8 @@ description: Tobit, Chapter 4
 
 16 “Give to the hungry some of your food, and to the naked some of your clothing. Whatever you have left over, give away as alms; and do not let your eye begrudge the alms that you give. ^tobit-04-16
 
+17 Pour out your wine and your bread on the grave of the righteous, but do not share them with sinners. ^tobit-04-17
+
 18 “Seek counsel from every wise person, and do not think lightly of any useful advice. ^tobit-04-18
 
 19 At all times bless the Lord, your God, and ask him that all your paths may be straight and all your endeavors and plans may prosper. For no other nation possesses good counsel, but it is the Lord who gives all good things. Whomever the Lord chooses to raise is raised; and whomever the Lord chooses to cast down is cast down to the recesses of Hades. So now, son, keep in mind these my commandments, and never let them be erased from your heart. ^tobit-04-19

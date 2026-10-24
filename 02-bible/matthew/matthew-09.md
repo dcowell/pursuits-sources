@@ -40,6 +40,8 @@ description: Matthew, Chapter 9
 
 **The Call of Matthew.**
 
+9 As Jesus passed on from there, he saw a man named Matthew* sitting at the customs post. He said to him, “Follow me.” And he got up and followed him. ^matthew-09-9
+
 10 While he was at table in his house, many tax collectors and sinners came and sat with Jesus and his disciples. ^matthew-09-10
 
 11 The Pharisees saw this and said to his disciples, “Why does your teacher eat with tax collectors and sinners?” ^matthew-09-11

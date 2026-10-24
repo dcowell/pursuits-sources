@@ -42,7 +42,11 @@ he scourges every son he acknowledges.”
 
 7 Endure your trials as “discipline”; God treats you as sons. For what “son” is there whom his father does not discipline? ^hebrews-12-7
 
+8 If you are without discipline, in which all have shared, you are not sons but bastards. ^hebrews-12-8
+
 9 Besides this, we have had our earthly fathers to discipline us, and we respected them. Should we not \[then\] submit all the more to the Father of spirits and live? ^hebrews-12-9
+
+10 They disciplined us for a short time as seemed right to them, but he does so for our benefit, in order that we may share his holiness. ^hebrews-12-10
 
 11 At the time, all discipline seems a cause not for joy but for pain, yet later it brings the peaceful fruit of righteousness to those who are trained by it. ^hebrews-12-11
 

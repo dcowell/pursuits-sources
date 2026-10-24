@@ -54,6 +54,8 @@ and the rough ways made smooth,
 
 10 And the crowds asked him, “What then should we do?” ^luke-03-10
 
+11 He said to them in reply, “Whoever has two tunics should share with the person who has none. And whoever has food should do likewise.” ^luke-03-11
+
 12 Even tax collectors came to be baptized and they said to him, “Teacher, what should we do?” ^luke-03-12
 
 13 He answered them, “Stop collecting more than what is prescribed.” ^luke-03-13

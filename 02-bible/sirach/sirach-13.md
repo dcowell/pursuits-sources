@@ -88,6 +88,8 @@ and will not refrain from injury or chains.
 
 never to accompany lawless people.
 
+14 * ^sirach-13-14
+
 15 Every living thing loves its own kind, ^sirach-13-15
 
 and we all love someone like ourselves.

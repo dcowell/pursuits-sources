@@ -36,6 +36,8 @@ description: Acts of the Apostles, Chapter 12
 
 7 Suddenly the angel of the Lord stood by him and a light shone in the cell. He tapped Peter on the side and awakened him, saying, “Get up quickly.” The chains fell from his wrists. ^acts-of-the-apostles-12-7
 
+8 The angel said to him, “Put on your belt and your sandals.” He did so. Then he said to him, “Put on your cloak and follow me.” ^acts-of-the-apostles-12-8
+
 9 So he followed him out, not realizing that what was happening through the angel was real; he thought he was seeing a vision. ^acts-of-the-apostles-12-9
 
 10 They passed the first guard, then the second, and came to the iron gate leading out to the city, which opened for them by itself. They emerged and made their way down an alley, and suddenly the angel left him. ^acts-of-the-apostles-12-10

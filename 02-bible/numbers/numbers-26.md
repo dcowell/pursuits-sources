@@ -22,9 +22,7 @@ description: Numbers, Chapter 26
 
 **The Second Census.**
 
-19 After the plague ^numbers-26-19
-
-1 the LORD said to Moses and Eleazar, son of Aaron the priest: ^numbers-26-1
+1 (After the plague) the LORD said to Moses and Eleazar, son of Aaron the priest: ^numbers-26-1
 
 2 Take a census, by ancestral houses, throughout the community of the Israelites of all those of twenty years or more who are eligible for military service in Israel. ^numbers-26-2
 

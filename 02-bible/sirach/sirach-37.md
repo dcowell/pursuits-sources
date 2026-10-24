@@ -126,6 +126,8 @@ yet appear foolish to himself.
 
 he will be deprived of all enjoyment.
 
+21 * ^sirach-37-21
+
 22 When one is wise to his own advantage, ^sirach-37-22
 
 the fruits of knowledge are seen in his own person.

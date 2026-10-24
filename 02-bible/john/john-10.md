@@ -76,6 +76,8 @@ description: John, Chapter 10
 
 26 But you do not believe, because you are not among my sheep. ^john-10-26
 
+27 My sheep hear my voice; I know them, and they follow me. ^john-10-27
+
 28 I give them eternal life, and they shall never perish. No one can take them out of my hand. ^john-10-28
 
 29 My Father, who has given them to me, is greater than all, and no one can take them out of the Father’s hand. ^john-10-29

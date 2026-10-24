@@ -36,7 +36,9 @@ description: Ezekiel, Chapter 13
 
 7 Was not the vision you saw false? Did you not report a lying divination when you said, “Oracle of the LORD,” even though I never spoke? ^ezekiel-13-7
 
-8 Therefore thus says the Lord G OD: Because you have spoken falsehood and seen lying visions, therefore, for certain I am coming at you—oracle of the Lord G OD. ^ezekiel-13-8
+8 Therefore thus says the Lord G OD: Because you have spoken falsehood and seen lying visions, therefore, for certain I am coming at you—oracle of the Lord GOD. ^ezekiel-13-8
+
+9 My hand is against the prophets who see false visions and who make lying divinations. They shall not belong to the community of my people. They shall not be written in the register of the house of Israel, nor shall they enter the land of Israel. Thus you shall know that I am the LORD. ^ezekiel-13-9
 
 10 Because they led my people astray, saying, “Peace!” when there is no peace, and when a wall is built, they cover it with whitewash, ^ezekiel-13-10
 

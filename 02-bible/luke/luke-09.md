@@ -76,7 +76,9 @@ description: Luke, Chapter 9
 
 **The Conditions of Discipleship.**
 
-24 For whoever wishes to save his life will lose it, but whoever loses his life for my sake will save it. ^256234 ^luke-09-24
+23 Then he said to all, “If anyone wishes to come after me, he must deny himself and take up his cross daily and follow me. ^luke-09-23
+
+24 For whoever wishes to save his life will lose it, but whoever loses his life for my sake will save it. ^luke-09-24
 
 25 What profit is there for one to gain the whole world yet lose or forfeit himself? ^luke-09-25
 
@@ -161,6 +163,8 @@ description: Luke, Chapter 9
 57 As they were proceeding on their journey someone said to him, “I will follow you wherever you go.” ^luke-09-57
 
 58 Jesus answered him, “Foxes have dens and birds of the sky have nests, but the Son of Man has nowhere to rest his head.” ^luke-09-58
+
+59 And to another he said, “Follow me.” But he replied, “[Lord,] let me go first and bury my father.” ^luke-09-59
 
 60 But he answered him, “Let the dead bury their dead. But you, go and proclaim the kingdom of God.” ^luke-09-60
 

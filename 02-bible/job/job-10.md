@@ -20,7 +20,7 @@ description: Job, Chapter 10
 
 ## Chapter 10
 
-I will give myself up to complaint;
+1 I will give myself up to complaint; ^job-10-1
 
 I will speak from the bitterness of my soul.
 

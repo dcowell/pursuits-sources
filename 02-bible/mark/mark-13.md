@@ -50,7 +50,7 @@ description: Mark, Chapter 13
 
 12 Brother will hand over brother to death, and the father his child; children will rise up against parents and have them put to death. ^mark-13-12
 
-13 You will be hated by all because of my name. But the one who perseveres to the end will be saved. ^beac62 ^mark-13-13
+13 You will be hated by all because of my name. But the one who perseveres to the end will be saved. ^mark-13-13
 
 **The Great Tribulation.**
 
