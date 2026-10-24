@@ -20,7 +20,7 @@ description: Psalms, Psalm 60
 
 ## Lament After Defeat in Battle
 
-1 For the leader; according to “The Lily of.â€¦” A *miktam* of David (for teaching), ^psalm-60-1
+1 For the leader; according to “The Lily of....” A *miktam* of David (for teaching), ^psalm-60-1
 
 2 when he fought against Aram-Naharaim and Aram-Zobah; and Joab, coming back, killed twelve thousand Edomites in the Valley of Salt. ^psalm-60-2
 
@@ -37,6 +37,8 @@ repair the cracks for it totters.
 5 You made your people go through hardship, ^psalm-60-5
 
 made us stagger from the wine you gave us.
+
+6 Raise up a banner for those who revere you, ^psalm-60-6
 
 a refuge for them out of bow shot.
 

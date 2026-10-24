@@ -19,41 +19,41 @@ description: Psalms, Psalm 128
 
 # Psalm 128
 
-A song of ascents.
+1 A song of ascents. ^psalm-128-1
 
 ## I
 
 Blessed are all who fear the LORD,
 
-and who walk in his ways.[a](https://bible.usccb.org/bible/psalms/128#23128001-a)
+and who walk in his ways.
 
-2What your hands provide you will enjoy;
+2 What your hands provide you will enjoy; ^psalm-128-2
 
-you will be blessed and prosper:[b](https://bible.usccb.org/bible/psalms/128#23128002-b)
+you will be blessed and prosper:
 
-3Your wife will be like a fruitful vine
+3 Your wife will be like a fruitful vine ^psalm-128-3
 
 within your home,
 
 Your children like young olive plants
 
-around your table.[c](https://bible.usccb.org/bible/psalms/128#23128003-c)
+around your table.
 
-4Just so will the man be blessed
+4 Just so will the man be blessed ^psalm-128-4
 
 who fears the LORD.
 
 ## II
 
-5May the LORD bless you from Zion;
+5 May the LORD bless you from Zion; ^psalm-128-5
 
 may you see Jerusalem’s prosperity
 
-all the days of your life,[d](https://bible.usccb.org/bible/psalms/128#23128005-d)
+all the days of your life,
 
-6and live to see your children’s children.[e](https://bible.usccb.org/bible/psalms/128#23128006-e)
+6 and live to see your children’s children. ^psalm-128-6
 
-Peace upon Israel![f](https://bible.usccb.org/bible/psalms/128#23128006-f)
+Peace upon Israel!
 
 * [[Psalm 128](https://bible.usccb.org/bible/psalms/128?0)] A statement that the ever-reliable God will bless the reverent ([Ps 128:1](https://bible.usccb.org/bible/psalms/128?1)). God’s blessing is concrete: satisfaction and prosperity, a fertile spouse and abundant children ([Ps 128:2](https://bible.usccb.org/bible/psalms/128?2)–[4](https://bible.usccb.org/bible/psalms/128?4)). The perspective is that of the adult male, ordinarily the ruler and representative of the household to the community. The last verses extend the blessing to all the people for generations to come ([Ps 128:5](https://bible.usccb.org/bible/psalms/128?5)–[6](https://bible.usccb.org/bible/psalms/128?6)).
 

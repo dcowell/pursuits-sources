@@ -52,6 +52,8 @@ See, Philistia and Tyre, with Ethiopia,
 
 The Most High will establish it;
 
+6 the LORD notes in the register of the peoples ^psalm-87-6
+
 “This one was born there.”
 
 *Selah*
